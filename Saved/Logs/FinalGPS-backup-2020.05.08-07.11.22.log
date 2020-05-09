@@ -1,0 +1,1285 @@
+﻿Log file open, 05/08/20 10:50:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalGPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.408593
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Sika_R -epicuserid=6097d1a53e3343bd84050676641ce1ee -epiclocale=zh-CN
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Engine.ini]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.05.08-02.50.37:543][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Engine.ini]
+[2020.05.08-02.50.37:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Engine.ini]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.08-02.50.37:544][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Engine.ini]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.08-02.50.37:545][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Engine.ini]
+[2020.05.08-02.50.37:545][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Engine.ini]
+[2020.05.08-02.50.37:547][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:547][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.08-02.50.37:547][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.08-02.50.37:547][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.08-02.50.37:548][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.08-02.50.37:548][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.08-02.50.37:548][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.08-02.50.37:559][  0]LogHAL: Display: Platform has ~ 16 GB [16893935616 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.08-02.50.37:559][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.08-02.50.37:559][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.08-02.50.37:559][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Scalability.ini]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.08-02.50.37:560][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Config/Windows/Engine.ini]
+[2020.05.08-02.50.37:560][  0]LogInit: Computer: DESKTOP-7D0H28H
+[2020.05.08-02.50.37:560][  0]LogInit: User: Lu
+[2020.05.08-02.50.37:560][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.08-02.50.37:560][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.08-02.50.37:560][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2020.05.08-02.50.37:560][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.08-02.50.37:560][  0]LogMemory: Process Physical Memory: 98.44 MB used, 98.45 MB peak
+[2020.05.08-02.50.37:560][  0]LogMemory: Process Virtual Memory: 89.85 MB used, 89.85 MB peak
+[2020.05.08-02.50.37:560][  0]LogMemory: Physical Memory: 7869.66 MB used,  8241.66 MB free, 16111.31 MB total
+[2020.05.08-02.50.37:560][  0]LogMemory: Virtual Memory: 4660.61 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.08-02.50.37:609][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.08-02.50.37:609][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.08-02.50.37:781][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.08-02.50.37:898][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.08-02.50.37:898][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.08-02.50.38:183][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.08-02.50.38:183][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.08-02.50.38:276][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.05.08-02.50.38:276][  0]LogD3D11RHI:       3964/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.08-02.50.38:297][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.08-02.50.38:297][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.08-02.50.38:301][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.08-02.50.38:301][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.08-02.50.38:301][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.08-02.50.38:338][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.08-02.50.38:338][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.08-02.50.38:338][  0]LogWindows: EnumDisplayDevices:
+[2020.05.08-02.50.38:338][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.08-02.50.38:339][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.08-02.50.38:339][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.08-02.50.38:339][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.08-02.50.38:339][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.05.08-02.50.38:340][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.08-02.50.38:340][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.08-02.50.38:340][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2020.05.08-02.50.38:397][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.08-02.50.38:401][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.08-02.50.38:402][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.08-02.50.38:402][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.08-02.50.38:416][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.08-02.50.38:816][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.08-02.50.38:832][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.08-02.50.38:848][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.08-02.50.38:864][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.08-02.50.38:879][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.08-02.50.38:896][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.08-02.50.38:912][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.08-02.50.38:927][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.08-02.50.38:935][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.08-02.50.39:028][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.08-02.50.39:033][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.08-02.50.39:105][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.08-02.50.39:105][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.08-02.50.39:140][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.08-02.50.39:140][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.08-02.50.39:158][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.08-02.50.39:175][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.08-02.50.39:192][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.08-02.50.39:211][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.08-02.50.39:265][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.08-02.50.39:265][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.08-02.50.39:265][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.08-02.50.39:280][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.08-02.50.39:389][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Intermediate/Shaders/WorkingDirectory/8800/).
+[2020.05.08-02.50.39:389][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lu/AppData/Local/Temp/UnrealShaderWorkingDir/D06753204610E47D2AFD648938D5E3A7/'.
+[2020.05.08-02.50.39:391][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.08-02.50.39:391][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.08-02.50.39:391][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.08-02.50.39:952][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.08-02.50.40:010][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.08-02.50.40:010][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.08-02.50.40:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.08-02.50.40:010][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.08-02.50.40:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.08-02.50.40:010][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.08-02.50.40:023][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.08-02.50.40:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.08-02.50.40:023][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.08-02.50.40:036][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.08-02.50.40:036][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.08-02.50.40:036][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.08-02.50.40:058][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.08-02.50.40:059][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.08-02.50.40:060][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.08-02.50.40:167][  0]LogAssetRegistry: FAssetRegistry took 0.0367 seconds to start up
+[2020.05.08-02.50.40:661][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.08-02.50.40:843][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.08-02.50.40:843][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.08-02.50.40:843][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.08-02.50.40:843][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.08-02.50.40:843][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.08-02.50.40:853][  0]LogNetVersion: FinalGPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1484327005)
+[2020.05.08-02.50.41:262][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037438 seconds
+[2020.05.08-02.50.41:268][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.08-02.50.41:268][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.08-02.50.41:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.08-02.50.42:409][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.08-02.50.42:425][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.08-02.50.42:564][  0]SourceControl: Source control is disabled
+[2020.05.08-02.50.42:564][  0]SourceControl: Source control is disabled
+[2020.05.08-02.50.42:567][  0]SourceControl: Source control is disabled
+[2020.05.08-02.50.42:570][  0]SourceControl: Source control is disabled
+[2020.05.08-02.50.42:766][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.08-02.50.42:979][  0]LogOcInput: OculusInput pre-init called
+[2020.05.08-02.50.43:962][  0]LogEngine: Initializing Engine...
+[2020.05.08-02.50.43:963][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.08-02.50.43:964][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.08-02.50.44:208][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.08-02.50.44:221][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.08-02.50.44:264][  0]LogInit: XAudio2 using '耳机 (Lu的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.08-02.50.44:431][  0]LogInit: FAudioDevice initialized.
+[2020.05.08-02.50.44:432][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.08-02.50.44:480][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.08-02.50.44:481][  0]LogInit: Texture streaming: Enabled
+[2020.05.08-02.50.44:506][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.08-02.50.44:529][  0]LogInit: Transaction tracking system initialized
+[2020.05.08-02.50.44:558][  0]BlueprintLog: New page: Editor Load
+[2020.05.08-02.50.44:674][  0]LocalizationService: Localization service is disabled
+[2020.05.08-02.50.45:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Content/' took 0.01s
+[2020.05.08-02.50.45:051][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.08-02.50.45:051][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.08-02.50.45:317][  0]SourceControl: Source control is disabled
+[2020.05.08-02.50.45:317][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.08-02.50.45:318][  0]LightingResults: New page: Lighting Build
+[2020.05.08-02.50.45:320][  0]MapCheck: New page: Map Check
+[2020.05.08-02.50.45:320][  0]LightingResults: New page: Lighting Build
+[2020.05.08-02.50.45:347][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.05.08-02.50.45:461][  0]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.08-02.50.45:469][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.08-02.50.45:498][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.05.08-02.50.45:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.08-02.50.45:498][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.272ms to complete.
+[2020.05.08-02.50.45:498][  0]LogFileHelpers: Loading map 'PathFinding' took 0.180
+[2020.05.08-02.50.45:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-02.50.45:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-02.50.45:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-02.50.45:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-02.50.45:672][  0]LogCollectionManager: Loaded 0 collections in 0.001187 seconds
+[2020.05.08-02.50.45:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Collections/' took 0.01s
+[2020.05.08-02.50.45:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Developers/Lu/Collections/' took 0.01s
+[2020.05.08-02.50.45:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Collections/' took 0.01s
+[2020.05.08-02.50.45:722][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.08-02.50.45:733][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2732 classes and 659 folders.
+[2020.05.08-02.50.45:741][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.08-02.50.45:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.08-02.50.45:890][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.08-02.50.45:904][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.05.08-02.50.46:037][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.08-02.50.46:040][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.08-02.50.46:045][  0]LogSlate: Took 0.000700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.08-02.50.46:127][  0]LogRenderer: Reallocating scene render targets to support 876x400 Format 10 NumSamples 1 (Frame:1).
+[2020.05.08-02.50.46:763][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.08-02.50.46:763][  0]LogLoad: (Engine Initialization) Total time: 12.30 seconds
+[2020.05.08-02.50.46:763][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.08-02.50.46:806][  0]LogAssetRegistry: Asset discovery search completed in 6.6612 seconds
+[2020.05.08-02.50.46:809][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.08-02.50.46:809][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2020.05.08-02.50.46:809][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.08-02.50.55:650][ 82]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2020.05.08-02.51.02:740][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-02.51.03:533][263]Cmd: DELETE
+[2020.05.08-02.51.03:533][263]Cmd: ACTOR DELETE
+[2020.05.08-02.51.03:540][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.08-02.51.03:565][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.05.08-02.51.03:566][263]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.05.08-02.51.04:559][322]LogEditorViewport: Clicking Background
+[2020.05.08-02.51.06:943][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-02.51.07:076][470]LogActorFactory: Actor Factory created Cube
+[2020.05.08-02.51.07:786][511]LogActorFactory: Actor Factory created Cube
+[2020.05.08-02.51.10:518][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-02.51.27:267][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-02.52.42:476][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-02.52.44:703][250]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.08-02.52.48:928][494]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.08-02.52.48:934][494]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.08-02.54.31:023][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-02.54.31:846][110]LogSlate: Took 0.000922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.08-02.54.31:849][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-02.54.31:869][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-02.54.31:896][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.05.08-02.54.32:001][110]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFindingD7A6BFDA447145527A6F42855C577D34.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-02.54.32:020][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-02.54.32:040][110]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData456144C24FC0F36D09441F82B676A31A.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-02.55.57:026][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-02.55.57:052][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.05.08-02.55.57:136][254]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding71277C3948AB14D7AE73B3AD1B19D98C.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-02.55.57:153][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-02.55.57:169][254]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData167A47FB417516A1FA7F05AF46C4466B.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-02.56.06:076][786]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.05.08-02.56.06:439][786]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.08-02.56.07:279][786]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-02.56.07:305][786]LogSlate: Took 0.001138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.08-02.56.07:423][787]LogSlate: Took 0.000804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.08-02.56.10:382][918]LogSlate: Window 'BP_Grid' being destroyed
+[2020.05.08-02.56.48:947][228]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-02.56.48:980][229]LogRenderer: Reallocating scene render targets to support 1056x432 Format 10 NumSamples 1 (Frame:1).
+[2020.05.08-02.59.11:432][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-02.59.11:490][742]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid0972CA3A49A5C26B5BF127ACB431753B.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-02.59.11:617][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-02.59.11:672][747]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid4A12D1C64B3573FC1A4B4ABE70EE19E3.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-02.59.37:062][264]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-03.02.59:112][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.03.18:488][370]LogEditorViewport: Clicking Background
+[2020.05.08-03.03.19:017][400]LogEditorViewport: Clicking Background
+[2020.05.08-03.03.19:808][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.03.26:525][846]Cmd: TRANSACTION UNDO
+[2020.05.08-03.03.26:525][846]LogEditorTransaction: Undo Move Actors
+[2020.05.08-03.03.32:999][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-03.03.33:029][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.03.33:063][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.08-03.03.33:188][230]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFindingF0459B5A475DBC070FDE848038FDB9C3.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.03.33:206][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.03.33:223][230]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData2AC186F040EB625E5C486FA15F3F5EF5.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.03.38:346][534]MapCheck: New page: Map Check
+[2020.05.08-03.03.38:391][534]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.08-03.03.38:391][534]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.08-03.03.38:461][534]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.05.08-03.03.38:495][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.05.08-03.03.38:514][534]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.08-03.03.38:534][534]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.08-03.03.39:226][534]TextureStreamingBuild: Display: Compiling optional shaders took 0.721 seconds.
+[2020.05.08-03.03.39:235][534]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2020.05.08-03.03.39:242][534]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2020.05.08-03.03.39:269][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.08-03.03.39:275][534]LightingResults: New page: Lighting Build - May 8, 2020, 7:03:39 PM
+[2020.05.08-03.03.39:326][534]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.08-03.03.39:476][534]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.08-03.03.39:492][534]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.08-03.03.41:009][534]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.08-03.03.41:009][534]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8800
+[2020.05.08-03.03.51:998][534]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.08-03.03.51:999][534]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.08-03.03.51:999][534]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.08-03.03.51:999][534]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.08-03.03.51:999][534]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.08-03.03.51:999][534]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.08-03.03.52:149][534]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.08-03.03.52:149][534]MapCheck: New page: PathFinding - May 8, 2020, 7:03:52 PM
+[2020.05.08-03.03.52:150][534]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.05.08-03.03.52:150][534]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.655ms to complete.
+[2020.05.08-03.03.52:173][534]LogEditorBuildUtils: Build time 0:13
+[2020.05.08-03.03.52:625][534]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.05.08-03.03.52:636][534]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.05.08-03.03.52:771][535]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.05.08-03.03.52:781][535]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.05.08-03.03.53:800][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.05.08-03.03.56:549][549]Job is a success!
+[2020.05.08-03.03.56:961][550]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2020.05.08-03.03.56:961][550]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.08-03.03.56:961][550]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2020.05.08-03.03.56:961][550]LogVolumetricLightmapImport:      Bricks at Level
+[2020.05.08-03.03.56:961][550]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.05.08-03.03.56:961][550]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.05.08-03.03.56:961][550]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.05.08-03.03.56:989][550]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.05.08-03.03.56:989][550]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.05.08-03.03.56:989][550]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.05.08-03.03.56:989][550]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.05.08-03.03.56:989][550]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.05.08-03.03.56:989][550]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.05.08-03.03.57:021][550]Lightmass on DESKTOP-7D0H28H: 2.24 sec total, 118 ms importing, 29 ms setup, 690 ms photons, 881 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 9.20 sec total, 92 ms processing.
+[2020.05.08-03.03.57:028][550]LogStaticLightingSystem: PathFinding_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.05.08-03.03.57:069][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.08-03.03.57:079][550]LogStaticLightingSystem: Illumination: 17.4 sec (9 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2020.05.08-03.03.57:079][550]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.05.08-03.03.57:079][550]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.05.08-03.03.58:010][550]DumpUnbuiltLightIteractions
+[2020.05.08-03.03.58:011][550]Lights with unbuilt interactions: 0
+[2020.05.08-03.03.58:011][550]
+[2020.05.08-03.03.58:011][550]Primitives with unbuilt interactions: 0
+[2020.05.08-03.03.58:118][551]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.08-03.03.58:118][551]MapCheck: New page: PathFinding - May 8, 2020, 7:03:58 PM
+[2020.05.08-03.03.58:119][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.411ms to complete.
+[2020.05.08-03.07.16:381][258]LogSlate: Window 'Message Log' being destroyed
+[2020.05.08-03.07.16:397][258]LogSlate: Window 'Message Log' being destroyed
+[2020.05.08-03.07.48:744][198]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.07.48:759][198]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.07.48:910][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.08-03.07.48:913][198]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.07.48:922][198]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.07.49:231][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.07.49:280][214]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid7E8CDCF54DA1AA6DA8FA60A4C8FCA6B6.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.08.04:534][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-03.08.04:575][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.08.04:614][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.08-03.08.04:775][113]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFindingFE03F874465C837384D53C8DAE53D848.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.08.04:797][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.08.04:815][113]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltDataF7CBA56043ACF4807A08BB8D935F2060.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.08.16:544][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.08.20:898][ 60]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.08-03.08.21:674][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.08.26:374][385]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.08-03.08.26:392][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.08-03.08.26:393][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-03.08.26:393][385]PIE: New page: PIE session: PathFinding (May 8, 2020, 7:08:26 PM)
+[2020.05.08-03.08.26:405][385]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathFinding
+[2020.05.08-03.08.26:408][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002431s)
+[2020.05.08-03.08.26:408][385]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.08-03.08.26:409][385]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2020.05.08-03.08.26:409][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathFinding.PathFinding to /Game/Maps/UEDPIE_0_PathFinding.PathFinding (0.003532s)
+[2020.05.08-03.08.26:440][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.05.08-03.08.26:464][385]LogInit: XAudio2 using '耳机 (Lu的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.08-03.08.26:613][385]LogInit: FAudioDevice initialized.
+[2020.05.08-03.08.26:659][385]LogLoad: Game class is 'GameModeBase'
+[2020.05.08-03.08.26:661][385]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathFinding.PathFinding up for play (max tick rate 60) at 2020.05.08-11.08.26
+[2020.05.08-03.08.26:661][385]LogWorld: Bringing up level for play took: 0.000530
+[2020.05.08-03.08.26:678][385]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.05.08-03.08.26:682][385]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.05.08-03.08.26:682][385]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.08-03.08.26:683][385]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PathFinding -0.461
+[2020.05.08-03.08.26:683][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.08-03.08.27:838][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.08-03.08.27:838][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-03.08.27:867][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-03.08.27:868][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.08-03.08.27:914][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-03.08.27:941][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.05.08-03.08.27:950][440]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.05.08-03.08.34:361][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.08.36:943][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.08.36:989][966]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid7E0AAACD430CBDE9D04A6E98A6EBD0D8.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.08.38:023][ 28]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.08.38:040][ 28]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.08.38:228][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.05.08-03.08.38:231][ 28]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.08.38:236][ 28]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.08.38:526][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.08.38:576][ 42]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid75CCD0344E55744E4DC377AE995EDDFA.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.08.54:375][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.09.06:771][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.09.23:436][500]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.08-03.09.24:425][558]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.09.24:440][558]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.24:639][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.05.08-03.09.24:643][558]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.24:650][558]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.25:015][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.09.25:069][577]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid49A782BB48B9772A06A9CE84161DE062.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.09.31:099][740]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.08-03.09.31:953][791]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.09.31:968][791]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.32:123][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.05.08-03.09.32:125][791]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.32:131][791]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.32:488][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.09.32:542][809]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridD600E2324F73925DE4E8A1819A6D281B.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.09.34:824][944]Cmd: TRANSACTION UNDO
+[2020.05.08-03.09.34:824][944]LogEditorTransaction: Undo Change Color Pin Value
+[2020.05.08-03.09.34:828][944]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.35:268][967]Cmd: TRANSACTION UNDO
+[2020.05.08-03.09.35:268][967]LogEditorTransaction: Undo Change Color Pin Value
+[2020.05.08-03.09.35:272][967]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.39:332][209]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.09.39:347][209]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.39:493][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.05.08-03.09.39:495][209]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.39:502][209]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.09.39:720][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.09.39:772][219]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid9C95679B4AAB270BDCDAB49F1CAD1695.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.10.00:146][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.10.10:676][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.10.10:719][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.05.08-03.10.10:903][ 28]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding3B5F6FB144FE66D5ABC0B68C841D926A.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.10.10:923][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.10.10:943][ 28]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltDataA2D3F9524C77DDB228B5D691D85F58E6.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.12.48:431][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-03.12.48:496][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.12.48:592][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.08-03.12.49:048][436]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding26E9261041827D026C738FAB1C584A6D.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.12.49:081][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.12.49:103][436]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltDataC689BE46431168987A8F07B7136C1330.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.13.46:111][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.13.46:168][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.05.08-03.13.46:412][776]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFindingDC8960A140662EE19D1FC98E6C19F56A.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.13.46:434][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.13.46:458][776]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltDataB80D96B748F4640CF6FBC3BDED03CC1E.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.14.20:350][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.14.48:155][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.14.48:254][787]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid80E5306B4F81242503C58980EE1367B8.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.14.49:146][840]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.14.49:205][840]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.14.49:385][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.08-03.14.49:392][840]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.14.49:417][840]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.14.50:040][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.14.50:099][874]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridBEC53AD64CEE454BE1159886A4851B38.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.15.01:498][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.15.25:343][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.15.25:419][302]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid1E0FEA42491D2A037FFC769244FAED6A.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.15.26:137][344]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.15.26:152][344]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.26:305][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.05.08-03.15.26:308][344]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.26:315][344]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.26:745][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.15.26:808][367]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid441CCC354BE77F856532199EA7F87453.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.15.28:702][477]Cmd: TRANSACTION UNDO
+[2020.05.08-03.15.28:702][477]LogEditorTransaction: Undo Change Number Pin Value
+[2020.05.08-03.15.28:714][477]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.28:921][487]Cmd: TRANSACTION UNDO
+[2020.05.08-03.15.28:921][487]LogEditorTransaction: Undo Change Number Pin Value
+[2020.05.08-03.15.28:928][487]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.35:451][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.15.35:507][874]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridE77108AA4319A8B299CF54BA923CF0BE.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.15.36:430][929]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.15.36:447][929]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.36:637][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.05.08-03.15.36:640][929]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.36:648][929]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.15.36:925][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.15.36:985][943]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid5E761CA147C32BDED086B691FFD90AED.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.15.40:579][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.15.40:625][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.05.08-03.15.40:816][153]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding11B85A61438CFB9747822F969AFED617.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.15.40:835][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.15.40:857][153]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData9A0091C34D97AF4A63A195B4306D168D.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.21.16:450][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.21.16:693][973]LogRenderer: Reallocating scene render targets to support 2192x996 Format 10 NumSamples 1 (Frame:49803).
+[2020.05.08-03.21.19:182][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.21.19:350][101]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid6C3CF6484B914CD289874895777E03F7.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.21.20:330][131]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.21.20:466][131]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.21.20:943][131]LogUObjectHash: Compacting FUObjectHashTables data took  15.44ms
+[2020.05.08-03.21.20:956][131]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.21.20:991][131]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.21.21:037][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.21.21:115][131]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridBD3661C446706173263843BC5D7CD88C.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.21.21:406][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.21.21:490][141]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid3694AA3C41744D67FF7A85BE75D103DD.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.23.17:789][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.23.35:588][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.23.35:627][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.05.08-03.23.35:811][164]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding54E199AF4701BC5B5F38A7BF50936DE8.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.23.35:832][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.23.35:859][164]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData4CBF19A243AAFC5B9E9132AF79864811.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.23.42:947][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.23.43:008][585]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid30E6C3EF471263CEB831719C85697C71.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.23.43:943][641]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.23.43:960][641]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.23.44:111][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.05.08-03.23.44:114][641]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.23.44:127][641]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.23.44:349][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.23.44:401][651]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid9D8E4F6C4097BCD0E2B3F89AB5083F58.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.23.49:066][922]Cmd: TRANSACTION UNDO
+[2020.05.08-03.23.49:067][922]LogEditorTransaction: Undo Move Actors
+[2020.05.08-03.23.49:592][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-03.23.49:631][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.23.49:667][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.08-03.23.49:859][944]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFindingE63B637A439C7979B788A9B6EF5E17F6.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.23.49:874][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.23.49:893][944]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData0AB3C35B4DE1EA00EEAE7E9A94B7DC30.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.23.55:134][234]LogSlate: Took 0.007908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.08-03.23.56:507][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.23.56:552][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.08-03.23.56:721][304]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding1F0D9A524E1D9D2CC1FD528D51795953.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.23.56:739][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.23.56:758][304]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData24A6EE6244A1F52B8F99A08C54A4E82D.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.23.59:081][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.08-03.24.01:708][586]Cmd: TRANSACTION UNDO
+[2020.05.08-03.24.01:708][586]LogEditorTransaction: Undo Move Actors
+[2020.05.08-03.24.02:482][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.24.17:465][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.24.27:759][115]Cmd: TRANSACTION UNDO
+[2020.05.08-03.24.27:759][115]LogEditorTransaction: Undo Move Actors
+[2020.05.08-03.24.28:294][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-03.24.28:336][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.24.28:376][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.05.08-03.24.28:543][139]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding2ECC4E5C4A0F99EF2167128C36DA54FD.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.24.28:561][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.24.28:578][139]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltDataC732209643296243F02C16B3FD2858E7.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.24.45:556][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.24.45:622][147]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridE525DE3C46F3AC25A21C319459B32443.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.24.46:518][200]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.24.46:547][200]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.24.46:771][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.05.08-03.24.46:775][200]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.24.46:787][200]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.24.47:099][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.24.47:168][214]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid20D29AEB4B2CD9654015B0A7E118437F.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.25.17:301][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.26.04:599][460]Cmd: TRANSACTION UNDO
+[2020.05.08-03.26.04:599][460]LogEditorTransaction: Undo Move Actors
+[2020.05.08-03.26.04:945][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-03.26.05:017][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.26.05:086][470]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.05.08-03.26.05:324][470]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFindingA5627E464E5185EC5C323EAA94D74767.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.26.05:349][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.26.05:374][470]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData099BEB144C70B40EFDC3A5AB6A8D9120.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.26.51:812][125]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.26.51:840][125]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.26.52:028][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.08-03.26.52:032][125]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.26.52:041][125]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.26.52:340][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.26.52:435][138]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridE13E268144869C504A2DDC823A36398C.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.27.21:818][800]LogEditorViewport: Clicking Background
+[2020.05.08-03.27.23:647][903]LogEditorViewport: Clicking Background
+[2020.05.08-03.27.23:920][918]LogEditorViewport: Clicking Background
+[2020.05.08-03.27.25:233][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.27.25:603][ 11]LogEditorViewport: Clicking Background
+[2020.05.08-03.27.52:634][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.28.04:266][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-03.28.04:333][223]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.05.08-03.28.04:613][223]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding5D107361487E7844BBB52983A50F269C.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-03.28.04:639][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-03.28.04:668][223]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData8130613A42B492F912AAADBE30A9F271.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-03.54.59:006][405]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.03:632][675]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.06:027][808]LogSlate: Took 0.001213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.08-03.55.07:565][898]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.09:976][ 40]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.55.10:008][ 40]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.10:212][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.05.08-03.55.10:216][ 40]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.10:223][ 40]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.10:416][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.55.10:504][ 47]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid3067DF354F7BCC25B8FE3E8BD4E4238A.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.55.12:060][139]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.12:069][139]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.13:557][226]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.17:777][476]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.17:779][476]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.18:263][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.55.18:326][503]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid0091AE324E079F85CD709DAD6A3269E8.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.55.24:328][860]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-03.55.24:349][860]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.24:501][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.05.08-03.55.24:505][860]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.24:513][860]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-03.55.24:908][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-03.55.24:963][880]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridF5A693E94E7EFFB7965915A9CCD1D196.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-03.55.36:873][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.55.46:111][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.56.19:658][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-03.56.46:729][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.08-03.56.46:930][744]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_Auto1AF50349F40FAA00241D8AC8FBCB7AF45.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Autosaves/Game/Maps/PathFinding_Auto1.umap'
+[2020.05.08-03.56.46:934][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PathFinding' took 0.249
+[2020.05.08-03.56.46:934][744]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2020.05.08-04.00.19:855][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.08-04.00.58:913][838]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.00.58:921][838]BlueprintLog: New page: Collapse to Function
+[2020.05.08-04.00.58:926][838]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.00.58:932][838]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.00.58:943][838]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.00.58:953][838]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.01.08:745][422]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.01.08:759][422]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.01.09:743][479]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.01.09:755][479]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.01.47:942][765]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.01.47:957][765]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.02.04:538][667]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-04.02.04:559][667]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.02.04:722][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.08-04.02.04:725][667]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.02.04:734][667]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.02.05:082][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.02.05:141][686]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridAC7D018843DB0CD59BF1EB9AAD57DF61.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.02.23:543][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.02.23:605][698]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid30FC070C47830791BD6836BA327C19EC.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.02.36:388][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.02.36:445][463]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid5BE67B274665CEA371196FA5016FD20F.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.02.42:372][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.02.42:436][816]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridEA44BAC440D6C57E6C727897E44875B5.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.05.05:047][575]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.07:193][703]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-04.05.07:214][703]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.07:374][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.05.08-04.05.07:379][703]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.07:385][703]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.07:636][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.05.07:690][716]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridD38C10CD4D916436A8F4C7B92BDA86B7.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.05.25:100][760]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.25:108][760]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.26:185][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.05.26:238][822]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid6E50C6794B811AB9207CABA86D95E2AA.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.05.28:243][941]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-04.05.28:253][941]LogBlueprint: Error: [Compiler BP_Grid] In use pin  Return Value 2  no longer exists on node  My Sphere Trace . Please refresh node or break links to remove pin.
+[2020.05.08-04.05.28:467][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.08-04.05.28:472][941]LogBlueprint: Warning: [Compiler BP_Grid] [4494.01] Compile of BP_Grid failed. 1 Fatal Issue(s) 0 Warning(s) [in 229 ms] (/Game/Blueprints/Grid/BP_Grid.BP_Grid)
+[2020.05.08-04.05.28:711][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.05.28:770][953]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridF8B6C8334B08CD2396A318B5A48D219E.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.05.44:265][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.05.44:319][874]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid235D12EA4BCFDDDADFBFF0ABDF4C79F3.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.05.44:657][894]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-04.05.44:677][894]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.44:856][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.05.08-04.05.44:860][894]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.44:868][894]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.05.45:478][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.05.45:532][928]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid8E99D3484AB618A0148BDFB1013CD36C.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.06.42:410][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.06.42:481][338]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridD262B02D40FFD2F2B1A3018462708266.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.06.44:252][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.08-04.06.44:291][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.05.08-04.06.44:471][441]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding28A6289C490D7EEA10D707A336E0A5E0.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding.umap'
+[2020.05.08-04.06.44:489][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.08-04.06.44:513][441]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_BuiltData2B4559A747B843CE21928CA9FB082537.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.08-04.07.29:908][162]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.07.29:920][162]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.08.09:486][531]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.08.09:492][531]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.08.25:143][469]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-04.08.25:164][469]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.08.25:319][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.05.08-04.08.25:321][469]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.08.25:327][469]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.08.25:649][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.08.25:702][486]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridE657A8F045FC4B992F1318BD2BC76F33.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.10.48:813][ 69]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-04.10.48:838][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.10.48:998][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.05.08-04.10.49:001][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.10.49:014][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.10.49:329][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.10.49:387][ 84]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridEFCD18E24985BDC0D815D3981B5A290C.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.10.57:057][542]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.10.57:072][542]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.11.14:922][611]BlueprintLog: New page: Compile BP_Grid
+[2020.05.08-04.11.14:941][611]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.11.15:104][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.05.08-04.11.15:107][611]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.11.15:115][611]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.08-04.11.15:316][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.08-04.11.15:369][620]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_GridC62EFCAE4C1C1E4E66378084AADF401A.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.08-04.16.44:502][351]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.05.08-04.16.44:751][351]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_Auto2F759F23C4AE128379D70848E2F467386.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Autosaves/Game/Maps/PathFinding_Auto2.umap'
+[2020.05.08-04.16.44:756][351]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PathFinding' took 0.322
+[2020.05.08-04.16.44:756][351]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.322
+[2020.05.08-04.26.12:888][420]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8c1223b6-2ec9-45e3-974a-4618adf654cc} was removed. Shutting down audio device.
+[2020.05.08-04.26.13:011][420]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.08-04.26.13:873][421]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.08-04.31.11:224][248]Cmd: TRANSACTION UNDO
+[2020.05.08-04.31.11:224][248]LogEditorTransaction: Undo Move Actors
+[2020.05.08-04.31.37:576][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.08-04.31.37:639][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.08-04.31.37:801][811]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/PathFinding_Auto385069F0547F490CEE5DFE1A7A5886355.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Autosaves/Game/Maps/PathFinding_Auto3.umap'
+[2020.05.08-04.31.37:803][811]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PathFinding' took 0.198
+[2020.05.08-04.31.37:803][811]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.198
+[2020.05.08-04.41.38:030][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.05.08-04.41.38:030][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PathFinding' took 0.043
+[2020.05.08-04.41.38:036][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.05.08-04.41.38:036][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.05.08-04.41.38:210][333]LogSavePackage: Moving '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/BP_Grid_Auto4095B2A8F4A162120563FA283DE5644A8.tmp' to '../../../../../../Users/Lu/Documents/Unreal Projects/FinalGPS/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto4.uasset'
+[2020.05.08-04.41.38:212][333]LogFileHelpers: Auto-saving content packages took 0.181
+[2020.05.08-05.26.13:505][  5]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.08-05.26.13:505][  5]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.08-05.26.13:929][  7]LogHttp: Warning: 000001A77E6834C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-05.26.13:929][  7]LogHttp: Warning: 000001A77E6834C0: libcurl info message cache 0 (Connection 60 seems to be dead!)
+[2020.05.08-05.26.13:929][  7]LogHttp: Warning: 000001A77E6834C0: libcurl info message cache 1 (Closing connection 60)
+[2020.05.08-05.26.13:929][  7]LogHttp: Warning: 000001A77E6834C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.08-05.26.13:929][  7]LogHttp: Warning: 000001A77E6834C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-05.26.13:930][  7]LogHttp: Warning: 000001A77E6834C0: libcurl info message cache 4 (Closing connection 61)
+[2020.05.08-05.26.14:251][  8]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-05.26.46:781][ 21]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (33.276 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.08-05.30.20:250][822]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.08-05.30.20:492][823]LogInit: XAudio2 using '耳机 (Lu的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.08-06.27.47:139][619]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.27.47:139][619]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Connection 79 seems to be dead!)
+[2020.05.08-06.27.47:139][619]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 79)
+[2020.05.08-06.27.47:140][619]LogHttp: Warning: 000001A77E682980: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.27.47:140][619]LogHttp: Warning: 000001A77E682980: libcurl info message cache 3 (Closing connection 80)
+[2020.05.08-06.27.47:473][620]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.29.47:991][980]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.29.47:992][980]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.29.47:992][980]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 81)
+[2020.05.08-06.29.47:992][980]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.31.48:494][340]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.31.48:495][340]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.31.48:495][340]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 82)
+[2020.05.08-06.31.48:495][340]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.33.48:872][700]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.33.48:872][700]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.33.48:872][700]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 83)
+[2020.05.08-06.33.48:872][700]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.35.49:519][ 60]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.35.49:519][ 60]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.35.49:519][ 60]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 84)
+[2020.05.08-06.35.49:519][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.37.49:987][420]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.37.49:988][420]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.37.49:988][420]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 85)
+[2020.05.08-06.37.49:988][420]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.39.50:502][780]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.39.50:503][780]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.39.50:503][780]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 86)
+[2020.05.08-06.39.50:503][780]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.41.51:027][140]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.41.51:028][140]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.41.51:028][140]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 87)
+[2020.05.08-06.41.51:028][140]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.43.51:512][500]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.43.51:512][500]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.43.51:512][500]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 88)
+[2020.05.08-06.43.51:512][500]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.45.51:952][860]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.45.51:952][860]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.45.51:952][860]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 89)
+[2020.05.08-06.45.51:952][860]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.47.52:443][220]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.47.52:443][220]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.47.52:443][220]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 90)
+[2020.05.08-06.47.52:444][220]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.49.52:984][580]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.49.52:984][580]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.49.52:984][580]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 91)
+[2020.05.08-06.49.52:985][580]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.51.53:478][940]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.51.53:478][940]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.51.53:478][940]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 92)
+[2020.05.08-06.51.53:478][940]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.53.53:978][300]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.53.53:978][300]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.53.53:978][300]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 93)
+[2020.05.08-06.53.53:979][300]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.55.54:393][660]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.55.54:394][660]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.55.54:394][660]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 94)
+[2020.05.08-06.55.54:394][660]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.57.54:954][ 20]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.57.54:955][ 20]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.57.54:955][ 20]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 95)
+[2020.05.08-06.57.54:955][ 20]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-06.59.55:481][380]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-06.59.55:481][380]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-06.59.55:481][380]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 96)
+[2020.05.08-06.59.55:481][380]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-07.01.55:991][740]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-07.01.55:991][740]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-07.01.55:991][740]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 97)
+[2020.05.08-07.01.55:991][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-07.03.56:552][100]LogHttp: Warning: 000001A77E682980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-07.03.56:552][100]LogHttp: Warning: 000001A77E682980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-07.03.56:552][100]LogHttp: Warning: 000001A77E682980: libcurl info message cache 1 (Closing connection 98)
+[2020.05.08-07.03.56:552][100]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-07.10.56:336][441]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8c1223b6-2ec9-45e3-974a-4618adf654cc} was removed. Shutting down audio device.
+[2020.05.08-07.10.56:336][441]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.08-07.10.56:336][441]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.08-07.10.56:336][441]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.08-07.10.56:336][441]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.08-07.10.56:948][441]LogInit: XAudio2 using '耳机 (Lu的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.08-07.10.57:677][444]LogHttp: Warning: 000001A77E682AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.08-07.10.57:677][444]LogHttp: Warning: 000001A77E682AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.08-07.10.57:677][444]LogHttp: Warning: 000001A77E682AC0: libcurl info message cache 1 (Closing connection 99)
+[2020.05.08-07.10.57:677][444]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DD517E3-4B53-626E-B8E7-848040F8DFFD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.08-07.11.18:358][910]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:296 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.05.08-07.11.18:359][910]LogD3D11RHI: [Aftermath] GDynamicRHI=0000019FA185A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.05.08-07.11.18:359][910]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2020.05.08-07.11.22:235][910]LogThreadingWindows: Error: Runnable thread RenderThread 5 crashed.
+[2020.05.08-07.11.22:235][910]LogWindows: Error: === Critical error: ===
+[2020.05.08-07.11.22:236][910]LogWindows: Error: 
+[2020.05.08-07.11.22:236][910]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 198] 
+[2020.05.08-07.11.22:236][910]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2020.05.08-07.11.22:236][910]LogWindows: Error: 
+[2020.05.08-07.11.22:236][910]LogWindows: Error: 
+[2020.05.08-07.11.22:236][910]LogWindows: Error: Unhandled Exception: 0x00008000
+[2020.05.08-07.11.22:236][910]LogWindows: Error: 
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffca3b3a799 KERNELBASE.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc1bb53667 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc1bb546e0 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc1b967d1a UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc1b8efe33 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc1b8efd18 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc00b12a23 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc00b1629e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc00af1228 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc00b048ad UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc8cfce8e0 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc8cfce4c4 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc8cfcf444 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc8cfc6bb4 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc008c769b UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.05.08-07.11.22:236][910]LogWindows: Error: [Callstack] 0x00007ffc008ce220 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffc1b7722d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffc1b772563 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffc8d3759f1 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffc8d37c184 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffc1bb64b3f UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffc1bb608a7 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffca63f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: [Callstack] 0x00007ffca6a0ce51 ntdll.dll!UnknownFunction []
+[2020.05.08-07.11.22:237][910]LogWindows: Error: 
+[2020.05.08-07.11.22:237][910]LogWindows: Error: Crash in runnable thread RenderThread 5
+[2020.05.08-07.11.22:248][910]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.08-07.11.22:249][910]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2020.05.08-07.11.22:249][910]LogWindows: Error: HandleError re-entered.
+[2020.05.08-07.11.22:249][910]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.05.08-07.11.22:260][910]Log file closed, 05/08/20 15:11:22
