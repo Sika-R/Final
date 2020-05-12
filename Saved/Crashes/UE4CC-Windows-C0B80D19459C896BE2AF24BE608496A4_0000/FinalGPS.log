@@ -1,0 +1,972 @@
+﻿Log file open, 05/13/20 00:45:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalGPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.726254
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Sika_R -epicuserid=6097d1a53e3343bd84050676641ce1ee -epiclocale=zh-CN
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.12-16.45.46:829][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.12-16.45.46:829][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.05.12-16.45.46:830][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.05.12-16.45.46:831][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.05.12-16.45.46:832][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.12-16.45.46:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.12-16.45.46:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.12-16.45.46:833][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.12-16.45.46:841][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.12-16.45.46:841][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.12-16.45.46:842][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.12-16.45.46:843][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.12-16.45.46:843][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.12-16.45.46:860][  0]LogHAL: Display: Platform has ~ 16 GB [16893935616 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.12-16.45.46:861][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.12-16.45.46:861][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.12-16.45.46:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.12-16.45.46:862][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:862][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.05.12-16.45.46:863][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.12-16.45.46:864][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.12-16.45.46:864][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.12-16.45.46:864][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.12-16.45.46:864][  0]LogInit: Computer: DESKTOP-7D0H28H
+[2020.05.12-16.45.46:864][  0]LogInit: User: Lu
+[2020.05.12-16.45.46:864][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.12-16.45.46:864][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.12-16.45.46:865][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2020.05.12-16.45.46:865][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.12-16.45.46:865][  0]LogMemory: Process Physical Memory: 98.25 MB used, 98.25 MB peak
+[2020.05.12-16.45.46:865][  0]LogMemory: Process Virtual Memory: 90.08 MB used, 90.08 MB peak
+[2020.05.12-16.45.46:865][  0]LogMemory: Physical Memory: 5904.13 MB used,  10207.19 MB free, 16111.31 MB total
+[2020.05.12-16.45.46:865][  0]LogMemory: Virtual Memory: 4660.61 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.12-16.45.46:983][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.12-16.45.46:983][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.12-16.45.47:276][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.12-16.45.47:382][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.12-16.45.47:382][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.12-16.45.47:893][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.12-16.45.47:893][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.12-16.45.48:123][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.05.12-16.45.48:123][  0]LogD3D11RHI:       3964/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.12-16.45.48:169][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.12-16.45.48:169][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.12-16.45.48:184][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.12-16.45.48:184][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.12-16.45.48:184][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.12-16.45.48:194][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.12-16.45.48:194][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.12-16.45.48:194][  0]LogWindows: EnumDisplayDevices:
+[2020.05.12-16.45.48:195][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.12-16.45.48:195][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.12-16.45.48:196][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.12-16.45.48:196][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.12-16.45.48:196][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.05.12-16.45.48:196][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.12-16.45.48:196][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.12-16.45.48:196][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2020.05.12-16.45.48:263][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.12-16.45.48:273][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.12-16.45.48:274][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.12-16.45.48:274][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.12-16.45.48:291][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.12-16.45.49:158][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.12-16.45.49:185][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.12-16.45.49:209][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.12-16.45.49:231][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.12-16.45.49:259][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.12-16.45.49:292][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.12-16.45.49:323][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.12-16.45.49:355][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.12-16.45.49:375][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.12-16.45.49:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.12-16.45.49:593][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.12-16.45.49:693][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.12-16.45.49:693][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.12-16.45.49:738][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.12-16.45.49:738][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.12-16.45.49:761][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.12-16.45.49:788][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.12-16.45.49:809][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.12-16.45.49:830][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.12-16.45.49:899][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.12-16.45.49:899][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.12-16.45.49:899][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.12-16.45.49:916][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.12-16.45.50:032][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../../../课程/Final/Intermediate/Shaders/WorkingDirectory/32940/).
+[2020.05.12-16.45.50:033][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lu/AppData/Local/Temp/UnrealShaderWorkingDir/CC61222448DA5AF7E3A1F7AD4739E5AC/'.
+[2020.05.12-16.45.50:036][  0]LogXGEController: Cleaning working directory: C:/Users/Lu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.12-16.45.50:037][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.12-16.45.50:037][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.12-16.45.50:037][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.12-16.45.50:845][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.12-16.45.50:920][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.12-16.45.50:920][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.12-16.45.50:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../课程/Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.12-16.45.50:920][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.12-16.45.50:920][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../课程/Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.12-16.45.50:920][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.12-16.45.50:935][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.12-16.45.50:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.12-16.45.50:935][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.12-16.45.50:948][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.12-16.45.50:948][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.12-16.45.50:948][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.12-16.45.50:972][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.12-16.45.50:978][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.12-16.45.50:980][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.12-16.45.51:121][  0]LogAssetRegistry: FAssetRegistry took 0.0434 seconds to start up
+[2020.05.12-16.45.51:623][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.12-16.45.51:853][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.12-16.45.51:853][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.12-16.45.51:853][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.12-16.45.51:853][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.12-16.45.51:854][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.12-16.45.51:888][  0]LogNetVersion: FinalGPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1484327005)
+[2020.05.12-16.45.52:517][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036211 seconds
+[2020.05.12-16.45.52:523][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.12-16.45.52:523][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.12-16.45.52:523][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.12-16.45.54:472][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.12-16.45.54:487][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.12-16.45.54:651][  0]SourceControl: Source control is disabled
+[2020.05.12-16.45.54:651][  0]SourceControl: Source control is disabled
+[2020.05.12-16.45.54:660][  0]SourceControl: Source control is disabled
+[2020.05.12-16.45.54:665][  0]SourceControl: Source control is disabled
+[2020.05.12-16.45.54:885][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.12-16.45.55:074][  0]LogOcInput: OculusInput pre-init called
+[2020.05.12-16.45.56:240][  0]LogEngine: Initializing Engine...
+[2020.05.12-16.45.56:243][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.12-16.45.56:245][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.05.12-16.45.56:477][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.12-16.45.56:514][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.12-16.45.56:548][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-16.45.56:645][  0]LogInit: FAudioDevice initialized.
+[2020.05.12-16.45.56:645][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.12-16.45.56:693][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.12-16.45.56:696][  0]LogInit: Texture streaming: Enabled
+[2020.05.12-16.45.56:724][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.12-16.45.56:724][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={7188BE8D-4CAB-F51C-91C1-E19D61F4E4B2}
+[2020.05.12-16.45.56:757][  0]LogInit: Transaction tracking system initialized
+[2020.05.12-16.45.56:805][  0]BlueprintLog: New page: Editor Load
+[2020.05.12-16.45.56:981][  0]LocalizationService: Localization service is disabled
+[2020.05.12-16.45.57:459][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/' took 0.01s
+[2020.05.12-16.45.57:460][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.12-16.45.57:460][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.12-16.45.57:795][  0]SourceControl: Source control is disabled
+[2020.05.12-16.45.57:796][  0]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.12-16.45.57:798][  0]LightingResults: New page: Lighting Build
+[2020.05.12-16.45.57:804][  0]MapCheck: New page: Map Check
+[2020.05.12-16.45.57:804][  0]LightingResults: New page: Lighting Build
+[2020.05.12-16.45.57:834][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.05.12-16.45.58:263][  0]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.12-16.45.58:292][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.12-16.45.58:323][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.05.12-16.45.58:323][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.12-16.45.58:323][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2020.05.12-16.45.58:323][  0]LogFileHelpers: Loading map 'PathFinding' took 0.527
+[2020.05.12-16.45.58:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.45.58:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.45.58:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.45.58:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.45.58:505][  0]LogCollectionManager: Loaded 0 collections in 0.002033 seconds
+[2020.05.12-16.45.58:554][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Saved/Collections/' took 0.01s
+[2020.05.12-16.45.58:554][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Developers/Lu/Collections/' took 0.01s
+[2020.05.12-16.45.58:554][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Collections/' took 0.01s
+[2020.05.12-16.45.58:554][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.12-16.45.58:563][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2732 classes and 659 folders.
+[2020.05.12-16.45.58:574][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.12-16.45.58:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:606][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.12-16.45.58:748][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.12-16.45.58:759][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.12-16.45.58:882][  0]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.12-16.45.58:885][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.12-16.45.58:891][  0]LogSlate: Took 0.000849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.12-16.45.58:968][  0]LogRenderer: Reallocating scene render targets to support 876x400 Format 9 NumSamples 1 (Frame:1).
+[2020.05.12-16.45.59:154][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.12-16.45.59:154][  0]LogLoad: (Engine Initialization) Total time: 17.11 seconds
+[2020.05.12-16.45.59:154][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.12-16.45.59:359][  0]LogAssetRegistry: Asset discovery search completed in 8.2608 seconds
+[2020.05.12-16.45.59:362][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.12-16.45.59:362][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2020.05.12-16.45.59:364][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.05.12-16.46.00:526][  4]LogSlate: Took 0.000742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.12-16.46.06:226][ 22]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2020.05.12-16.47.20:103][249]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-16.47.20:316][250]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-16.47.22:456][366]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-16.47.22:595][367]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-16.48.06:815][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.12-16.48.06:912][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.12-16.48.06:922][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.48.06:923][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-16.48.06:924][ 21]PIE: New page: PIE session: PathFinding (May 13, 2020, 8:48:06 AM)
+[2020.05.12-16.48.06:940][ 21]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathFinding
+[2020.05.12-16.48.06:945][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004866s)
+[2020.05.12-16.48.06:946][ 21]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.12-16.48.06:946][ 21]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2020.05.12-16.48.06:946][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathFinding.PathFinding to /Game/Maps/UEDPIE_0_PathFinding.PathFinding (0.005905s)
+[2020.05.12-16.48.06:971][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.05.12-16.48.06:983][ 21]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-16.48.07:073][ 21]LogInit: FAudioDevice initialized.
+[2020.05.12-16.48.07:125][ 21]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.12-16.48.07:129][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathFinding.PathFinding up for play (max tick rate 60) at 2020.05.13-00.48.07
+[2020.05.12-16.48.07:134][ 21]LogWorld: Bringing up level for play took: 0.005902
+[2020.05.12-16.48.07:155][ 21]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.12-16.48.07:199][ 21]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PathFinding 1.083
+[2020.05.12-16.48.07:200][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.48.09:116][ 95]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-16.48.11:048][173]LogBlueprintUserMessages: [BP_Unit_2] Deselected
+[2020.05.12-16.48.11:049][173]LogBlueprintUserMessages: [BP_Unit2_2] Selected
+[2020.05.12-16.48.13:528][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.12-16.48.13:636][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.48.13:637][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.48.13:694][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-16.48.13:695][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.48.13:726][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.48.13:737][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.05.12-16.48.13:746][280]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.05.12-16.48.14:579][329]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.12-16.48.14:586][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.48.14:586][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-16.48.14:587][329]PIE: New page: PIE session: PathFinding (May 13, 2020, 8:48:14 AM)
+[2020.05.12-16.48.14:587][329]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathFinding
+[2020.05.12-16.48.14:592][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005402s)
+[2020.05.12-16.48.14:593][329]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.12-16.48.14:593][329]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2020.05.12-16.48.14:593][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathFinding.PathFinding to /Game/Maps/UEDPIE_0_PathFinding.PathFinding (0.006240s)
+[2020.05.12-16.48.14:618][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.05.12-16.48.14:627][329]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-16.48.14:713][329]LogInit: FAudioDevice initialized.
+[2020.05.12-16.48.14:741][329]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.12-16.48.14:743][329]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathFinding.PathFinding up for play (max tick rate 60) at 2020.05.13-00.48.14
+[2020.05.12-16.48.14:743][329]LogWorld: Bringing up level for play took: 0.001010
+[2020.05.12-16.48.14:793][329]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PathFinding 0.676
+[2020.05.12-16.48.14:793][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.48.15:286][348]LogScript: Warning: Accessed None trying to read property playerController
+	BP_Unit_C /Game/Maps/UEDPIE_0_PathFinding.PathFinding:PersistentLevel.BP_Unit_2
+	Function /Game/Blueprints/Controller/BP_Unit.BP_Unit_C:ExecuteUbergraph_BP_Unit:048C
+[2020.05.12-16.48.15:286][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property playerController". Blueprint:  BP_Unit Function:  Execute Ubergraph BP Unit Graph:  EventGraph Node:  Branch
+[2020.05.12-16.48.15:286][348]LogScript: Warning: Accessed None trying to read property playerController
+	BP_Unit_C /Game/Maps/UEDPIE_0_PathFinding.PathFinding:PersistentLevel.BP_Unit_2
+	Function /Game/Blueprints/Controller/BP_Unit.BP_Unit_C:ExecuteUbergraph_BP_Unit:04BF
+[2020.05.12-16.48.15:286][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property playerController". Blueprint:  BP_Unit Function:  Execute Ubergraph BP Unit Graph:  EventGraph Node:  Event New Unit Selected
+[2020.05.12-16.48.15:286][348]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-16.48.16:975][416]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-16.48.20:532][558]LogBlueprintUserMessages: [BP_Unit_2] Deselected
+[2020.05.12-16.48.20:532][558]LogBlueprintUserMessages: [BP_Unit2_2] Selected
+[2020.05.12-16.54.29:460][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.12-16.54.29:586][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.54.29:587][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.54.29:640][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-16.54.29:641][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-16.54.29:678][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-16.54.29:690][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.05.12-16.54.29:798][201]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.05.12-16.54.35:969][393]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Controller/BP_Unit.BP_Unit
+[2020.05.12-16.54.36:415][393]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.05.12-16.54.37:400][393]LogSlate: Took 0.002002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.12-16.54.37:553][394]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.12-17.02.31:536][554]LogRenderer: Reallocating scene render targets to support 1008x432 Format 9 NumSamples 1 (Frame:1).
+[2020.05.12-17.02.33:974][657]LogSlate: Window 'BP_Unit' being destroyed
+[2020.05.12-17.02.42:228][150]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-17.02.42:237][150]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-17.02.49:833][606]BlueprintLog: New page: Compile BP_Unit
+[2020.05.12-17.02.50:024][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.12-17.02.50:346][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.12-17.02.50:617][616]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit0C7CA22944BD1FBF00A61386D0CB05CB.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.12-17.02.51:453][665]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.12-17.02.51:472][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.02.51:472][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-17.02.51:472][665]PIE: New page: PIE session: PathFinding (May 13, 2020, 9:02:51 AM)
+[2020.05.12-17.02.51:472][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathFinding
+[2020.05.12-17.02.51:477][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004178s)
+[2020.05.12-17.02.51:477][665]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.12-17.02.51:477][665]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2020.05.12-17.02.51:477][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathFinding.PathFinding to /Game/Maps/UEDPIE_0_PathFinding.PathFinding (0.004864s)
+[2020.05.12-17.02.51:507][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.12-17.02.51:516][665]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-17.02.51:602][665]LogInit: FAudioDevice initialized.
+[2020.05.12-17.02.51:636][665]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.12-17.02.51:641][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathFinding.PathFinding up for play (max tick rate 60) at 2020.05.13-01.02.51
+[2020.05.12-17.02.51:642][665]LogWorld: Bringing up level for play took: 0.003565
+[2020.05.12-17.02.51:694][665]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PathFinding -0.423
+[2020.05.12-17.02.51:694][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.02.52:467][694]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.02.55:689][821]LogBlueprintUserMessages: [BP_Unit_2] Deselected
+[2020.05.12-17.02.55:690][821]LogBlueprintUserMessages: [BP_Unit2_2] Selected
+[2020.05.12-17.02.57:799][904]LogBlueprintUserMessages: [BP_Unit2_2] Deselected
+[2020.05.12-17.02.57:799][904]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.02.59:684][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.12-17.02.59:794][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.02.59:795][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.02.59:851][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-17.02.59:851][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.02.59:886][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.02.59:895][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.05.12-17.02.59:903][983]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.12-17.03.13:750][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.05.12-17.03.14:569][769]LogSlate: Window 'Save Content' being destroyed
+[2020.05.12-17.03.14:603][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-17.03.14:631][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.12-17.03.14:925][769]LogSavePackage: Moving '../../../../../../课程/Final/Saved/PathFinding576139E94DB8FE9DB2C9C88205DBE25E.tmp' to '../../../../../../课程/Final/Content/Maps/PathFinding.umap'
+[2020.05.12-17.03.14:943][769]LogFileHelpers: Saving map 'PathFinding' took 0.340
+[2020.05.12-17.03.39:423][194]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.05.12-17.03.39:816][194]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.04.04:363][658]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.12-17.04.04:377][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.04.04:377][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-17.04.04:377][658]PIE: New page: PIE session: PathFinding (May 13, 2020, 9:04:04 AM)
+[2020.05.12-17.04.04:377][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathFinding
+[2020.05.12-17.04.04:383][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005422s)
+[2020.05.12-17.04.04:383][658]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.12-17.04.04:383][658]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2020.05.12-17.04.04:383][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathFinding.PathFinding to /Game/Maps/UEDPIE_0_PathFinding.PathFinding (0.006225s)
+[2020.05.12-17.04.04:421][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.05.12-17.04.04:434][658]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-17.04.04:535][658]LogInit: FAudioDevice initialized.
+[2020.05.12-17.04.04:568][658]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.12-17.04.04:570][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathFinding.PathFinding up for play (max tick rate 60) at 2020.05.13-01.04.04
+[2020.05.12-17.04.04:570][658]LogWorld: Bringing up level for play took: 0.001336
+[2020.05.12-17.04.04:638][658]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PathFinding 0.522
+[2020.05.12-17.04.04:638][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.04.05:245][675]LogScript: Warning: Accessed None trying to read property playerController
+	BP_Unit_C /Game/Maps/UEDPIE_0_PathFinding.PathFinding:PersistentLevel.BP_Unit_2
+	Function /Game/Blueprints/Controller/BP_Unit.BP_Unit_C:ExecuteUbergraph_BP_Unit:048C
+[2020.05.12-17.04.05:245][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property playerController". Blueprint:  BP_Unit Function:  Execute Ubergraph BP Unit Graph:  EventGraph Node:  Branch
+[2020.05.12-17.04.05:245][675]LogScript: Warning: Accessed None trying to read property playerController
+	BP_Unit_C /Game/Maps/UEDPIE_0_PathFinding.PathFinding:PersistentLevel.BP_Unit_2
+	Function /Game/Blueprints/Controller/BP_Unit.BP_Unit_C:ExecuteUbergraph_BP_Unit:04BF
+[2020.05.12-17.04.05:245][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property playerController". Blueprint:  BP_Unit Function:  Execute Ubergraph BP Unit Graph:  EventGraph Node:  Event New Unit Selected
+[2020.05.12-17.04.05:245][675]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.04.06:497][717]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.04.07:790][759]LogBlueprintUserMessages: [BP_Unit_2] Deselected
+[2020.05.12-17.04.07:790][759]LogBlueprintUserMessages: [BP_Unit2_2] Selected
+[2020.05.12-17.04.09:310][810]LogBlueprintUserMessages: [BP_Unit2_2] Deselected
+[2020.05.12-17.04.09:310][810]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.04.22:249][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.12-17.04.22:308][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.04.22:308][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.04.22:388][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-17.04.22:389][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.04.22:430][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.04.22:440][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.05.12-17.04.22:495][282]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.12-17.04.35:967][ 25]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-17.04.35:976][ 25]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-17.05.12:319][108]LogInit: XAudio2 using '耳机 (Lu的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.12-17.05.14:145][113]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8c1223b6-2ec9-45e3-974a-4618adf654cc} was removed. Shutting down audio device.
+[2020.05.12-17.05.14:145][113]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-17.05.14:475][114]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-17.06.37:444][246]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.06.45:860][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.12-17.06.46:345][726]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridEA426E6E49EA07E6204348AE8402FC6F.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.12-17.06.48:941][876]BlueprintLog: New page: Compile BP_Grid
+[2020.05.12-17.06.49:061][876]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.06.49:235][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.05.12-17.06.49:241][876]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.06.49:268][876]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.06.49:455][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.12-17.06.49:915][877]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridF03352194E8FC1F5FBABB4ABB94D50D4.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.12-17.06.50:859][931]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.12-17.06.50:891][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.06.50:891][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-17.06.50:891][931]PIE: New page: PIE session: PathFinding (May 13, 2020, 9:06:50 AM)
+[2020.05.12-17.06.50:891][931]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathFinding
+[2020.05.12-17.06.50:897][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006526s)
+[2020.05.12-17.06.50:898][931]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.12-17.06.50:898][931]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2020.05.12-17.06.50:898][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathFinding.PathFinding to /Game/Maps/UEDPIE_0_PathFinding.PathFinding (0.007267s)
+[2020.05.12-17.06.50:943][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.05.12-17.06.50:955][931]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-17.06.51:064][931]LogInit: FAudioDevice initialized.
+[2020.05.12-17.06.51:090][931]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.12-17.06.51:092][931]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathFinding.PathFinding up for play (max tick rate 60) at 2020.05.13-01.06.51
+[2020.05.12-17.06.51:093][931]LogWorld: Bringing up level for play took: 0.001671
+[2020.05.12-17.06.51:158][931]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PathFinding 1.042
+[2020.05.12-17.06.51:158][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.06.52:464][972]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.06.53:856][ 19]LogBlueprintUserMessages: [BP_Unit_2] Deselected
+[2020.05.12-17.06.55:789][ 84]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.07.01:402][273]LogBlueprintUserMessages: [BP_Unit_2] Deselected
+[2020.05.12-17.07.01:402][273]LogBlueprintUserMessages: [BP_Unit2_2] Selected
+[2020.05.12-17.07.02:270][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.12-17.07.02:331][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.07.02:332][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.07.02:405][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-17.07.02:405][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.07.02:448][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.07.02:463][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.05.12-17.07.02:478][305]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.12-17.07.06:440][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.12-17.07.06:958][527]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid9D7318B34DCBB351379DA4AAF3AF7E09.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.12-17.07.31:512][976]LogEditorTransaction: Undo Create Pin Link
+[2020.05.12-17.07.31:902][999]LogEditorTransaction: Undo Create Pin Link
+[2020.05.12-17.07.35:891][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.12-17.07.36:373][224]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridB3466AD54CBA1D5E98C98FAC42F8E4AB.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.12-17.07.44:536][710]BlueprintLog: New page: Compile BP_Grid
+[2020.05.12-17.07.44:626][710]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.07.44:802][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.12-17.07.44:807][710]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.07.44:832][710]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.07.45:186][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.12-17.07.45:732][724]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid0069A2704016DD5FA13929AC44903C63.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.12-17.12.09:925][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.05.12-17.12.10:756][106]LogSlate: Window 'Save Content' being destroyed
+[2020.05.12-17.12.10:788][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-17.12.10:819][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.12-17.12.11:090][106]LogSavePackage: Moving '../../../../../../课程/Final/Saved/PathFinding72A729944573727A483DA08A136FA13F.tmp' to '../../../../../../课程/Final/Content/Maps/PathFinding.umap'
+[2020.05.12-17.12.11:106][106]LogFileHelpers: Saving map 'PathFinding' took 0.319
+[2020.05.12-17.12.15:191][345]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_GirdTile.BP_GirdTile
+[2020.05.12-17.12.50:173][417]BlueprintLog: New page: Compile BP_GirdTile
+[2020.05.12-17.12.50:365][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.12-17.12.50:376][417]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.12.50:398][417]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.12.50:657][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GirdTile" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_GirdTile.uasset" SILENT=true
+[2020.05.12-17.12.50:833][428]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GirdTile14EC68FC4CE2B0AA0836AA8DC0B95B8B.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_GirdTile.uasset'
+[2020.05.12-17.13.16:877][985]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.12-17.13.16:891][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.13.16:891][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-17.13.16:891][985]PIE: New page: PIE session: PathFinding (May 13, 2020, 9:13:16 AM)
+[2020.05.12-17.13.16:891][985]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathFinding
+[2020.05.12-17.13.16:896][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004981s)
+[2020.05.12-17.13.16:896][985]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.12-17.13.16:896][985]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2020.05.12-17.13.16:896][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathFinding.PathFinding to /Game/Maps/UEDPIE_0_PathFinding.PathFinding (0.005580s)
+[2020.05.12-17.13.16:928][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.05.12-17.13.16:938][985]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.12-17.13.17:025][985]LogInit: FAudioDevice initialized.
+[2020.05.12-17.13.17:057][985]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.12-17.13.17:058][985]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathFinding.PathFinding up for play (max tick rate 60) at 2020.05.13-01.13.17
+[2020.05.12-17.13.17:059][985]LogWorld: Bringing up level for play took: 0.001176
+[2020.05.12-17.13.17:114][985]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PathFinding 0.998
+[2020.05.12-17.13.17:114][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.13.18:519][ 32]LogBlueprintUserMessages: [BP_Unit_2] Selected
+[2020.05.12-17.13.32:974][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.12-17.13.33:064][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.13.33:064][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.13.33:129][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-17.13.33:129][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PathFinding.PathFinding:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding' with GeneratedClass '/Game/Maps/PathFinding.PathFinding_C' with ClassGeneratedBy '/Game/Maps/PathFinding.PathFinding:PersistentLevel.PathFinding'
+[2020.05.12-17.13.33:167][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-17.13.33:177][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.12-17.13.33:188][623]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.12-17.14.13:331][ 26]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.14.19:685][403]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.14.26:233][793]BlueprintLog: New page: Compile BP_Grid
+[2020.05.12-17.14.26:315][793]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.14.26:469][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.05.12-17.14.26:476][793]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.14.26:497][793]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.14.27:123][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.12-17.14.27:514][825]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid9F7D160E4ED1835D8BD85880F804870A.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.12-17.15.06:955][177]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.15.13:666][577]BlueprintLog: New page: Compile BP_Grid
+[2020.05.12-17.15.13:744][577]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.15.13:908][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.05.12-17.15.13:916][577]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.15.13:936][577]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.12-17.15.14:346][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.12-17.15.14:763][598]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid017F11454EA6B8AC8BB691A5A36B5DEF.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.12-17.15.29:198][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-17.15.29:232][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.05.12-17.15.29:488][459]LogSavePackage: Moving '../../../../../../课程/Final/Saved/PathFinding5556281247C29C15FF3EE0B28346678E.tmp' to '../../../../../../课程/Final/Content/Maps/PathFinding.umap'
+[2020.05.12-17.15.29:506][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/PathFinding_BuiltData.uasset" SILENT=true
+[2020.05.12-17.15.29:634][459]LogSavePackage: Moving '../../../../../../课程/Final/Saved/PathFinding_BuiltData920D433C4EEFDD41CDBFC58196FF9B5B.tmp' to '../../../../../../课程/Final/Content/Maps/PathFinding_BuiltData.uasset'
+[2020.05.12-17.15.40:688][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.12-17.15.40:887][114]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit4D6C39D548CEBBC0080D1DBED6EFAB0A.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.12-17.15.45:410][384]LogUObjectBase: Warning: Object is not registered
+[2020.05.12-17.15.45:412][384]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.12-17.15.46:454][384]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.041 s
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: 
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: Stack: 
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ffee21cc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ffee1a46fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ffee1a54e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ffedb5837f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ffeda615cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ffeda5d1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff37ed5984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff380c15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff37f1d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff37efaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff37ef0287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff3b51b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff3b50ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff3b51d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff3b50c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff51005c0d USER32.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff51005602 USER32.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff3b51e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ff7a3ba5d3e UE4Editor.exe!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ff7a3bb554c UE4Editor.exe!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ff7a3bb55ca UE4Editor.exe!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ff7a3bc316c UE4Editor.exe!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007ff7a3bc5b8e UE4Editor.exe!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff527f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: [Callstack] 0x00007fff52dace51 ntdll.dll!UnknownFunction []
+[2020.05.12-17.15.46:454][384]LogOutputDevice: Error: 
+[2020.05.12-17.15.46:457][384]LogStats:                SubmitErrorReport -  0.000 s
