@@ -1,0 +1,1554 @@
+﻿Log file open, 05/14/20 19:38:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalGPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.411088
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Sika_R -epicuserid=6097d1a53e3343bd84050676641ce1ee -epiclocale=zh-CN
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.05.14-11.38.26:839][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.05.14-11.38.26:840][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.05.14-11.38.26:841][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.05.14-11.38.26:842][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.05.14-11.38.26:843][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-11.38.26:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.14-11.38.26:844][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-11.38.26:844][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-11.38.26:847][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.14-11.38.26:847][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.14-11.38.26:848][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.14-11.38.26:848][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-11.38.26:848][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.14-11.38.26:856][  0]LogHAL: Display: Platform has ~ 16 GB [16893935616 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.14-11.38.26:856][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.14-11.38.26:856][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-11.38.26:856][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.14-11.38.26:857][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-11.38.26:857][  0]LogInit: Computer: DESKTOP-7D0H28H
+[2020.05.14-11.38.26:857][  0]LogInit: User: Lu
+[2020.05.14-11.38.26:857][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.14-11.38.26:857][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.14-11.38.26:858][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2020.05.14-11.38.26:858][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.14-11.38.26:858][  0]LogMemory: Process Physical Memory: 98.31 MB used, 98.31 MB peak
+[2020.05.14-11.38.26:858][  0]LogMemory: Process Virtual Memory: 89.98 MB used, 89.98 MB peak
+[2020.05.14-11.38.26:858][  0]LogMemory: Physical Memory: 8074.64 MB used,  8036.68 MB free, 16111.31 MB total
+[2020.05.14-11.38.26:858][  0]LogMemory: Virtual Memory: 4660.61 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.14-11.38.26:888][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.14-11.38.26:888][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.14-11.38.27:038][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.14-11.38.27:120][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.14-11.38.27:120][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.14-11.38.27:361][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-11.38.27:361][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.14-11.38.27:444][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.05.14-11.38.27:444][  0]LogD3D11RHI:       3964/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.14-11.38.27:476][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.14-11.38.27:476][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.14-11.38.27:479][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.14-11.38.27:479][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.14-11.38.27:479][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.14-11.38.27:486][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.14-11.38.27:486][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.14-11.38.27:486][  0]LogWindows: EnumDisplayDevices:
+[2020.05.14-11.38.27:487][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.14-11.38.27:487][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.14-11.38.27:487][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.14-11.38.27:488][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.14-11.38.27:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.05.14-11.38.27:488][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.14-11.38.27:488][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.14-11.38.27:488][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2020.05.14-11.38.27:542][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.14-11.38.27:544][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.14-11.38.27:545][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.14-11.38.27:545][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.14-11.38.27:558][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.14-11.38.27:872][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.14-11.38.27:884][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.14-11.38.27:897][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.14-11.38.27:910][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.14-11.38.27:923][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.14-11.38.27:936][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.14-11.38.27:949][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.14-11.38.27:963][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.14-11.38.27:969][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.14-11.38.28:047][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.14-11.38.28:050][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.14-11.38.28:099][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.14-11.38.28:099][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.14-11.38.28:123][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.14-11.38.28:123][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.14-11.38.28:138][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.14-11.38.28:152][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.14-11.38.28:165][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.14-11.38.28:179][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.14-11.38.28:223][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.14-11.38.28:223][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.14-11.38.28:223][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.14-11.38.28:231][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.14-11.38.28:285][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../../../课程/Final/Intermediate/Shaders/WorkingDirectory/1632/).
+[2020.05.14-11.38.28:286][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lu/AppData/Local/Temp/UnrealShaderWorkingDir/B0D59EE54FF3507CDB655390C4BD11E1/'.
+[2020.05.14-11.38.28:287][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.14-11.38.28:287][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.14-11.38.28:287][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.14-11.38.28:759][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.14-11.38.28:799][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.14-11.38.28:799][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.14-11.38.28:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../课程/Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.14-11.38.28:799][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.14-11.38.28:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../课程/Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-11.38.28:799][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.14-11.38.28:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.14-11.38.28:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-11.38.28:810][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.14-11.38.28:821][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.14-11.38.28:821][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.14-11.38.28:821][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.14-11.38.28:839][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.14-11.38.28:840][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.14-11.38.28:840][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.14-11.38.28:930][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2020.05.14-11.38.29:265][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-11.38.29:386][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.14-11.38.29:386][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.14-11.38.29:386][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.14-11.38.29:386][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.14-11.38.29:386][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.14-11.38.29:399][  0]LogNetVersion: FinalGPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1484327005)
+[2020.05.14-11.38.29:743][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.025308 seconds
+[2020.05.14-11.38.29:747][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.14-11.38.29:747][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.14-11.38.29:747][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.14-11.38.30:598][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.14-11.38.30:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.14-11.38.30:716][  0]SourceControl: Source control is disabled
+[2020.05.14-11.38.30:716][  0]SourceControl: Source control is disabled
+[2020.05.14-11.38.30:718][  0]SourceControl: Source control is disabled
+[2020.05.14-11.38.30:719][  0]SourceControl: Source control is disabled
+[2020.05.14-11.38.30:837][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.14-11.38.30:946][  0]LogOcInput: OculusInput pre-init called
+[2020.05.14-11.38.31:751][  0]LogEngine: Initializing Engine...
+[2020.05.14-11.38.31:752][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-11.38.31:753][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.14-11.38.31:944][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.14-11.38.31:955][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.14-11.38.31:977][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-11.38.32:317][  0]LogInit: FAudioDevice initialized.
+[2020.05.14-11.38.32:317][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.14-11.38.32:364][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.14-11.38.32:367][  0]LogInit: Texture streaming: Enabled
+[2020.05.14-11.38.32:382][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.14-11.38.32:399][  0]LogInit: Transaction tracking system initialized
+[2020.05.14-11.38.32:417][  0]BlueprintLog: New page: Editor Load
+[2020.05.14-11.38.32:481][  0]LocalizationService: Localization service is disabled
+[2020.05.14-11.38.32:769][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/' took 0.01s
+[2020.05.14-11.38.32:769][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.14-11.38.32:769][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.14-11.38.32:935][  0]SourceControl: Source control is disabled
+[2020.05.14-11.38.32:935][  0]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-11.38.32:936][  0]LightingResults: New page: Lighting Build
+[2020.05.14-11.38.32:938][  0]MapCheck: New page: Map Check
+[2020.05.14-11.38.32:938][  0]LightingResults: New page: Lighting Build
+[2020.05.14-11.38.32:963][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.05.14-11.38.35:158][  0]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.14-11.38.35:175][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-11.38.35:206][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.14-11.38.35:206][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-11.38.35:206][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.274ms to complete.
+[2020.05.14-11.38.35:206][  0]LogFileHelpers: Loading map 'PathFinding' took 2.271
+[2020.05.14-11.38.35:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.38.35:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.38.35:321][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.38.35:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.38.35:332][  0]LogCollectionManager: Loaded 0 collections in 0.001044 seconds
+[2020.05.14-11.38.35:371][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Saved/Collections/' took 0.01s
+[2020.05.14-11.38.35:371][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Developers/Lu/Collections/' took 0.01s
+[2020.05.14-11.38.35:371][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Collections/' took 0.01s
+[2020.05.14-11.38.35:371][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.14-11.38.35:378][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2732 classes and 659 folders.
+[2020.05.14-11.38.35:382][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.14-11.38.35:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-11.38.35:455][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.14-11.38.35:461][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.05.14-11.38.35:522][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.14-11.38.35:525][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.14-11.38.35:528][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.14-11.38.35:589][  0]LogRenderer: Reallocating scene render targets to support 876x400 Format 9 NumSamples 1 (Frame:1).
+[2020.05.14-11.38.35:896][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.14-11.38.35:896][  0]LogLoad: (Engine Initialization) Total time: 11.55 seconds
+[2020.05.14-11.38.35:896][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.14-11.38.35:937][  0]LogAssetRegistry: Asset discovery search completed in 7.0292 seconds
+[2020.05.14-11.38.35:939][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.14-11.38.35:939][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2020.05.14-11.38.35:940][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.05.14-11.38.36:937][ 49]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.14-11.38.44:368][492]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2020.05.14-11.38.54:981][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-11.38.55:619][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-11.38.57:758][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.05.14-11.38.57:759][267]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-11.38.57:789][267]LightingResults: New page: Lighting Build
+[2020.05.14-11.38.57:789][267]LoadErrors: New page: Loading map: Test.umap
+[2020.05.14-11.38.57:792][267]MapCheck: New page: Map Check
+[2020.05.14-11.38.57:792][267]LightingResults: New page: Lighting Build
+[2020.05.14-11.38.57:818][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.05.14-11.38.58:092][267]LogAIModule: Creating AISystem for world Test
+[2020.05.14-11.38.58:248][267]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-11.38.58:276][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.05.14-11.38.58:296][267]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-11.38.58:297][267]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2020.05.14-11.38.58:297][267]LogFileHelpers: Loading map 'Test' took 0.539
+[2020.05.14-11.38.58:297][267]LogSlate: Window 'Open Level' being destroyed
+[2020.05.14-11.39.04:885][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-11.39.04:968][627]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-11.39.04:977][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.39.04:977][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-11.39.04:977][627]PIE: New page: PIE session: Test (May 15, 2020, 3:39:04 AM)
+[2020.05.14-11.39.04:990][627]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-11.39.05:058][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067965s)
+[2020.05.14-11.39.05:059][627]LogAIModule: Creating AISystem for world Test
+[2020.05.14-11.39.05:059][627]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2020.05.14-11.39.05:059][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.069367s)
+[2020.05.14-11.39.05:083][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.14-11.39.05:093][627]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-11.39.05:180][627]LogInit: FAudioDevice initialized.
+[2020.05.14-11.39.05:225][627]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-11.39.05:228][627]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-19.39.05
+[2020.05.14-11.39.05:229][627]LogWorld: Bringing up level for play took: 0.001454
+[2020.05.14-11.39.05:244][627]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.14-11.39.06:207][627]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.289
+[2020.05.14-11.39.06:207][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.39.06:472][627]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoBold.RobotoBold', Character: '开 (U+5f00)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.05.14-11.39.06:474][627]LogSlate: Took 0.001767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.14-11.39.20:984][489]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=25.000
+[2020.05.14-11.39.20:985][489]LogBlueprintUserMessages: [StartMenu_C_0] X=40.000 Y=29.000
+[2020.05.14-11.39.24:209][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.39.24:209][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.39.24:297][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-11.39.24:297][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.39.24:344][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.39.24:493][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.05.14-11.39.24:516][683]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.05.14-11.39.35:931][368]LogHttp: Warning: 000001E72892BD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.14-11.39.35:931][368]LogHttp: Warning: 000001E72892BD80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.14-11.39.35:931][368]LogHttp: Warning: 000001E72892BD80: libcurl info message cache 1 (Closing connection 0)
+[2020.05.14-11.39.35:932][368]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.39.53:570][425]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Controller/BP_Unit.BP_Unit
+[2020.05.14-11.39.53:865][425]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.14-11.39.54:538][425]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.14-11.39.54:685][426]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.14-11.39.57:040][527]LogSlate: Window 'BP_Unit' being destroyed
+[2020.05.14-11.39.57:441][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-11.39.58:978][644]LogRenderer: Reallocating scene render targets to support 876x488 Format 9 NumSamples 1 (Frame:5).
+[2020.05.14-11.40.00:812][749]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/StartMenu/StartMenu.StartMenu
+[2020.05.14-11.40.01:089][749]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.05.14-11.40.51:175][599]BlueprintLog: New page: Compile StartMenu
+[2020.05.14-11.40.51:253][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.05.14-11.40.51:993][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/StartMenu" FILE="../../../../../../课程/Final/Content/StartMenu/StartMenu.uasset" SILENT=true
+[2020.05.14-11.40.52:108][637]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu3A5EA8C0481C1DD30D86EF991E808D47.tmp' to '../../../../../../课程/Final/Content/StartMenu/StartMenu.uasset'
+[2020.05.14-11.40.53:512][720]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-11.40.53:527][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.40.53:527][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-11.40.53:527][720]PIE: New page: PIE session: Test (May 15, 2020, 3:40:53 AM)
+[2020.05.14-11.40.53:528][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-11.40.53:615][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087496s)
+[2020.05.14-11.40.53:616][720]LogAIModule: Creating AISystem for world Test
+[2020.05.14-11.40.53:616][720]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2020.05.14-11.40.53:616][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.088502s)
+[2020.05.14-11.40.53:652][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.05.14-11.40.53:661][720]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-11.40.53:776][720]LogInit: FAudioDevice initialized.
+[2020.05.14-11.40.53:803][720]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-11.40.53:805][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-19.40.53
+[2020.05.14-11.40.53:806][720]LogWorld: Bringing up level for play took: 0.001286
+[2020.05.14-11.40.54:769][720]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.852
+[2020.05.14-11.40.54:769][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.41.03:162][199]LogBlueprintUserMessages: [StartMenu_C_0] X=42.000 Y=35.000
+[2020.05.14-11.41.03:163][199]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=25.000
+[2020.05.14-11.41.08:652][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.41.08:652][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.41.08:743][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-11.41.08:743][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.41.08:797][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.41.08:937][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.05.14-11.41.08:965][521]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.14-11.41.35:960][135]LogHttp: Warning: 000001E788EA79C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.14-11.41.35:960][135]LogHttp: Warning: 000001E788EA79C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.14-11.41.35:960][135]LogHttp: Warning: 000001E788EA79C0: libcurl info message cache 1 (Closing connection 1)
+[2020.05.14-11.41.35:976][136]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.42.20:061][768]LogEditorTransaction: Undo Add new track
+[2020.05.14-11.42.23:061][947]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.42.23:272][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.14-11.43.33:869][174]LogEditorTransaction: Undo Add new track
+[2020.05.14-11.43.35:995][301]LogHttp: Warning: 000001E792BF6700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.14-11.43.35:995][301]LogHttp: Warning: 000001E792BF6700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.14-11.43.35:995][301]LogHttp: Warning: 000001E792BF6700: libcurl info message cache 1 (Closing connection 2)
+[2020.05.14-11.43.36:011][302]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.43.41:659][640]LogEditorTransaction: Undo Add new track
+[2020.05.14-11.43.44:124][787]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.43.44:336][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.14-11.44.40:184][133]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.44.40:382][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.05.14-11.45.36:353][500]LogHttp: Warning: 000001E7C7FEA480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.14-11.45.36:353][500]LogHttp: Warning: 000001E7C7FEA480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.14-11.45.36:353][500]LogHttp: Warning: 000001E7C7FEA480: libcurl info message cache 1 (Closing connection 3)
+[2020.05.14-11.45.36:353][500]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.47.15:723][730]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.47.15:931][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.05.14-11.47.16:352][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.47.16:483][749]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitE2D55568482FD72B67A65392F3B525A3.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.47.22:961][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.47.23:086][134]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit3DD8625648D9F45FB9982BB463458C75.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.47.23:574][163]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.47.23:777][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.05.14-11.47.24:080][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.47.24:206][175]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit014C73D04A66B320920ACD91A2D36ACE.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.47.25:062][225]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-11.47.25:085][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.25:085][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-11.47.25:085][225]PIE: New page: PIE session: Test (May 15, 2020, 3:47:25 AM)
+[2020.05.14-11.47.25:085][225]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-11.47.25:157][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072276s)
+[2020.05.14-11.47.25:157][225]LogAIModule: Creating AISystem for world Test
+[2020.05.14-11.47.25:157][225]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2020.05.14-11.47.25:157][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.072931s)
+[2020.05.14-11.47.25:194][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.05.14-11.47.25:204][225]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-11.47.25:294][225]LogInit: FAudioDevice initialized.
+[2020.05.14-11.47.25:324][225]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-11.47.25:326][225]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-19.47.25
+[2020.05.14-11.47.25:326][225]LogWorld: Bringing up level for play took: 0.001137
+[2020.05.14-11.47.26:275][225]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.358
+[2020.05.14-11.47.26:276][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.32:075][551]LogBlueprintUserMessages: [StartMenu_C_0] X=34.000 Y=38.000
+[2020.05.14-11.47.32:075][551]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=25.000
+[2020.05.14-11.47.36:184][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.36:185][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.47.36:269][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-11.47.36:269][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.36:339][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.47.36:472][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.14-11.47.36:498][797]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.14-11.47.47:525][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.47.47:650][450]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit812C93B94F1E5C02CA6279BB7C7CDE33.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.47.48:789][518]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.47.48:995][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.14-11.47.49:330][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.47.49:456][532]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit89E042B54DB507B5AD62AAAF7E2FA705.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.47.50:710][606]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-11.47.50:735][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.50:736][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-11.47.50:736][606]PIE: New page: PIE session: Test (May 15, 2020, 3:47:50 AM)
+[2020.05.14-11.47.50:736][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-11.47.50:803][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067388s)
+[2020.05.14-11.47.50:804][606]LogAIModule: Creating AISystem for world Test
+[2020.05.14-11.47.50:804][606]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2020.05.14-11.47.50:804][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.067963s)
+[2020.05.14-11.47.50:839][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.05.14-11.47.50:847][606]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-11.47.50:938][606]LogInit: FAudioDevice initialized.
+[2020.05.14-11.47.50:966][606]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-11.47.50:968][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-19.47.50
+[2020.05.14-11.47.50:968][606]LogWorld: Bringing up level for play took: 0.001131
+[2020.05.14-11.47.51:917][606]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.999
+[2020.05.14-11.47.51:917][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.53:431][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-11.47.56:280][846]LogBlueprintUserMessages: [StartMenu_C_0] X=42.000 Y=35.000
+[2020.05.14-11.47.56:280][846]LogBlueprintUserMessages: [StartMenu_C_0] X=28.000 Y=25.000
+[2020.05.14-11.47.58:824][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.58:825][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.47.58:906][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-11.47.58:906][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.47.58:972][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-11.47.59:130][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.14-11.47.59:142][988]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 0 (  Trying 52.70.218.65...)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 2 (connect to 52.70.218.65 port 443 failed: Timed out)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 3 (  Trying 34.232.24.118...)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 5 (After 18930ms connect time, move on!)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 6 (connect to 34.232.24.118 port 443 failed: Timed out)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 7 (  Trying 34.233.184.163...)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 8 (TCP_NODELAY set)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 9 (After 9461ms connect time, move on!)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 10 (connect to 34.233.184.163 port 443 failed: Timed out)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 11 (  Trying 52.55.177.42...)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 13 (After 4726ms connect time, move on!)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 14 (connect to 52.55.177.42 port 443 failed: Timed out)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 15 (  Trying 52.72.166.6...)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 16 (TCP_NODELAY set)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 17 (After 2359ms connect time, move on!)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 18 (connect to 52.72.166.6 port 443 failed: Timed out)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 19 (  Trying 52.4.54.50...)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 20 (TCP_NODELAY set)
+[2020.05.14-11.48.36:248][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 21 (After 1180ms connect time, move on!)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 22 (connect to 52.4.54.50 port 443 failed: Timed out)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 23 (  Trying 34.232.247.41...)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 25 (After 586ms connect time, move on!)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 26 (connect to 34.232.247.41 port 443 failed: Timed out)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 27 (  Trying 52.201.138.194...)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 28 (TCP_NODELAY set)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 29 (After 289ms connect time, move on!)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 30 (connect to 52.201.138.194 port 443 failed: Timed out)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-11.48.36:249][209]LogHttp: Warning: 000001E78B26E700: libcurl info message cache 32 (Closing connection 4)
+[2020.05.14-11.48.36:267][210]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.50.23:608][627]Cmd: TRANSACTION UNDO
+[2020.05.14-11.50.23:608][627]LogEditorTransaction: Undo Move Node
+[2020.05.14-11.50.26:663][809]LogEditorTransaction: Undo Delete current selection
+[2020.05.14-11.51.15:852][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.05.14-11.51.15:854][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Saved/Autosaves/Game/Maps/Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.14-11.51.16:182][755]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_Auto160AFC338487EC782F1566B9F2326A085.tmp' to '../../../../../../课程/Final/Saved/Autosaves/Game/Maps/Test_Auto1.umap'
+[2020.05.14-11.51.16:186][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.370
+[2020.05.14-11.51.16:186][755]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.370
+[2020.05.14-11.51.16:188][755]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Controller/BP_Unit] ([1] browsable assets)...
+[2020.05.14-11.51.16:208][755]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Controller/BP_Unit.BP_Unit]
+[2020.05.14-11.51.16:208][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controller/BP_Unit]
+[2020.05.14-11.51.16:208][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Saved/Autosaves/Game/Blueprints/Controller/BP_Unit_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.14-11.51.16:333][755]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit_Auto12DBDF87A46C18F37C4B86B8DB57543C5.tmp' to '../../../../../../课程/Final/Saved/Autosaves/Game/Blueprints/Controller/BP_Unit_Auto1.uasset'
+[2020.05.14-11.51.16:336][755]LogFileHelpers: Auto-saving content packages took 0.148
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 1 (  Trying 52.0.25.43...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 3 (connect to 52.0.25.43 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 4 (  Trying 54.86.61.101...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 5 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 6 (After 19476ms connect time, move on!)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 7 (connect to 54.86.61.101 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 8 (  Trying 54.86.222.40...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 10 (After 9734ms connect time, move on!)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 11 (connect to 54.86.222.40 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 12 (  Trying 54.88.194.72...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 13 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 14 (After 4867ms connect time, move on!)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 15 (connect to 54.88.194.72 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 16 (  Trying 107.23.15.61...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 17 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 18 (After 2429ms connect time, move on!)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 19 (connect to 107.23.15.61 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 20 (  Trying 34.196.201.71...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 22 (After 1211ms connect time, move on!)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 23 (connect to 34.196.201.71 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 24 (  Trying 52.1.184.222...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 25 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 26 (After 601ms connect time, move on!)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 27 (connect to 52.1.184.222 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 28 (  Trying 34.196.69.246...)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 29 (TCP_NODELAY set)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 30 (After 296ms connect time, move on!)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 31 (connect to 34.196.69.246 port 443 failed: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 32 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: 000001E78B7C20C0: libcurl info message cache 33 (Closing connection 5)
+[2020.05.14-11.51.36:009][936]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.51.39:968][173]LogRenderer: Reallocating scene render targets to support 2192x996 Format 9 NumSamples 1 (Frame:3761).
+[2020.05.14-11.53.15:402][893]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.53.15:612][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.05.14-11.54.08:449][561]LogSlate: Window 'Pick Curve Class' being destroyed
+[2020.05.14-11.54.12:001][759]LogAssetEditorManager: Opening Asset editor for CurveFloat /Game/StartMenu/NewCurveBase.NewCurveBase
+[2020.05.14-11.54.12:013][759]LogBlueprintActionDatabase: Requesting refresh due to module change: CurveAssetEditor (loaded)
+[2020.05.14-11.54.27:556][677]LogCurveEditor: Warning: A key on NewCurveBase could not be moved because there was already a key at that time.
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 1 (  Trying 54.82.163.3...)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 3 (connect to 54.82.163.3 port 443 failed: Timed out)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 4 (  Trying 54.85.60.94...)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 5 (TCP_NODELAY set)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 6 (After 19476ms connect time, move on!)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 7 (connect to 54.85.60.94 port 443 failed: Timed out)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 8 (  Trying 54.86.222.40...)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 10 (After 9734ms connect time, move on!)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 11 (connect to 54.86.222.40 port 443 failed: Timed out)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 12 (  Trying 54.86.61.101...)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 13 (TCP_NODELAY set)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 14 (After 4867ms connect time, move on!)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 15 (connect to 54.86.61.101 port 443 failed: Timed out)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 16 (  Trying 52.2.38.227...)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 17 (TCP_NODELAY set)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 18 (After 2430ms connect time, move on!)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 19 (connect to 52.2.38.227 port 443 failed: Timed out)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 20 (  Trying 52.1.184.222...)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 22 (After 1211ms connect time, move on!)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 23 (connect to 52.1.184.222 port 443 failed: Timed out)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 24 (  Trying 54.164.85.111...)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 25 (TCP_NODELAY set)
+[2020.05.14-11.54.35:735][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 26 (After 601ms connect time, move on!)
+[2020.05.14-11.54.35:736][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 27 (connect to 54.164.85.111 port 443 failed: Timed out)
+[2020.05.14-11.54.35:736][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 28 (  Trying 52.73.243.175...)
+[2020.05.14-11.54.35:736][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 29 (TCP_NODELAY set)
+[2020.05.14-11.54.35:736][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 30 (After 297ms connect time, move on!)
+[2020.05.14-11.54.35:736][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 31 (connect to 52.73.243.175 port 443 failed: Timed out)
+[2020.05.14-11.54.35:736][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 32 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-11.54.35:736][169]LogHttp: Warning: 000001E7BF056200: libcurl info message cache 33 (Closing connection 6)
+[2020.05.14-11.54.35:754][170]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.55.40:951][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/StartMenu" FILE="../../../../../../课程/Final/Content/StartMenu/StartMenu.uasset" SILENT=true
+[2020.05.14-11.55.41:061][  2]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenuD1D120CF49419FE3D3062E9B26BBE4CB.tmp' to '../../../../../../课程/Final/Content/StartMenu/StartMenu.uasset'
+[2020.05.14-11.55.41:963][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/NewCurveBase" FILE="../../../../../../课程/Final/Content/StartMenu/NewCurveBase.uasset" SILENT=true
+[2020.05.14-11.55.41:966][ 54]LogSavePackage: Moving '../../../../../../课程/Final/Saved/NewCurveBaseE54F569A4DC4884D950824BC6A2B451C.tmp' to '../../../../../../课程/Final/Content/StartMenu/NewCurveBase.uasset'
+[2020.05.14-11.55.50:684][549]LogSlate: Window 'BP_Unit' being destroyed
+[2020.05.14-11.56.05:074][403]LogSlate: Took 0.001866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.14-11.56.17:711][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.56.17:836][152]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitF928458544CD0B9D867E38AA483C7425.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.56.21:355][361]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.56.21:641][361]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 1 (  Trying 52.4.236.189...)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 3 (connect to 52.4.236.189 port 443 failed: Timed out)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 4 (  Trying 52.6.104.84...)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 5 (TCP_NODELAY set)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 6 (After 19484ms connect time, move on!)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 7 (connect to 52.6.104.84 port 443 failed: Timed out)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 8 (  Trying 3.218.199.108...)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 10 (After 9742ms connect time, move on!)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 11 (connect to 3.218.199.108 port 443 failed: Timed out)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 12 (  Trying 18.208.62.117...)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 13 (TCP_NODELAY set)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 14 (After 4867ms connect time, move on!)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 15 (connect to 18.208.62.117 port 443 failed: Timed out)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 16 (  Trying 52.205.241.63...)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 17 (TCP_NODELAY set)
+[2020.05.14-11.57.35:481][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 18 (After 2430ms connect time, move on!)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 19 (connect to 52.205.241.63 port 443 failed: Timed out)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 20 (  Trying 52.5.203.137...)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 22 (After 1211ms connect time, move on!)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 23 (connect to 52.5.203.137 port 443 failed: Timed out)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 24 (  Trying 54.86.242.45...)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 25 (TCP_NODELAY set)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 26 (After 601ms connect time, move on!)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 27 (connect to 54.86.242.45 port 443 failed: Timed out)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 28 (  Trying 54.209.114.12...)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 29 (TCP_NODELAY set)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 30 (After 297ms connect time, move on!)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 31 (connect to 54.209.114.12 port 443 failed: Timed out)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 32 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: 000001E7F0F4D300: libcurl info message cache 33 (Closing connection 7)
+[2020.05.14-11.57.35:482][762]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-11.57.52:905][803]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.57.53:165][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.05.14-11.58.11:992][928]LogEditorTransaction: Undo Add new track from asset
+[2020.05.14-11.58.45:766][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/NewCurveBase" FILE="../../../../../../课程/Final/Content/StartMenu/NewCurveBase.uasset" SILENT=true
+[2020.05.14-11.58.45:826][950]LogSavePackage: Moving '../../../../../../课程/Final/Saved/NewCurveBase4CE6CA4B4F47F9237FDBC094EDC000DE.tmp' to '../../../../../../课程/Final/Content/StartMenu/NewCurveBase.uasset'
+[2020.05.14-11.59.46:909][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.59.47:036][598]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit0C08256641E880BA1A27F3AF40A1360C.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.59.47:813][644]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-11.59.48:030][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.05.14-11.59.48:290][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-11.59.48:421][653]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitE323E3B54106BEE5A4741387AD99EDEA.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-11.59.49:899][741]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-11.59.49:924][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.59.49:924][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-11.59.49:925][741]PIE: New page: PIE session: Test (May 15, 2020, 3:59:49 AM)
+[2020.05.14-11.59.49:925][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-11.59.49:991][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066599s)
+[2020.05.14-11.59.49:992][741]LogAIModule: Creating AISystem for world Test
+[2020.05.14-11.59.49:992][741]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2020.05.14-11.59.49:992][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.067381s)
+[2020.05.14-11.59.50:028][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.05.14-11.59.50:037][741]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-11.59.50:126][741]LogInit: FAudioDevice initialized.
+[2020.05.14-11.59.50:154][741]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-11.59.50:156][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-19.59.50
+[2020.05.14-11.59.50:156][741]LogWorld: Bringing up level for play took: 0.001151
+[2020.05.14-11.59.51:119][741]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.201
+[2020.05.14-11.59.51:119][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-11.59.55:683][989]LogBlueprintUserMessages: [StartMenu_C_0] X=33.000 Y=28.000
+[2020.05.14-11.59.55:683][989]LogBlueprintUserMessages: [StartMenu_C_0] X=40.000 Y=29.000
+[2020.05.14-12.00.02:620][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.02:620][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.00.02:706][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-12.00.02:706][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.02:771][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.00.02:902][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.14-12.00.02:929][384]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.14-12.00.07:706][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-12.00.07:832][662]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit348B97B14ECBA9D231726089341F33F5.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-12.00.08:877][724]BlueprintLog: New page: Compile BP_Unit
+[2020.05.14-12.00.09:091][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.05.14-12.00.09:243][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.14-12.00.09:368][727]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitBF3F3D244C8E2105466E4386590720D3.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.14-12.00.10:416][789]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-12.00.10:444][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.10:444][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-12.00.10:444][789]PIE: New page: PIE session: Test (May 15, 2020, 4:00:10 AM)
+[2020.05.14-12.00.10:444][789]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-12.00.10:527][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084130s)
+[2020.05.14-12.00.10:528][789]LogAIModule: Creating AISystem for world Test
+[2020.05.14-12.00.10:529][789]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2020.05.14-12.00.10:529][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.085465s)
+[2020.05.14-12.00.10:564][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.05.14-12.00.10:573][789]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-12.00.10:656][789]LogInit: FAudioDevice initialized.
+[2020.05.14-12.00.10:683][789]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-12.00.10:685][789]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-20.00.10
+[2020.05.14-12.00.10:685][789]LogWorld: Bringing up level for play took: 0.001199
+[2020.05.14-12.00.11:631][789]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.714
+[2020.05.14-12.00.11:631][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.15:865][ 23]LogBlueprintUserMessages: [StartMenu_C_0] X=42.000 Y=35.000
+[2020.05.14-12.00.15:865][ 23]LogBlueprintUserMessages: [StartMenu_C_0] X=33.000 Y=28.000
+[2020.05.14-12.00.35:199][180]LogHttp: Warning: 000001E78B646700: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-12.00.35:199][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 0 (  Trying 52.45.123.19...)
+[2020.05.14-12.00.35:199][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.05.14-12.00.35:199][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 2 (connect to 52.45.123.19 port 443 failed: Timed out)
+[2020.05.14-12.00.35:199][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 3 (  Trying 54.227.199.206...)
+[2020.05.14-12.00.35:199][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 5 (After 19476ms connect time, move on!)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 6 (connect to 54.227.199.206 port 443 failed: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 7 (  Trying 54.173.249.23...)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 8 (TCP_NODELAY set)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 10 (connect to 54.173.249.23 port 443 failed: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 11 (  Trying 52.2.163.36...)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 14 (connect to 52.2.163.36 port 443 failed: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 15 (  Trying 54.210.51.233...)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 16 (TCP_NODELAY set)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 18 (connect to 54.210.51.233 port 443 failed: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 19 (  Trying 52.6.184.73...)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 20 (TCP_NODELAY set)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 21 (After 1210ms connect time, move on!)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 22 (connect to 52.6.184.73 port 443 failed: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 23 (  Trying 54.164.83.253...)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 26 (connect to 54.164.83.253 port 443 failed: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 27 (  Trying 54.152.62.189...)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 28 (TCP_NODELAY set)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 29 (After 296ms connect time, move on!)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 30 (connect to 54.152.62.189 port 443 failed: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: 000001E78B646700: libcurl info message cache 32 (Closing connection 8)
+[2020.05.14-12.00.35:200][180]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-12.00.36:528][259]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.36:528][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.00.36:612][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-12.00.36:612][259]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.36:684][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.00.36:832][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.05.14-12.00.36:842][260]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.14-12.00.45:477][773]BlueprintLog: New page: Compile StartMenu
+[2020.05.14-12.00.45:534][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.05.14-12.00.45:960][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/StartMenu" FILE="../../../../../../课程/Final/Content/StartMenu/StartMenu.uasset" SILENT=true
+[2020.05.14-12.00.46:064][794]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu3AC3E481472320208DEB6D99AA2A88A6.tmp' to '../../../../../../课程/Final/Content/StartMenu/StartMenu.uasset'
+[2020.05.14-12.00.46:950][847]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-12.00.46:964][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.46:964][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-12.00.46:964][847]PIE: New page: PIE session: Test (May 15, 2020, 4:00:46 AM)
+[2020.05.14-12.00.46:964][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-12.00.47:032][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067316s)
+[2020.05.14-12.00.47:032][847]LogAIModule: Creating AISystem for world Test
+[2020.05.14-12.00.47:033][847]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2020.05.14-12.00.47:033][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.068063s)
+[2020.05.14-12.00.47:070][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.05.14-12.00.47:079][847]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-12.00.47:170][847]LogInit: FAudioDevice initialized.
+[2020.05.14-12.00.47:202][847]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-12.00.47:204][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-20.00.47
+[2020.05.14-12.00.47:204][847]LogWorld: Bringing up level for play took: 0.001314
+[2020.05.14-12.00.48:183][847]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.266
+[2020.05.14-12.00.48:184][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.00.52:349][ 76]LogBlueprintUserMessages: [StartMenu_C_0] X=42.000 Y=35.000
+[2020.05.14-12.00.52:349][ 76]LogBlueprintUserMessages: [StartMenu_C_0] X=33.000 Y=19.000
+[2020.05.14-12.01.13:846][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.01.13:847][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.01.13:942][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-12.01.13:942][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.01.14:014][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.01.14:140][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.05.14-12.01.14:151][361]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.14-12.01.33:388][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.01.37:502][707]Cmd: TRANSACTION UNDO
+[2020.05.14-12.01.37:502][707]LogEditorTransaction: Undo Move Actors
+[2020.05.14-12.01.39:673][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-12.01.39:712][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.01.39:746][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.14-12.01.40:080][775]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestFE3B58FD44F306ED318184A31B642C24.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.01.40:098][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.01.40:167][775]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData348486484C3D99AF60F55F90BA1A8DFE.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.01.43:742][987]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.05.14-12.01.44:081][987]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.02.15:505][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-12.02.15:808][865]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridD637E14C4488947B42CFE68C2261B959.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-12.02.16:593][912]BlueprintLog: New page: Compile BP_Grid
+[2020.05.14-12.02.16:808][912]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.02.16:973][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.14-12.02.17:048][912]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.02.17:143][912]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.02.17:351][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-12.02.17:652][921]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridACF960FC48A71920178E6BB66B94EE4E.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-12.02.24:502][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.02.24:543][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.05.14-12.02.24:873][319]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestABE91FAB45FF5182F8BC6596118854C4.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.02.24:892][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.02.24:954][319]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData1DC603D54F84DBB6E7DCC9B1223ACA92.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.02.27:527][413]Cmd: TRANSACTION UNDO
+[2020.05.14-12.02.27:527][413]LogEditorTransaction: Undo Move Actors
+[2020.05.14-12.02.32:619][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-12.02.32:657][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.02.32:693][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.05.14-12.02.33:032][627]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestFCD09BAD4DA77431D453EDB208759933.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.02.33:051][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.02.33:113][627]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataC562DB7C4E27FA1CE79007A2256B96EC.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.02.41:066][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-12.02.41:364][ 99]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid308730254CCD09D938E2709C95645FDC.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-12.03.08:176][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-12.03.08:477][671]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid09282A9243863E862E617082CA96D4A1.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-12.03.09:163][712]BlueprintLog: New page: Compile BP_Grid
+[2020.05.14-12.03.09:372][712]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.03.09:540][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.05.14-12.03.09:621][712]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.03.09:712][712]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.03.09:778][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-12.03.10:083][713]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid69F48F1C45C5E2A716CE7790E7F358F2.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-12.03.33:092][957]LogEditorViewport: Clicking on Actor (LMB): Bp_EasyMesh_C (Bp_EasyMesh)
+[2020.05.14-12.03.34:677][967]LogEditorViewport: Clicking on Actor (context menu): Bp_EasyMesh_C (Bp_EasyMesh)
+[2020.05.14-12.03.35:002][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 0 (  Trying 54.85.60.94...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 2 (connect to 54.85.60.94 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 3 (  Trying 54.164.85.111...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 5 (After 19469ms connect time, move on!)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 6 (connect to 54.164.85.111 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 7 (  Trying 52.73.243.175...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 8 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 10 (connect to 52.73.243.175 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 11 (  Trying 54.86.222.40...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 14 (connect to 54.86.222.40 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 15 (  Trying 54.86.61.101...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 16 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 17 (After 2430ms connect time, move on!)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 18 (connect to 54.86.61.101 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 19 (  Trying 54.88.194.72...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 20 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 22 (connect to 54.88.194.72 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 23 (  Trying 54.82.163.3...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 26 (connect to 54.82.163.3 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 27 (  Trying 107.23.15.61...)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 28 (TCP_NODELAY set)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 30 (connect to 107.23.15.61 port 443 failed: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: 000001E77D5F51C0: libcurl info message cache 32 (Closing connection 9)
+[2020.05.14-12.03.35:015][968]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-12.03.35:816][980]LogEditorViewport: Clicking on Actor (LMB): Bp_BasicObstacle_C (Bp_BasicObstacle)
+[2020.05.14-12.03.40:443][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.04.24:992][450]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.14-12.04.25:213][450]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.14-12.04.29:868][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.04.34:004][550]Cmd: TRANSACTION UNDO
+[2020.05.14-12.04.34:004][550]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.14-12.04.34:617][552]Cmd: TRANSACTION UNDO
+[2020.05.14-12.04.34:623][552]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.14-12.04.34:825][552]Cmd: TRANSACTION UNDO
+[2020.05.14-12.04.34:825][552]LogEditorTransaction: Undo Set Location
+[2020.05.14-12.04.45:805][552]Cmd: TRANSACTION UNDO
+[2020.05.14-12.04.45:805][552]LogEditorTransaction: Undo Set Location
+[2020.05.14-12.05.19:163][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.05.19:428][785]LogUObjectHash: Compacting FUObjectHashTables data took  14.24ms
+[2020.05.14-12.05.20:213][785]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestC86D152A4D5DF8A4BBC79FA4BF8442B7.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.05.20:255][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.05.20:330][785]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData94C1AAD54DE0471D259384961FFAB756.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.05.24:774][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.05.35:939][924]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.350 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.14-12.06.20:198][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.14-12.06.23:932][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 1 (  Trying 3.234.156.96...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 3 (connect to 3.234.156.96 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 4 (  Trying 54.165.51.154...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 5 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 6 (After 19461ms connect time, move on!)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 7 (connect to 54.165.51.154 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 8 (  Trying 18.235.244.245...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 10 (After 9726ms connect time, move on!)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 11 (connect to 18.235.244.245 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 12 (  Trying 3.220.243.247...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 13 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 14 (After 4859ms connect time, move on!)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 15 (connect to 3.220.243.247 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 16 (  Trying 54.85.174.66...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 17 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 18 (After 2429ms connect time, move on!)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 19 (connect to 54.85.174.66 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 20 (  Trying 34.192.129.151...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 22 (After 1211ms connect time, move on!)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 23 (connect to 34.192.129.151 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 24 (  Trying 52.5.92.97...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 25 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 26 (After 601ms connect time, move on!)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 27 (connect to 52.5.92.97 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 28 (  Trying 54.86.42.229...)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 29 (TCP_NODELAY set)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 30 (After 297ms connect time, move on!)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 31 (connect to 54.86.42.229 port 443 failed: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 32 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-12.06.34:862][404]LogHttp: Warning: 000001E7B8959BC0: libcurl info message cache 33 (Closing connection 10)
+[2020.05.14-12.06.34:863][404]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-12.07.00:561][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.07.09:789][688]LogEditorViewport: Clicking on Actor (LMB): Bp_BasicObstacle_C (Bp_BasicObstacle)
+[2020.05.14-12.07.37:632][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.07.50:363][ 10]Cmd: DELETE
+[2020.05.14-12.07.50:365][ 10]Cmd: ACTOR DELETE
+[2020.05.14-12.07.50:648][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:711][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:713][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:714][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:716][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:717][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:718][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:719][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.50:721][ 10]LogEditorActor: Deleted Actor: BP_Location_C
+[2020.05.14-12.07.51:607][ 10]LogUObjectHash: Compacting FUObjectHashTables data took  64.75ms
+[2020.05.14-12.07.51:613][ 10]LogEditorActor: Deleted 9 Actors (1.204 secs)
+[2020.05.14-12.07.53:080][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.07.53:147][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.14-12.07.54:048][ 20]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test076E9413453555C5AA2E2388B64EE2B6.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.07.54:105][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.07.54:188][ 20]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData2B9C2CB04E11CEB9136A738C9779EC8C.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.08.22:644][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.08.27:089][261]LogEditorViewport: Clicking on Actor (LMB): BP_Location_C (BP_Location)
+[2020.05.14-12.08.29:775][268]LogEditorViewport: Clicking on Actor (LMB): BP_Location_C (BP_Location)
+[2020.05.14-12.08.34:101][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.08.45:782][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.08.46:465][446]LogUObjectHash: Compacting FUObjectHashTables data took  65.99ms
+[2020.05.14-12.08.47:591][446]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestCD7CDBBB486B54BDF9B5A6A299CA66B5.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.08.47:654][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.08.47:750][446]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData956FA2704E497D617E82CDBA7B729E1D.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.09.08:363][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.09.14:574][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 1 (  Trying 54.85.167.24...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 3 (connect to 54.85.167.24 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 4 (  Trying 52.6.184.73...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 5 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 6 (After 19445ms connect time, move on!)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 7 (connect to 52.6.184.73 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 8 (  Trying 54.210.51.233...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 10 (After 9718ms connect time, move on!)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 11 (connect to 54.210.51.233 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 12 (  Trying 52.45.123.19...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 13 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 14 (After 4859ms connect time, move on!)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 15 (connect to 52.45.123.19 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 16 (  Trying 54.164.83.253...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 17 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 18 (After 2429ms connect time, move on!)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 19 (connect to 54.164.83.253 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 20 (  Trying 54.152.62.189...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 22 (After 1211ms connect time, move on!)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 23 (connect to 54.152.62.189 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 24 (  Trying 54.227.199.206...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 25 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 26 (After 601ms connect time, move on!)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 27 (connect to 54.227.199.206 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 28 (  Trying 54.173.249.23...)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 29 (TCP_NODELAY set)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 30 (After 296ms connect time, move on!)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 31 (connect to 54.173.249.23 port 443 failed: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 32 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-12.09.34:706][826]LogHttp: Warning: 000001E7682596C0: libcurl info message cache 33 (Closing connection 11)
+[2020.05.14-12.09.34:707][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-12.09.40:253][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.09.40:305][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.05.14-12.09.40:651][  3]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestC0BCF5984A740899BD81CE9E9FD9B916.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.09.40:674][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.09.40:746][  3]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData818AA95A4848B7B8BDC21D829C20B42D.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.09.41:211][  8]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-12.09.41:508][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.09.41:510][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-12.09.41:520][  8]PIE: New page: PIE session: Test (May 15, 2020, 4:09:41 AM)
+[2020.05.14-12.09.41:526][  8]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-12.09.41:647][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118961s)
+[2020.05.14-12.09.41:708][  8]LogAIModule: Creating AISystem for world Test
+[2020.05.14-12.09.41:718][  8]LogPlayLevel: PIE: World Init took: (0.070636s)
+[2020.05.14-12.09.41:718][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.192909s)
+[2020.05.14-12.09.41:786][  8]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.05.14-12.09.41:844][  8]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-12.09.42:123][  8]LogInit: FAudioDevice initialized.
+[2020.05.14-12.09.42:238][  8]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-12.09.42:261][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-20.09.42
+[2020.05.14-12.09.42:273][  8]LogWorld: Bringing up level for play took: 0.022593
+[2020.05.14-12.09.43:722][  8]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.804
+[2020.05.14-12.09.43:723][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.09.48:986][271]LogBlueprintUserMessages: [StartMenu_C_0] X=45.000 Y=26.000
+[2020.05.14-12.09.48:986][271]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=36.000
+[2020.05.14-12.10.10:484][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.10.10:485][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.10.10:629][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-12.10.10:629][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.10.10:735][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.10.10:899][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.14-12.10.10:931][559]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.05.14-12.10.55:742][569]BlueprintLog: New page: Compile BP_Grid
+[2020.05.14-12.10.56:023][569]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.10.56:198][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.05.14-12.10.56:278][569]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.10.56:391][569]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.10.56:446][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-12.10.56:795][569]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridC7D74246432E7A00E94EC6B85216D157.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-12.10.57:126][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-12.10.57:432][584]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid0D5ED06F486CD64FBA29F4805612BAAB.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-12.11.07:323][110]BlueprintLog: New page: Compile StartMenu
+[2020.05.14-12.11.07:403][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.05.14-12.11.09:563][172]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-12.11.09:591][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.11.09:591][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-12.11.09:591][172]PIE: New page: PIE session: Test (May 15, 2020, 4:11:09 AM)
+[2020.05.14-12.11.09:591][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-12.11.09:666][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074304s)
+[2020.05.14-12.11.09:666][172]LogAIModule: Creating AISystem for world Test
+[2020.05.14-12.11.09:666][172]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2020.05.14-12.11.09:666][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.074921s)
+[2020.05.14-12.11.09:703][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.05.14-12.11.09:711][172]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-12.11.09:800][172]LogInit: FAudioDevice initialized.
+[2020.05.14-12.11.09:852][172]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-12.11.09:855][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-20.11.09
+[2020.05.14-12.11.09:856][172]LogWorld: Bringing up level for play took: 0.002469
+[2020.05.14-12.11.10:856][172]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.938
+[2020.05.14-12.11.10:856][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.11.17:830][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.11.17:964][565]LogBlueprintUserMessages: [StartMenu_C_0] X=45.000 Y=26.000
+[2020.05.14-12.11.17:964][565]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=36.000
+[2020.05.14-12.11.21:145][755]LogBlueprintUserMessages: [StartMenu_C_0] X=45.000 Y=26.000
+[2020.05.14-12.11.21:145][755]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=36.000
+[2020.05.14-12.11.21:145][755]LogBlueprintUserMessages: [BP_Unit_6] Deselected
+[2020.05.14-12.11.22:345][827]LogBlueprintUserMessages: [StartMenu_C_0] X=45.000 Y=26.000
+[2020.05.14-12.11.22:345][827]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=36.000
+[2020.05.14-12.11.22:345][827]LogBlueprintUserMessages: [BP_Unit_6] Deselected
+[2020.05.14-12.11.39:078][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.11.39:078][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.11.39:172][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-12.11.39:173][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.11.39:258][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.11.39:386][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.05.14-12.11.39:396][831]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.14-12.11.41:293][846]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.14-12.11.41:307][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.11.41:307][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.14-12.11.41:307][846]PIE: New page: PIE session: Test (May 15, 2020, 4:11:41 AM)
+[2020.05.14-12.11.41:307][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.14-12.11.41:379][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071451s)
+[2020.05.14-12.11.41:379][846]LogAIModule: Creating AISystem for world Test
+[2020.05.14-12.11.41:380][846]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2020.05.14-12.11.41:380][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.072687s)
+[2020.05.14-12.11.41:414][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.05.14-12.11.41:422][846]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-12.11.41:508][846]LogInit: FAudioDevice initialized.
+[2020.05.14-12.11.41:540][846]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.14-12.11.41:542][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.14-20.11.41
+[2020.05.14-12.11.41:543][846]LogWorld: Bringing up level for play took: 0.001258
+[2020.05.14-12.11.42:536][846]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.618
+[2020.05.14-12.11.42:536][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.11.48:968][192]LogBlueprintUserMessages: [StartMenu_C_0] X=45.000 Y=26.000
+[2020.05.14-12.11.48:968][192]LogBlueprintUserMessages: [StartMenu_C_0] X=41.000 Y=36.000
+[2020.05.14-12.12.07:190][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.12.07:191][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.12.07:277][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.14-12.12.07:277][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.14-12.12.07:358][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.12.07:509][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.05.14-12.12.07:522][285]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.14-12.12.18:004][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.12.34:514][492]LogHttp: Warning: 000001E72866EE80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 1 (  Trying 3.226.55.227...)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 3 (connect to 3.226.55.227 port 443 failed: Timed out)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 4 (  Trying 52.204.199.110...)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 5 (TCP_NODELAY set)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 6 (After 19484ms connect time, move on!)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 7 (connect to 52.204.199.110 port 443 failed: Timed out)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 8 (  Trying 3.221.183.62...)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.05.14-12.12.34:515][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 10 (After 9742ms connect time, move on!)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 11 (connect to 3.221.183.62 port 443 failed: Timed out)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 12 (  Trying 52.45.111.172...)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 13 (TCP_NODELAY set)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 14 (After 4867ms connect time, move on!)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 15 (connect to 52.45.111.172 port 443 failed: Timed out)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 16 (  Trying 34.239.213.224...)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 17 (TCP_NODELAY set)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 18 (After 2430ms connect time, move on!)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 19 (connect to 34.239.213.224 port 443 failed: Timed out)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 20 (  Trying 52.0.151.162...)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 22 (After 1211ms connect time, move on!)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 23 (connect to 52.0.151.162 port 443 failed: Timed out)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 24 (  Trying 52.1.127.160...)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 25 (TCP_NODELAY set)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 26 (After 601ms connect time, move on!)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 27 (connect to 52.1.127.160 port 443 failed: Timed out)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 28 (  Trying 52.203.24.160...)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 29 (TCP_NODELAY set)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 30 (After 297ms connect time, move on!)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 31 (connect to 52.203.24.160 port 443 failed: Timed out)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 32 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.14-12.12.34:516][492]LogHttp: Warning: 000001E72866EE80: libcurl info message cache 33 (Closing connection 12)
+[2020.05.14-12.12.34:517][492]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34EB1DE9-47B2-6932-C573-5DAF2C8D0A34%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-12.12.38:537][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.12.51:276][616]LogEditorViewport: Clicking Background
+[2020.05.14-12.12.52:092][621]LogEditorViewport: Clicking on Actor (LMB): Bp_Difficult_C (Bp_Difficult)
+[2020.05.14-12.12.53:844][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.13.23:321][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.13.44:064][250]Cmd: TRANSACTION UNDO
+[2020.05.14-12.13.44:111][250]LogEditorTransaction: Undo Set Actor Visibility
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SyncInterval 0
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferDesc.Width 419
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferDesc.Height 135
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2020.05.14-12.13.44:483][251]LogRHI: Error: SwapChainDesc.OutputWindow 00000000001408B0
+[2020.05.14-12.13.44:485][251]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.05.14-12.13.44:485][251]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2020.05.14-12.13.44:485][251]LogRHI: Error: SwapChainDesc.Flags 2
+[2020.05.14-12.13.44:485][251]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error E_INVALIDARG
+[2020.05.14-12.13.44:490][251]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2020.05.14-12.13.49:223][251]LogThreadingWindows: Error: Runnable thread RenderThread 21 crashed.
+[2020.05.14-12.13.49:223][251]LogWindows: Error: === Critical error: ===
+[2020.05.14-12.13.49:223][251]LogWindows: Error: 
+[2020.05.14-12.13.49:223][251]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 249] 
+[2020.05.14-12.13.49:223][251]LogWindows: Error: Result failed 
+[2020.05.14-12.13.49:223][251]LogWindows: Error:  at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+[2020.05.14-12.13.49:223][251]LogWindows: Error:  with error E_INVALIDARG
+[2020.05.14-12.13.49:223][251]LogWindows: Error: 
+[2020.05.14-12.13.49:223][251]LogWindows: Error: 
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffbd6dca799 KERNELBASE.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb499c1f37 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb499c46e7 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb497d7d1a UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb4975fe33 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb4975fd18 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb4167644a UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb4165875e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb4166480b UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffbbefee8e0 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffbbefee4c4 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffbbefef444 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffbbefe6bb4 UE4Editor-RHI.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb4142769b UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb4142e220 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb495e22d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffb495e2563 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffbbf1f59f1 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.05.14-12.13.49:223][251]LogWindows: Error: [Callstack] 0x00007ffbbf1fc184 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.05.14-12.13.49:224][251]LogWindows: Error: [Callstack] 0x00007ffb499d4b3f UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:224][251]LogWindows: Error: [Callstack] 0x00007ffb499d08a7 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.14-12.13.49:224][251]LogWindows: Error: [Callstack] 0x00007ffbd8377bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.14-12.13.49:224][251]LogWindows: Error: [Callstack] 0x00007ffbd9dece51 ntdll.dll!UnknownFunction []
+[2020.05.14-12.13.49:224][251]LogWindows: Error: 
+[2020.05.14-12.13.49:224][251]LogWindows: Error: Crash in runnable thread RenderThread 21
+[2020.05.14-12.13.49:229][251]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.14-12.13.49:230][251]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2020.05.14-12.13.49:230][251]LogWindows: Error: HandleError re-entered.
+[2020.05.14-12.13.49:230][251]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.05.14-12.13.49:242][251]Log file closed, 05/14/20 20:13:49

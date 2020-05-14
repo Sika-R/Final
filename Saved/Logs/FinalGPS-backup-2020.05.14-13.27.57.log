@@ -1,0 +1,1059 @@
+﻿Log file open, 05/14/20 20:58:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalGPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.401887
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Sika_R -epicuserid=6097d1a53e3343bd84050676641ce1ee -epiclocale=zh-CN
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.05.14-12.58.58:617][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-12.58.58:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.14-12.58.58:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-12.58.58:618][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.14-12.58.58:619][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-12.58.58:619][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-12.58.58:621][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.14-12.58.58:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.14-12.58.58:622][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.14-12.58.58:622][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-12.58.58:622][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.14-12.58.58:631][  0]LogHAL: Display: Platform has ~ 16 GB [16893935616 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.14-12.58.58:631][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.14-12.58.58:631][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.14-12.58.58:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.14-12.58.58:632][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.14-12.58.58:632][  0]LogInit: Computer: DESKTOP-7D0H28H
+[2020.05.14-12.58.58:632][  0]LogInit: User: Lu
+[2020.05.14-12.58.58:632][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.14-12.58.58:632][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.14-12.58.58:633][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2020.05.14-12.58.58:633][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.14-12.58.58:633][  0]LogMemory: Process Physical Memory: 98.24 MB used, 98.25 MB peak
+[2020.05.14-12.58.58:633][  0]LogMemory: Process Virtual Memory: 89.86 MB used, 89.86 MB peak
+[2020.05.14-12.58.58:633][  0]LogMemory: Physical Memory: 4802.35 MB used,  11308.96 MB free, 16111.31 MB total
+[2020.05.14-12.58.58:633][  0]LogMemory: Virtual Memory: 4660.61 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.14-12.58.58:659][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.14-12.58.58:659][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.14-12.58.58:813][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.14-12.58.58:885][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.14-12.58.58:885][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.14-12.58.59:123][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-12.58.59:123][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.14-12.58.59:202][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.05.14-12.58.59:202][  0]LogD3D11RHI:       3964/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.14-12.58.59:234][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.14-12.58.59:234][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.14-12.58.59:237][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.14-12.58.59:237][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.14-12.58.59:237][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.14-12.58.59:243][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.14-12.58.59:243][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.14-12.58.59:243][  0]LogWindows: EnumDisplayDevices:
+[2020.05.14-12.58.59:243][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.14-12.58.59:244][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.14-12.58.59:244][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.14-12.58.59:245][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.14-12.58.59:245][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.05.14-12.58.59:245][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.14-12.58.59:245][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.14-12.58.59:245][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2020.05.14-12.58.59:291][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.14-12.58.59:294][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.14-12.58.59:294][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.14-12.58.59:294][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.14-12.58.59:308][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.14-12.58.59:646][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.14-12.58.59:658][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.14-12.58.59:671][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.14-12.58.59:684][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.14-12.58.59:698][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.14-12.58.59:711][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.14-12.58.59:724][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.14-12.58.59:737][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.14-12.58.59:743][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.14-12.58.59:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.14-12.58.59:825][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.14-12.58.59:880][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.14-12.58.59:880][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.14-12.58.59:905][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.14-12.58.59:905][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.14-12.58.59:917][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.14-12.58.59:930][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.14-12.58.59:942][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.14-12.58.59:956][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.14-12.59.00:001][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.14-12.59.00:001][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.14-12.59.00:001][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.14-12.59.00:018][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.14-12.59.00:088][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../../../课程/Final/Intermediate/Shaders/WorkingDirectory/19548/).
+[2020.05.14-12.59.00:088][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lu/AppData/Local/Temp/UnrealShaderWorkingDir/DE6B70364F54D4C37DBCB1B859B93694/'.
+[2020.05.14-12.59.00:090][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.14-12.59.00:090][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.14-12.59.00:090][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.14-12.59.00:683][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.14-12.59.00:727][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.14-12.59.00:727][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.14-12.59.00:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../课程/Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.14-12.59.00:728][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.14-12.59.00:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../课程/Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-12.59.00:728][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.14-12.59.00:738][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.14-12.59.00:739][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.14-12.59.00:739][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.14-12.59.00:751][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.14-12.59.00:751][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.14-12.59.00:751][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.14-12.59.00:776][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.14-12.59.00:778][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.14-12.59.00:778][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.14-12.59.00:885][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
+[2020.05.14-12.59.01:235][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.14-12.59.01:362][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.14-12.59.01:362][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.14-12.59.01:362][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.14-12.59.01:362][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.14-12.59.01:362][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.14-12.59.01:372][  0]LogNetVersion: FinalGPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1484327005)
+[2020.05.14-12.59.01:732][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036011 seconds
+[2020.05.14-12.59.01:737][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.14-12.59.01:737][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.14-12.59.01:737][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.14-12.59.02:600][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.14-12.59.02:614][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.14-12.59.02:725][  0]SourceControl: Source control is disabled
+[2020.05.14-12.59.02:725][  0]SourceControl: Source control is disabled
+[2020.05.14-12.59.02:726][  0]SourceControl: Source control is disabled
+[2020.05.14-12.59.02:727][  0]SourceControl: Source control is disabled
+[2020.05.14-12.59.02:841][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.14-12.59.02:958][  0]LogOcInput: OculusInput pre-init called
+[2020.05.14-12.59.03:765][  0]LogEngine: Initializing Engine...
+[2020.05.14-12.59.03:766][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.14-12.59.03:767][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.14-12.59.03:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.14-12.59.03:975][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.14-12.59.03:997][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.14-12.59.04:332][  0]LogInit: FAudioDevice initialized.
+[2020.05.14-12.59.04:332][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.14-12.59.04:382][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.14-12.59.04:385][  0]LogInit: Texture streaming: Enabled
+[2020.05.14-12.59.04:402][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.14-12.59.04:418][  0]LogInit: Transaction tracking system initialized
+[2020.05.14-12.59.04:437][  0]BlueprintLog: New page: Editor Load
+[2020.05.14-12.59.04:502][  0]LocalizationService: Localization service is disabled
+[2020.05.14-12.59.04:794][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/' took 0.01s
+[2020.05.14-12.59.04:794][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.14-12.59.04:794][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.14-12.59.04:970][  0]SourceControl: Source control is disabled
+[2020.05.14-12.59.04:970][  0]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-12.59.04:970][  0]LightingResults: New page: Lighting Build
+[2020.05.14-12.59.04:972][  0]MapCheck: New page: Map Check
+[2020.05.14-12.59.04:972][  0]LightingResults: New page: Lighting Build
+[2020.05.14-12.59.04:999][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.05.14-12.59.08:674][  0]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.14-12.59.08:691][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-12.59.08:721][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.05.14-12.59.08:721][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-12.59.08:721][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.273ms to complete.
+[2020.05.14-12.59.08:721][  0]LogFileHelpers: Loading map 'PathFinding' took 3.752
+[2020.05.14-12.59.08:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.59.08:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.59.08:857][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.59.08:862][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.14-12.59.08:868][  0]LogCollectionManager: Loaded 0 collections in 0.001062 seconds
+[2020.05.14-12.59.08:915][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Saved/Collections/' took 0.01s
+[2020.05.14-12.59.08:915][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Developers/Lu/Collections/' took 0.01s
+[2020.05.14-12.59.08:915][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Collections/' took 0.01s
+[2020.05.14-12.59.08:915][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.14-12.59.08:922][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2732 classes and 659 folders.
+[2020.05.14-12.59.08:932][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.14-12.59.08:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:978][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:989][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.08:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.14-12.59.09:144][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.14-12.59.09:153][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.14-12.59.09:237][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.14-12.59.09:241][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.14-12.59.09:245][  0]LogSlate: Took 0.000693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.14-12.59.09:314][  0]LogRenderer: Reallocating scene render targets to support 876x400 Format 9 NumSamples 1 (Frame:1).
+[2020.05.14-12.59.09:555][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.14-12.59.09:555][  0]LogLoad: (Engine Initialization) Total time: 13.42 seconds
+[2020.05.14-12.59.09:555][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.14-12.59.09:622][  0]LogAssetRegistry: Asset discovery search completed in 8.7591 seconds
+[2020.05.14-12.59.09:624][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.14-12.59.09:624][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2020.05.14-12.59.09:625][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.05.14-12.59.10:615][ 41]LogSlate: Took 0.000904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.14-12.59.12:229][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-12.59.12:904][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-12.59.13:756][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.05.14-12.59.13:758][186]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-12.59.13:791][186]LightingResults: New page: Lighting Build
+[2020.05.14-12.59.13:792][186]LoadErrors: New page: Loading map: Test.umap
+[2020.05.14-12.59.13:795][186]MapCheck: New page: Map Check
+[2020.05.14-12.59.13:795][186]LightingResults: New page: Lighting Build
+[2020.05.14-12.59.13:821][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.14-12.59.13:940][186]LogAIModule: Creating AISystem for world Test
+[2020.05.14-12.59.14:035][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-12.59.14:063][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.05.14-12.59.14:083][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-12.59.14:083][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2020.05.14-12.59.14:083][186]LogFileHelpers: Loading map 'Test' took 0.327
+[2020.05.14-12.59.14:083][186]LogSlate: Window 'Open Level' being destroyed
+[2020.05.14-12.59.16:129][308]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2020.05.14-12.59.18:443][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.59.21:534][594]Cmd: TRANSACTION UNDO
+[2020.05.14-12.59.21:534][594]LogEditorTransaction: Undo Move Actors
+[2020.05.14-12.59.22:308][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.59.25:296][814]LogSlate: Took 0.001326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.14-12.59.31:704][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-12.59.31:785][202]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.05.14-12.59.32:038][202]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.14-12.59.32:847][202]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/Obstacles/Bp_Difficult.Bp_Difficult
+[2020.05.14-12.59.33:154][202]LogStaticMesh: Building static mesh DifficultMesh...
+[2020.05.14-12.59.33:170][202]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.05.14-12.59.33:258][202]LogStaticMesh: Built static mesh [0.10s] /Game/Models/Obstacles/DifficultMesh.DifficultMesh
+[2020.05.14-12.59.33:293][202]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/Obstacles/DifficultMesh.DifficultMesh
+[2020.05.14-12.59.33:300][202]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.05.14-12.59.33:662][202]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-12.59.34:315][202]LogRenderer: Reallocating scene render targets to support 1144x708 Format 9 NumSamples 1 (Frame:1).
+[2020.05.14-12.59.36:900][289]LogSlate: Window 'DifficultMesh' being destroyed
+[2020.05.14-12.59.44:383][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-12.59.44:408][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-12.59.44:462][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.05.14-12.59.44:961][737]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test0B3695824A1F3EC05EA8429027B0B3F7.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-12.59.44:983][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-12.59.45:048][737]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData8B1645CA44CF92C261E39D8103304FEF.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-12.59.48:211][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.00.08:198][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.05.14-13.00.08:199][ 88]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-13.00.08:225][ 88]LightingResults: New page: Lighting Build
+[2020.05.14-13.00.08:225][ 88]LoadErrors: New page: Loading map: PathFinding.umap
+[2020.05.14-13.00.08:226][ 88]MapCheck: New page: Map Check
+[2020.05.14-13.00.08:226][ 88]LightingResults: New page: Lighting Build
+[2020.05.14-13.00.08:261][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.14-13.00.08:474][ 88]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.14-13.00.08:600][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-13.00.08:634][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.05.14-13.00.08:655][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-13.00.08:655][ 88]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2020.05.14-13.00.08:656][ 88]LogFileHelpers: Loading map 'PathFinding' took 0.457
+[2020.05.14-13.00.08:656][ 88]LogSlate: Window 'Open Level' being destroyed
+[2020.05.14-13.00.17:782][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.00.18:303][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.00.19:227][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.14-13.00.19:228][549]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.14-13.00.19:259][549]LightingResults: New page: Lighting Build
+[2020.05.14-13.00.19:260][549]LoadErrors: New page: Loading map: Test.umap
+[2020.05.14-13.00.19:261][549]MapCheck: New page: Map Check
+[2020.05.14-13.00.19:261][549]LightingResults: New page: Lighting Build
+[2020.05.14-13.00.19:294][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.14-13.00.19:369][549]LogAIModule: Creating AISystem for world Test
+[2020.05.14-13.00.19:535][549]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.14-13.00.19:571][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.05.14-13.00.19:592][549]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.14-13.00.19:592][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.216ms to complete.
+[2020.05.14-13.00.19:592][549]LogFileHelpers: Loading map 'Test' took 0.364
+[2020.05.14-13.00.19:592][549]LogSlate: Window 'Open Level' being destroyed
+[2020.05.14-13.05.00:992][610]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.14-13.05.00:992][610]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.14-13.05.00:992][610]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.14-13.05.05:016][623]LogHttp: Warning: 0000015194485300: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x151ee14bf70 [can pipeline])
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.210.148) port 443 (#0))
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.05.14-13.05.05:017][623]LogHttp: Warning: 0000015194485300: libcurl info message cache 7 (Closing connection 0)
+[2020.05.14-13.05.05:347][624]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7DF797D9-4C35-FB28-8F8B-FA85DE05EE5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=432b96244c3ac43ba707f19dd6e95172%7C6097d1a53e3343bd84050676641ce1ee%7Cb71c10d3-d72c-424f-965f-7c556af149f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.14-13.05.11:965][625]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (10.973 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.14-13.06.17:728][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.06.17:751][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.06.17:795][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.05.14-13.06.18:238][488]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test854AFACE4D84204AE4FFD8A053B4E6BC.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.06.18:264][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.06.18:350][488]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData29673D76405444BDE874DB9F91C16D2C.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.06.24:037][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.06.24:060][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.06.24:095][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.05.14-13.06.24:428][827]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test185D0C5F4966DA46D2396184C82321F4.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.06.24:448][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.06.24:509][827]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataD8795060474A074CEA57538C017073AA.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.06.24:699][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.06.36:633][541]LogActorFactory: Actor Factory created EasyMesh
+[2020.05.14-13.06.36:633][541]LogActorFactory: Actor Factory created NewDifficultMesh
+[2020.05.14-13.06.36:634][541]LogActorFactory: Actor Factory created NewGroundMesh
+[2020.05.14-13.06.36:634][541]LogActorFactory: Actor Factory created OtherMesh
+[2020.05.14-13.06.39:996][742]LogActorFactory: Actor Factory created EasyMesh
+[2020.05.14-13.06.40:009][742]LogActorFactory: Actor Factory created NewDifficultMesh
+[2020.05.14-13.06.40:022][742]LogActorFactory: Actor Factory created NewGroundMesh
+[2020.05.14-13.06.40:035][742]LogActorFactory: Actor Factory created OtherMesh
+[2020.05.14-13.06.54:010][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.07.14:781][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EasyMesh)
+[2020.05.14-13.07.14:844][788]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ƽ (U+01bd)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.05.14-13.07.14:844][788]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ƽ (U+01bd)'
+[2020.05.14-13.07.14:853][788]LogSlate: Took 0.008515 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.05.14-13.07.15:649][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EasyMesh)
+[2020.05.14-13.07.17:761][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.07.41:319][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.07.47:954][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.07.47:989][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.05.14-13.07.48:332][763]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestE0E57CBB4B14730C6BDB39A6946B56A8.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.07.48:352][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.07.48:415][763]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData673665EF40054FC0A758FB9F0C275E3E.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.07.56:167][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.07.56:189][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.07.56:221][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.14-13.07.56:657][224]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test23B98C9A4D89810D7F43669511D8C588.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.07.56:678][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.07.56:747][224]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData6B55AE0E48DFA6618AD9C1A57C0981FE.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.07.58:376][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.08.14:737][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.08.14:759][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.08.14:800][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.14-13.08.15:143][761]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestF23F474746F7CC7AEBE672ACE250D362.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.08.15:164][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.08.15:229][761]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData037DF22849E8DBD9AA7C8C808A1A927C.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.08.17:011][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.08.17:015][779]LogSlate: Took 0.001033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.14-13.08.42:012][263]BlueprintLog: New page: Compile BP_Grid
+[2020.05.14-13.08.42:158][263]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-13.08.42:389][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.14-13.08.42:393][263]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-13.08.42:457][263]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-13.08.42:539][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-13.08.42:862][263]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid7861251F4280594468B5988A5682FE9A.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-13.08.43:279][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-13.08.43:592][283]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid562BD29F45C2ED9D07E29EB828F68B52.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-13.08.50:942][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.09.07:779][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.09.24:627][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.09.33:275][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.09.44:960][619]Cmd: TRANSACTION UNDO
+[2020.05.14-13.09.44:960][619]LogEditorTransaction: Undo Set Scale
+[2020.05.14-13.09.45:420][626]Cmd: TRANSACTION UNDO
+[2020.05.14-13.09.45:420][626]LogEditorTransaction: Undo Set Scale
+[2020.05.14-13.09.46:020][647]Cmd: TRANSACTION UNDO
+[2020.05.14-13.09.46:020][647]LogEditorTransaction: Undo Set Scale
+[2020.05.14-13.09.52:954][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.10.08:200][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.10.19:969][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.10.20:012][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.10.20:058][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.05.14-13.10.20:326][164]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test3D53D5F043D5C5D3C0CCE8A6A58AC8F7.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.10.20:348][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.10.20:422][164]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData0349F6E34D9F7EB1E03A398ADD6AFA91.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.10.21:164][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.10.28:749][348]Cmd: DELETE
+[2020.05.14-13.10.28:749][348]Cmd: ACTOR DELETE
+[2020.05.14-13.10.28:772][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.14-13.10.28:773][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.14-13.10.28:773][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.14-13.10.28:774][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.14-13.10.28:821][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.05.14-13.10.28:821][348]LogEditorActor: Deleted 4 Actors (0.063 secs)
+[2020.05.14-13.10.29:803][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.10.29:836][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.14-13.10.30:129][371]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDE7CA1F34159AAB6B886F49051533DBF.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.10.30:154][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.10.30:227][371]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataC35248F04A28FA42377790B53B583AD3.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.10.33:477][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.11.03:088][243]LogEditorViewport: Clicking on Actor (LMB): Bp_GroundMesh_C (Bp_GroundMesh)
+[2020.05.14-13.11.04:214][272]LogEditorViewport: Clicking on Actor (LMB): Bp_EasyMesh_C (Bp_EasyMesh)
+[2020.05.14-13.11.07:904][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.11.32:174][984]LogEditorViewport: Clicking on Actor (LMB): Bp_BasicObstacle_C (Bp_BasicObstacle)
+[2020.05.14-13.11.32:749][995]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.14-13.11.33:626][ 15]LogEditorViewport: Clicking on Actor (LMB): Bp_BasicObstacle_C (Bp_BasicObstacle)
+[2020.05.14-13.11.34:113][ 25]LogEditorViewport: Clicking on Actor (LMB): Bp_EasyMesh_C (Bp_EasyMesh)
+[2020.05.14-13.11.34:619][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.11.34:683][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.11.34:992][ 35]LogUObjectHash: Compacting FUObjectHashTables data took  30.67ms
+[2020.05.14-13.11.35:824][ 35]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestD527DDDE4BC5CF520BC98587730C6100.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.11.35:886][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.11.35:992][ 35]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData993509BE43BF716AE2DAD4899F1521A4.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.11.37:961][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.11.47:536][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.12.12:565][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.12.12:663][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.12.13:136][681]LogUObjectHash: Compacting FUObjectHashTables data took  61.76ms
+[2020.05.14-13.12.14:076][681]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test00D47E234C134840CE2E988B9AABDB3B.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.12.14:114][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.12.14:194][681]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataE98858CD47A450C86FE3709D86E2A955.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.12.14:641][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.14-13.12.20:204][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.12.45:994][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.13.06:126][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.13.22:245][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.13.33:798][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.13.38:780][ 50]LogSlate: Took 0.005021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.14-13.14.04:522][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.14.29:631][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.14.50:987][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.14.51:115][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.14.51:593][426]LogUObjectHash: Compacting FUObjectHashTables data took  36.59ms
+[2020.05.14-13.14.52:626][426]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test623C478F4A444F4290BA7C9E5F9C507A.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.14.52:724][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.14.52:805][426]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData26CE47384C5044E3B0690F85811AAB8B.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.14.54:081][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.15.29:313][528]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Add_VectorFloat' [找不到元素。]
+[2020.05.14-13.15.29:424][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-13.15.29:899][531]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid9BADF63C44BB28D328B8E39B9B90FAFB.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-13.15.30:389][558]BlueprintLog: New page: Compile BP_Grid
+[2020.05.14-13.15.30:814][558]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-13.15.31:186][558]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.05.14-13.15.31:234][558]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-13.15.31:484][558]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.14-13.15.31:675][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.14-13.15.32:066][558]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid07B01C0B4111AC559065EDAEBC2CAB1F.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.14-13.15.39:311][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.19.03:004][ 94]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.14-13.19.07:852][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.19.26:880][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.19.27:393][410]LogUObjectHash: Compacting FUObjectHashTables data took  31.54ms
+[2020.05.14-13.19.28:411][410]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestF6D0F23E47CA783D6F4A818716B07E35.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.19.28:509][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.19.28:599][410]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataCB87087A4857B75AB104B59B776B49C2.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.19.29:029][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.19.49:325][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.19.49:372][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.05.14-13.19.49:997][674]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test539AD1DF4DD49526C37C3E98E35D5237.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.19.50:024][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.19.50:111][674]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData5C19C8D748188FA5CBED01B9E42574F9.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.20.12:892][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.20.13:024][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.20.13:068][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.05.14-13.20.13:589][987]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestCF625F894C13DEBA946C8280A74303BB.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.20.13:614][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.20.13:683][987]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData2BB8E7834743E7DADD1BE8B5B71630DA.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.21.01:941][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.21.01:991][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.21.02:051][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.05.14-13.21.02:526][143]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test09ABA4D34A8B8372EFA17CA81DD8E6AC.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.21.02:544][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.21.02:611][143]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData06F9001C41CE348B79221895E96DB3D6.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.21.05:815][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.21.43:106][ 73]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/Obstacles/Bp_Difficult.Bp_Difficult
+[2020.05.14-13.22.16:388][779]BlueprintLog: New page: Compile Bp_Difficult
+[2020.05.14-13.22.17:424][779]LogUObjectHash: Compacting FUObjectHashTables data took  12.88ms
+[2020.05.14-13.22.17:545][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/Obstacles/Bp_Difficult" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/Obstacles/Bp_Difficult.uasset" SILENT=true
+[2020.05.14-13.22.17:715][779]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Bp_DifficultC9F3E8B0436ED73E42ECF095A7E27F75.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/Obstacles/Bp_Difficult.uasset'
+[2020.05.14-13.22.19:035][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/Obstacles/Bp_Difficult" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/Obstacles/Bp_Difficult.uasset" SILENT=true
+[2020.05.14-13.22.19:138][782]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Bp_Difficult16ADD0344FF8352E72B53AA2AC62BEC0.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/Obstacles/Bp_Difficult.uasset'
+[2020.05.14-13.22.23:119][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.22.23:195][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.14-13.22.23:931][822]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test8545B3ED4042D341D314C88BE30385F1.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.22.23:959][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.22.24:065][822]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataB86888C7420756D2D5ADB8932B36CC25.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.22.37:112][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.22.37:162][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.05.14-13.22.37:757][949]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestF7DA26364F1A83395FE2EEB9FCEC2ED4.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.22.37:786][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.22.37:864][949]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataE7FE5F264CF42570AE9D8C9F5677DB1C.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.23.36:234][779]BlueprintLog: New page: Compile Bp_Difficult
+[2020.05.14-13.23.36:428][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.14-13.23.37:360][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/Obstacles/Bp_Difficult" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/Obstacles/Bp_Difficult.uasset" SILENT=true
+[2020.05.14-13.23.37:452][782]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Bp_DifficultD8948456453366D999F7DAB91B460AA1.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/Obstacles/Bp_Difficult.uasset'
+[2020.05.14-13.23.55:143][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.14-13.23.59:732][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.24.08:437][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Obstacles/DifficultMesh" FILE="../../../../../../课程/Final/Content/Models/Obstacles/DifficultMesh.uasset" SILENT=true
+[2020.05.14-13.24.08:697][306]LogSavePackage: Moving '../../../../../../课程/Final/Saved/DifficultMesh15854B7E4334D706FC97869BCAA7DA5E.tmp' to '../../../../../../课程/Final/Content/Models/Obstacles/DifficultMesh.uasset'
+[2020.05.14-13.24.26:287][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.24.34:420][958]LogStaticMesh: Building static mesh DifficultMesh...
+[2020.05.14-13.24.34:420][958]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.14-13.24.34:580][958]LogStaticMesh: Built static mesh [0.16s] /Game/Models/Obstacles/DifficultMesh.DifficultMesh
+[2020.05.14-13.24.34:623][958]LogStaticMesh: Warning: DifficultMesh has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2020.05.14-13.24.34:623][958]LogStaticMesh: Warning: DifficultMesh has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.14-13.24.35:768][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Obstacles/DifficultMesh" FILE="../../../../../../课程/Final/Content/Models/Obstacles/DifficultMesh.uasset" SILENT=true
+[2020.05.14-13.24.35:893][ 19]LogSavePackage: Moving '../../../../../../课程/Final/Saved/DifficultMeshB670FCB240F2B3AABFCF1FBEDC8741F5.tmp' to '../../../../../../课程/Final/Content/Models/Obstacles/DifficultMesh.uasset'
+[2020.05.14-13.26.34:204][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.14-13.26.54:763][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-13.26.54:813][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.05.14-13.26.55:206][852]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test40782E17408FD1CC4E27E08466E95DBD.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.14-13.26.55:229][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.14-13.26.55:307][852]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataDEFFF1B148B9D132FCA1729FE6689598.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.14-13.27.30:090][290]LogEditorViewport: Clicking on Actor (LMB): Bp_Difficult_C (Bp_Difficult)
+[2020.05.14-13.27.57:289][783]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:149 
+ with error E_OUTOFMEMORY
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     60 = 32768 KB (2D 8192x2048 PF_ShadowDepth) WholeSceneShadowmap unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     21 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     91 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(781)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     90 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(781)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     23 = 7910 KB (2D 1144x708 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     22 = 6328 KB (2D 1144x708 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     70 = 6328 KB (2D 1144x708 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     39 = 6328 KB (2D 1144x708 PF_FloatRGBA RT) ScreenSpaceReflections unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     42 = 6328 KB (2D 1144x708 PF_FloatRGBA RT) SeparateTranslucency unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     40 = 6328 KB (2D 1144x708 PF_FloatRGBA RT) SSRTemporalAA
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     43 = 6328 KB (2D 1144x708 PF_FloatRGBA RT) SSRTemporalAA
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     44 = 6328 KB (2D 1144x708 PF_FloatRGBA RT) SSRTemporalAA unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     81 = 3955 KB (2D 1144x708 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     57 = 3164 KB (2D 1144x708 PF_A2B10G10R10 RT) GBufferA unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     55 = 3164 KB (2D 1144x708 PF_B8G8R8A8 RT sRGB) GBufferC unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     56 = 3164 KB (2D 1144x708 PF_B8G8R8A8 RT VRam) GBufferE unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     46 = 3164 KB (2D 1144x708 PF_B8G8R8A8 RT VRam) LightAttenuation unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     53 = 3164 KB (2D 1144x708 PF_B8G8R8A8 RT) EditorPrimitives unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     89 = 3164 KB (2D 1144x708 PF_B8G8R8A8 RT) HitProxy unused(491)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     54 = 3164 KB (2D 1144x708 PF_B8G8R8A8 RT) SelectionComposited unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     61 = 3164 KB (2D 1144x708 PF_FloatRGB RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     38 = 3164 KB (2D 1144x708 PF_FloatRGB RT VRam) BokehDOFRecombine unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     51 = 3164 KB (2D 1144x708 PF_G16R16 RT) Velocity unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     45 = 2048 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     80 = 1978 KB (2D 572x354 PF_DepthStencil) SmallDepthZ
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     69 = 1582 KB (2D 1144x354 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     50 = 1582 KB (2D 572x354 PF_FloatRGBA RT VRam) AmbientOcclusionSetup unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     20 = 1366 KB (2D 1024x512 PF_R16F RT VRam) HZB unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     62 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     63 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     78 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     76 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     73 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     77 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     74 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     72 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     79 = 791 KB (2D 1144x708 PF_G8 RT UAV) ScreenSpaceAO
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     47 = 791 KB (2D 572x354 PF_B8G8R8A8 RT VRam) AmbientOcclusion unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     37 = 791 KB (2D 572x354 PF_FloatRGB RT VRam) BloomBlurY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     88 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     87 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     86 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     85 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereInscatter
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     24 = 396 KB (2D 286x354 PF_FloatRGB RT) BloomBlurX unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     52 = 342 KB (2D 512x256 PF_R16F RT VRam) HZB unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     66 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     68 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     93 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     36 = 198 KB (2D 286x177 PF_FloatRGB RT VRam) BloomBlurY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     82 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     96 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs unused(781) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     92 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     26 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     71 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     25 = 99 KB (2D 143x177 PF_FloatRGB RT) BloomBlurX unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     10 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     65 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     75 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     27 = 51 KB (2D 144x89 PF_FloatRGB RT) BloomBlurY unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     35 = 50 KB (2D 143x89 PF_FloatRGB RT VRam) BloomDownsample2 unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     41 = 32 KB (2D 64x64 PF_A16B16G16R16) SSProfiles
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     18 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     28 = 26 KB (2D 72x89 PF_FloatRGB RT) BloomBlurX unused(1)
+[2020.05.14-13.27.57:295][783]LogConsoleResponse:     17 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     19 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     15 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     34 = 13 KB (2D 72x45 PF_FloatRGB RT VRam) BloomBlurY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     84 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     83 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     16 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     29 = 7 KB (2D 36x45 PF_FloatRGB RT) BloomBlurX unused(1)
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     33 = 4 KB (2D 36x23 PF_FloatRGB RT VRam) BloomBlurY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     30 = 2 KB (2D 18x23 PF_FloatRGB RT) BloomBlurX unused(1)
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     32 = 1 KB (2D 18x12 PF_FloatRGB RT VRam) BloomBlurY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     58 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     59 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     48 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     49 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     95 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     94 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     11 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     67 = 1 KB (2D 1x1 PF_FloatRGBA RT) ReflectionBrightness unused(6709)
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     13 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     64 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     31 = 1 KB (2D 9x12 PF_FloatRGB RT) BloomBlurX unused(1)
+[2020.05.14-13.27.57:296][783]LogConsoleResponse:     14 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.05.14-13.27.57:296][783]LogConsoleResponse: 
+[2020.05.14-13.27.57:296][783]LogConsoleResponse: Pool: 41/214 MB (referenced/allocated)
+[2020.05.14-13.27.57:296][783]Cmd: rhi.DumpMemory
+[2020.05.14-13.27.57:332][783]RHI resource memory (not tracked by our allocator)
+[2020.05.14-13.27.57:332][783]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]         7929860  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]      1567845280  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]          579070  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]       121489182  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]        67174260  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]      1241059697  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]          705184  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]       259572032  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]        19976606  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.05.14-13.27.57:332][783]3136.215MB total
+[2020.05.14-13.27.57:334][783]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.05.14-13.27.57:334][783]FWindowsPlatformMisc::SetStoredValue: ERROR: Could not store value for 'Terminating'. Error Code 1019: 系统无法分配注册表日志中所需空间。
+
+[2020.05.14-13.27.57:341][783]Log file closed, 05/14/20 21:27:57
