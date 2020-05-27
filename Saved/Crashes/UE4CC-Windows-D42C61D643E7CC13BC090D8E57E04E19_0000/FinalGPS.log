@@ -1,0 +1,1539 @@
+﻿Log file open, 05/23/20 23:41:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalGPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.463882
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Sika_R -epicuserid=6097d1a53e3343bd84050676641ce1ee -epiclocale=zh-CN
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.05.23-15.41.38:538][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.23-15.41.38:539][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.23-15.41.38:539][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.23-15.41.38:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.23-15.41.38:540][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.23-15.41.38:543][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.23-15.41.38:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.23-15.41.38:544][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.23-15.41.38:544][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.23-15.41.38:544][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.23-15.41.38:556][  0]LogHAL: Display: Platform has ~ 16 GB [16893935616 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.23-15.41.38:556][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/课程/Final/Saved/Config/Windows/Scalability.ini]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.05.23-15.41.38:556][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.23-15.41.38:558][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.23-15.41.38:558][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.23-15.41.38:558][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/课程/Final/Saved/Config/Windows/Engine.ini]
+[2020.05.23-15.41.38:558][  0]LogInit: Computer: DESKTOP-7D0H28H
+[2020.05.23-15.41.38:558][  0]LogInit: User: Lu
+[2020.05.23-15.41.38:558][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.23-15.41.38:558][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.23-15.41.38:558][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2020.05.23-15.41.38:558][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.23-15.41.38:558][  0]LogMemory: Process Physical Memory: 98.98 MB used, 98.99 MB peak
+[2020.05.23-15.41.38:558][  0]LogMemory: Process Virtual Memory: 93.71 MB used, 93.71 MB peak
+[2020.05.23-15.41.38:558][  0]LogMemory: Physical Memory: 9036.04 MB used,  7075.28 MB free, 16111.31 MB total
+[2020.05.23-15.41.38:558][  0]LogMemory: Virtual Memory: 4664.23 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.23-15.41.38:608][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.23-15.41.38:608][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.23-15.41.38:876][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.23-15.41.38:973][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.23-15.41.38:973][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.23-15.41.39:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.23-15.41.39:272][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.23-15.41.39:360][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.05.23-15.41.39:360][  0]LogD3D11RHI:       3964/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.23-15.41.39:407][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.23-15.41.39:407][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.23-15.41.39:410][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.23-15.41.39:410][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.23-15.41.39:410][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.23-15.41.39:426][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.23-15.41.39:426][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.23-15.41.39:426][  0]LogWindows: EnumDisplayDevices:
+[2020.05.23-15.41.39:426][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.23-15.41.39:426][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.23-15.41.39:427][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.23-15.41.39:427][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.23-15.41.39:427][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.05.23-15.41.39:427][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.23-15.41.39:427][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.23-15.41.39:427][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2020.05.23-15.41.39:495][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.23-15.41.39:499][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.23-15.41.39:499][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.23-15.41.39:499][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.23-15.41.39:513][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.23-15.41.39:964][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.23-15.41.39:983][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.23-15.41.40:006][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.23-15.41.40:025][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.23-15.41.40:043][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.23-15.41.40:062][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.23-15.41.40:083][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.23-15.41.40:103][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.23-15.41.40:111][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.23-15.41.40:217][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.23-15.41.40:223][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.23-15.41.40:281][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.23-15.41.40:281][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.23-15.41.40:314][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.23-15.41.40:315][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.23-15.41.40:332][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.23-15.41.40:348][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.23-15.41.40:365][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.23-15.41.40:392][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.23-15.41.40:456][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.23-15.41.40:456][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.23-15.41.40:457][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.23-15.41.40:466][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.23-15.41.40:553][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../../../课程/Final/Intermediate/Shaders/WorkingDirectory/14056/).
+[2020.05.23-15.41.40:553][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lu/AppData/Local/Temp/UnrealShaderWorkingDir/A7830F52402A8D2B5C61D1AE5402E6D1/'.
+[2020.05.23-15.41.40:557][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.23-15.41.40:557][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.23-15.41.40:557][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.23-15.41.41:293][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.23-15.41.41:377][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.23-15.41.41:378][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.23-15.41.41:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../课程/Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.23-15.41.41:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.23-15.41.41:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../课程/Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.23-15.41.41:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.23-15.41.41:395][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.23-15.41.41:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.23-15.41.41:395][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.23-15.41.41:406][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.23-15.41.41:406][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.23-15.41.41:406][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.23-15.41.41:435][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.23-15.41.41:437][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.23-15.41.41:439][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.23-15.41.41:561][  0]LogAssetRegistry: FAssetRegistry took 0.0400 seconds to start up
+[2020.05.23-15.41.42:166][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.23-15.41.42:362][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.23-15.41.42:362][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.23-15.41.42:362][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.23-15.41.42:362][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.23-15.41.42:362][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.23-15.41.42:383][  0]LogNetVersion: FinalGPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1484327005)
+[2020.05.23-15.41.42:918][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.053678 seconds
+[2020.05.23-15.41.42:928][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.23-15.41.42:928][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.23-15.41.42:928][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.23-15.41.44:318][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.23-15.41.44:335][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.23-15.41.44:477][  0]SourceControl: Source control is disabled
+[2020.05.23-15.41.44:477][  0]SourceControl: Source control is disabled
+[2020.05.23-15.41.44:479][  0]SourceControl: Source control is disabled
+[2020.05.23-15.41.44:481][  0]SourceControl: Source control is disabled
+[2020.05.23-15.41.44:691][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.23-15.41.44:897][  0]LogOcInput: OculusInput pre-init called
+[2020.05.23-15.41.46:230][  0]LogEngine: Initializing Engine...
+[2020.05.23-15.41.46:233][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.23-15.41.46:236][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.05.23-15.41.46:595][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.23-15.41.46:613][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.23-15.41.46:650][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.23-15.41.46:779][  0]LogInit: FAudioDevice initialized.
+[2020.05.23-15.41.46:779][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.23-15.41.46:868][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Lu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.23-15.41.46:879][  0]LogInit: Texture streaming: Enabled
+[2020.05.23-15.41.46:918][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.23-15.41.46:954][  0]LogInit: Transaction tracking system initialized
+[2020.05.23-15.41.46:991][  0]BlueprintLog: New page: Editor Load
+[2020.05.23-15.41.47:133][  0]LocalizationService: Localization service is disabled
+[2020.05.23-15.41.47:726][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/' took 0.02s
+[2020.05.23-15.41.47:726][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.23-15.41.47:726][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.23-15.41.48:096][  0]SourceControl: Source control is disabled
+[2020.05.23-15.41.48:097][  0]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.23-15.41.48:097][  0]LightingResults: New page: Lighting Build
+[2020.05.23-15.41.48:101][  0]MapCheck: New page: Map Check
+[2020.05.23-15.41.48:101][  0]LightingResults: New page: Lighting Build
+[2020.05.23-15.41.48:139][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.05.23-15.41.52:001][  0]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.23-15.41.52:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.23-15.41.52:078][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.05.23-15.41.52:078][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.23-15.41.52:078][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.337ms to complete.
+[2020.05.23-15.41.52:078][  0]LogFileHelpers: Loading map 'PathFinding' took 3.982
+[2020.05.23-15.41.52:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-15.41.52:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-15.41.52:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-15.41.52:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-15.41.52:273][  0]LogCollectionManager: Loaded 0 collections in 0.002102 seconds
+[2020.05.23-15.41.52:318][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Saved/Collections/' took 0.01s
+[2020.05.23-15.41.52:318][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Developers/Lu/Collections/' took 0.01s
+[2020.05.23-15.41.52:318][  0]LogFileCache: Scanning file cache for directory 'C:/课程/Final/Content/Collections/' took 0.01s
+[2020.05.23-15.41.52:318][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.23-15.41.52:330][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2732 classes and 659 folders.
+[2020.05.23-15.41.52:338][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.23-15.41.52:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.23-15.41.52:445][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.23-15.41.52:454][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.05.23-15.41.52:561][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.23-15.41.52:566][  0]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.23-15.41.52:573][  0]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.23-15.41.52:663][  0]LogRenderer: Reallocating scene render targets to support 828x400 Format 9 NumSamples 1 (Frame:1).
+[2020.05.23-15.41.53:124][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.23-15.41.53:124][  0]LogLoad: (Engine Initialization) Total time: 17.84 seconds
+[2020.05.23-15.41.53:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.23-15.41.53:213][  0]LogAssetRegistry: Asset discovery search completed in 11.6742 seconds
+[2020.05.23-15.41.53:216][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.05.23-15.41.53:216][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2020.05.23-15.41.53:217][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.05.23-15.41.53:482][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/课程/Final/Content/' took 0.31s
+[2020.05.23-15.41.53:835][  2]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.05.23-15.41.53:837][  2]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.23-15.41.53:837][  2]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2020.05.23-15.41.56:835][ 12]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2020.05.23-15.43.34:056][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.43.36:752][ 53]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.23-15.43.36:764][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.05.23-15.43.37:025][ 53]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.23-15.43.37:789][ 53]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-15.43.37:794][ 53]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.23-15.43.38:000][ 54]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.23-15.43.44:034][389]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Controller/BP_Unit.BP_Unit
+[2020.05.23-15.43.47:799][570]LogRenderer: Reallocating scene render targets to support 932x432 Format 9 NumSamples 1 (Frame:1).
+[2020.05.23-15.43.50:622][734]LogRenderer: Reallocating scene render targets to support 932x488 Format 9 NumSamples 1 (Frame:79).
+[2020.05.23-15.43.55:193][999]LogSlate: Took 0.002088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.23-15.44.36:186][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.44.55:456][400]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.05.23-15.45.05:454][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.45.08:589][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.45.40:178][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.46.33:699][200]BlueprintLog: New page: Compile BP_Unit
+[2020.05.23-15.46.34:041][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.05.23-15.46.34:048][200]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-15.46.34:070][200]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-15.46.35:199][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.46.35:322][261]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitDA89B8934C9FA6748711C0A6B8B8BD16.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.46.42:782][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.47.54:354][963]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.23-15.47.56:037][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.48.04:471][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.48.16:617][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.48.16:648][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.48.16:755][284]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit873890574261AA0D85D0949005B95731.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.48.17:688][338]BlueprintLog: New page: Compile BP_Unit
+[2020.05.23-15.48.17:964][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.05.23-15.48.17:971][338]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-15.48.17:985][338]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-15.48.18:402][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.48.18:518][359]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit7A87FFD14FF28DF2DD8CEA9DE0AC272A.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.48.27:242][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.05.23-15.48.29:482][796]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-15.48.29:518][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-15.48.29:553][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.05.23-15.48.29:908][796]LogSavePackage: Moving '../../../../../../课程/Final/Saved/PathFinding6304250C42BC74C103295FA0794D3B14.tmp' to '../../../../../../课程/Final/Content/Maps/PathFinding.umap'
+[2020.05.23-15.48.29:933][796]LogFileHelpers: Saving map 'PathFinding' took 0.416
+[2020.05.23-15.48.29:939][796]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.23-15.48.29:959][796]LightingResults: New page: Lighting Build
+[2020.05.23-15.48.29:960][796]LoadErrors: New page: Loading map: Test.umap
+[2020.05.23-15.48.29:963][796]MapCheck: New page: Map Check
+[2020.05.23-15.48.29:963][796]LightingResults: New page: Lighting Build
+[2020.05.23-15.48.30:000][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.05.23-15.48.31:268][796]LogAIModule: Creating AISystem for world Test
+[2020.05.23-15.48.31:805][796]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.23-15.48.31:847][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.23-15.48.31:875][796]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.23-15.48.31:875][796]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2020.05.23-15.48.31:875][796]LogFileHelpers: Loading map 'Test' took 1.936
+[2020.05.23-15.48.31:875][796]LogSlate: Window 'Open Level' being destroyed
+[2020.05.23-15.48.32:173][796]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.23-15.48.48:691][404]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.23-15.48.48:716][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-15.48.48:716][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.23-15.48.48:716][404]PIE: New page: PIE session: Test (May 24, 2020, 7:48:48 AM)
+[2020.05.23-15.48.48:730][404]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.23-15.48.49:685][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.954344s)
+[2020.05.23-15.48.49:685][404]LogAIModule: Creating AISystem for world Test
+[2020.05.23-15.48.49:685][404]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2020.05.23-15.48.49:685][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.955872s)
+[2020.05.23-15.48.49:723][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.05.23-15.48.49:734][404]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.23-15.48.49:827][404]LogInit: FAudioDevice initialized.
+[2020.05.23-15.48.49:873][404]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.23-15.48.49:876][404]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.23-23.48.49
+[2020.05.23-15.48.49:876][404]LogWorld: Bringing up level for play took: 0.001914
+[2020.05.23-15.48.49:890][404]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.05.23-15.48.49:892][404]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.05.23-15.48.49:892][404]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.23-15.48.54:833][404]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 6.866
+[2020.05.23-15.48.54:834][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-15.48.59:928][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.48.59:947][487]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoBold.RobotoBold', Character: '号 (U+53f7)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.05.23-15.49.00:690][521]LogBlueprintUserMessages: [StartMenu_C_0] X=31.000 Y=92.000
+[2020.05.23-15.49.01:746][567]LogBlueprintUserMessages: [StartMenu_C_0] X=15.000 Y=59.000
+[2020.05.23-15.49.02:439][592]LogBlueprintUserMessages: [StartMenu_C_0] X=31.000 Y=92.000
+[2020.05.23-15.49.02:439][592]LogBlueprintUserMessages: [StartMenu_C_0] X=15.000 Y=59.000
+[2020.05.23-15.49.02:623][592]LogBlueprintUserMessages: [BP_Unit_6] Deselected
+[2020.05.23-15.49.15:795][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-15.49.15:796][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-15.49.16:048][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.23-15.49.16:048][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-15.49.16:170][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-15.49.16:751][189]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2020.05.23-15.49.16:806][190]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.23-15.49.34:802][252]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.23-15.49.43:457][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.49.43:492][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.49.43:610][755]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitF39EE92F4FF683759399B8868997E4E0.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.49.45:417][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.49.59:865][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.49.59:892][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.50.00:009][722]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit5553F20B426DB4CE3517CAB8988AFF26.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.50.01:577][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.50.01:609][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.50.01:718][814]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit639FDB244CCF8674AC24C195F963B8B0.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.50.05:559][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.50.10:970][358]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.23-15.50.53:754][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.50.53:782][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.50.53:892][899]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitC23BD50149BF3ECFE16FAEB73F63C20F.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.50.58:802][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.50.58:834][190]BlueprintLog: New page: Compile BP_Unit
+[2020.05.23-15.50.59:185][190]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2020.05.23-15.50.59:190][190]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-15.50.59:670][190]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-15.51.00:654][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.51.00:767][216]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit796403CC4F3E6C8B82415F998A684B74.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.51.03:194][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.51.19:225][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-15.51.19:270][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.05.23-15.51.20:172][ 99]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test0A3623BB433EE1690B7EF689015BB509.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-15.51.20:197][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-15.51.20:239][ 99]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataDF5B26AE450843F294E8B1821FE92691.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-15.52.34:563][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.52.34:710][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-15.52.34:835][722]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitADC61739495D21481398F1BE6AC34F7D.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-15.52.36:995][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.55.28:794][450]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.23-15.55.35:762][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-15.55.35:771][864]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue8BDB2611425C815BD8EAB5B09F1612F8.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-15.55.36:245][891]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StartMenu/TestDialogue.TestDialogue
+[2020.05.23-15.57.34:761][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.57.38:608][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.57.49:371][847]LogMaterial: Display: Missing cached shader map for material M_DemoWall, compiling. 
+[2020.05.23-15.57.49:486][847]LogStaticMesh: Building static mesh SM_Base_FlatWall...
+[2020.05.23-15.57.49:505][847]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.05.23-15.57.49:511][847]LogStaticMesh: Built static mesh [0.03s] /Game/DemoRoom/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2020.05.23-15.58.14:451][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.58.14:516][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-15.58.14:579][737]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueEE2452F74590B319254F0899F7BF2025.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-15.58.25:867][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.58.45:990][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.58.59:887][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.58.59:964][795]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-15.59.00:362][795]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2020.05.23-15.59.00:726][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-15.59.00:815][808]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueB482C98C41C8871A9F6752A8AC597C7B.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-15.59.02:306][850]LogSlate: Window 'TestDialogue' being destroyed
+[2020.05.23-15.59.08:852][235]Cmd: DELETE
+[2020.05.23-15.59.08:852][235]Cmd: ACTOR DELETE
+[2020.05.23-15.59.08:879][235]LogEditorActor: Deleted Actor: TestDialogue_C
+[2020.05.23-15.59.08:943][235]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.05.23-15.59.08:943][235]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2020.05.23-15.59.09:917][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.59.27:313][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-15.59.48:118][512]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.23-15.59.54:310][877]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-15.59.54:355][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-15.59.54:405][877]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue1036B455460AEF6A5D5802964310C09C.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-15.59.54:758][897]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-15.59.55:014][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.05.23-15.59.55:343][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-15.59.55:394][912]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue7DC6FE3744321C8C7E45FF8B1E3F87BD.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.00.04:129][416]Cmd: DELETE
+[2020.05.23-16.00.04:129][416]Cmd: ACTOR DELETE
+[2020.05.23-16.00.04:138][416]LogEditorActor: Deleted Actor: TestDialogue_C
+[2020.05.23-16.00.04:188][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.05.23-16.00.04:189][416]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.05.23-16.00.04:944][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.00.04:992][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.00.05:043][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.05.23-16.00.05:991][461]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test475964F44E9B886EC38B7CAA6445F46E.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.00.06:016][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.00.06:059][461]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData17F169814C3AF059F10918B9F3D09851.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.00.11:617][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.00.14:960][986]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.00.15:242][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.05.23-16.00.15:447][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.00.15:503][994]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue37F8A2684134D189B55FEFBAE0916F27.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.00.15:662][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.00.15:709][  1]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue1DABDE9641BD76D45ACF0296D377D201.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.00.21:518][340]Cmd: DELETE
+[2020.05.23-16.00.21:518][340]Cmd: ACTOR DELETE
+[2020.05.23-16.00.21:529][340]LogEditorActor: Deleted Actor: TestDialogue_C
+[2020.05.23-16.00.21:584][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.05.23-16.00.21:585][340]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2020.05.23-16.00.22:588][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.00.26:073][608]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.00.26:334][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.05.23-16.00.26:549][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.00.26:606][616]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueEF712C554E0974577D1482B49463003E.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.00.28:276][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.00.37:672][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.00.37:737][252]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue2A4DFDAC444D22497A2564B3E4AB494E.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.00.46:668][772]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.23-16.00.47:739][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.00.54:698][245]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.00.55:003][245]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.05.23-16.01.02:689][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.01.27:236][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.01.29:550][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.01.38:866][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.01.38:920][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.01.38:989][814]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueD4C257DB462A94A23593DB952AF16926.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.01.42:933][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.01.46:062][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.01.49:196][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.01.57:189][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.02.04:612][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.02.10:979][692]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.23-16.02.19:195][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.02.40:660][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.02.45:185][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.02.45:257][706]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueD58BAFBC4D5E645240A8DBA0C7954F10.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.02.49:915][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.02.54:920][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.02.55:795][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.03.00:806][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.03.11:678][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.03.40:908][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.03.40:980][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.03.41:079][888]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue68A3A0DD40F8CBDBE557948E2E93A19D.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.03.43:181][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-16.03.43:439][992]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit27FF1C7C41DE75F2926CB582CC3798F3.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-16.03.48:922][256]LogAssetEditorManager: Opening Asset editor for Material /Game/Resources/Materials/M_ArcEndpoint.M_ArcEndpoint
+[2020.05.23-16.03.48:929][256]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.23-16.03.49:445][256]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.03.49:452][256]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.03.49:460][256]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.23-16.03.49:497][256]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.23-16.03.49:533][256]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.03.49:563][256]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.03.49:571][256]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.03.51:027][311]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.03.52:850][355]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.23-16.03.54:716][406]LogAssetEditorManager: Opening Asset editor for MaterialParameterCollection /Game/Resources/Materials/TeleportMCP.TeleportMCP
+[2020.05.23-16.03.54:939][407]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.23-16.03.57:705][534]LogAssetEditorManager: Opening Asset editor for MaterialParameterCollection /Game/Resources/Materials/TeleportMCP_end.TeleportMCP_end
+[2020.05.23-16.03.57:776][534]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.23-16.04.01:274][702]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.05.23-16.04.01:274][702]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2020.05.23-16.04.01:274][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2020.05.23-16.04.01:274][702]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.05.23-16.04.01:274][702]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.23-16.04.01:274][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.23-16.04.02:845][796]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.04.16:486][610]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.04.17:683][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/TeleportMCP" FILE="../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset" SILENT=true
+[2020.05.23-16.04.17:726][680]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TeleportMCP3D929AB54699BD470A57DA978880F0F1.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset'
+[2020.05.23-16.04.27:426][253]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.04.28:273][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/TeleportMCP" FILE="../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset" SILENT=true
+[2020.05.23-16.04.28:312][302]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TeleportMCP25F99B164F3A8ACDBB3AF59827F2588F.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset'
+[2020.05.23-16.04.39:632][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.04.46:453][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.04.55:102][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.04.55:141][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.04.55:194][844]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueDDDEE37E4DFE0BF7757A9EAC5C09068D.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.04.55:903][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.04.55:970][887]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.04.56:292][887]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.05.23-16.04.56:701][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.04.56:760][907]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue7E88EE9B421966817B66EDADC885BC56.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.05.10:308][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.05.20:915][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.05.28:194][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.05.29:392][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.05.29:674][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.05.29:781][791]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue18F9D4184D3AB4F17D2E34AE5C0391D4.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.05.30:096][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.05.30:179][810]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.05.30:751][810]LogUObjectHash: Compacting FUObjectHashTables data took   9.36ms
+[2020.05.23-16.05.31:092][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.05.31:207][819]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue6AE1D552478034836C02F49B0356F69E.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.05.31:507][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.08.31:279][577]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.09.21:866][871]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.09.22:634][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.09.31:943][469]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.09.37:365][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.09.37:406][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.05.23-16.09.38:292][792]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test71977E66453EBB6DF546D1A026CEC3B6.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.09.38:321][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.09.38:359][792]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData2A869B404C9175DA737C34BDEA5DEB0F.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.09.54:263][730]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.09.56:758][878]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.23-16.10.04:677][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.10.13:767][878]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.10.16:299][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.10.17:781][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.11.10:369][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.11.25:770][424]LogEditorViewport: Clicking on Actor (LMB): Bp_Basic_C (Bp_Water1)
+[2020.05.23-16.11.26:104][442]LogEditorViewport: Clicking on Actor (LMB): Bp_GroundMesh_C (Bp_GroundMesh)
+[2020.05.23-16.11.26:416][459]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.11.34:339][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.11.44:406][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.11.44:455][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.11.44:533][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.05.23-16.11.45:600][516]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test3A84374A4AB66EB56BBE829CB0C95EBD.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.11.45:628][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.11.45:676][516]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData0553B5FB45BA23D9484EE394AD10075A.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.11.55:143][ 72]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.11.55:432][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.05.23-16.11.55:898][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.11.55:959][ 94]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueB26BFD9647DADA4C5617A29D4D66C69B.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.11.56:226][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.12.05:352][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.12.26:139][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.12.26:189][873]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.12.26:475][873]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.05.23-16.12.26:710][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.12.26:766][883]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogueF8EBB3B34A79E61E0AD1CCAFA8E61F11.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.12.27:094][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.12.32:929][249]LogEditorViewport: Clicking on Actor (context menu): Bp_EasyMesh_C (Bp_EasyMesh)
+[2020.05.23-16.12.32:975][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.12.33:307][260]LogEditorViewport: Clicking on Actor (LMB): TestDialogue_C (TestDialogue)
+[2020.05.23-16.12.36:067][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.12.54:525][ 40]LogSlate: Took 0.001470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.23-16.12.58:142][254]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.12.58:411][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.05.23-16.13.12:589][ 90]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.13.12:591][ 90]LogBlueprint: Error: [Compiler TestDialogue] The current value of the ' Value ' pin is invalid: 'Value' in action 'Set Text' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.23-16.13.12:817][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.05.23-16.13.12:823][ 90]LogBlueprint: Warning: [Compiler TestDialogue] [1897.54] Compile of TestDialogue failed. 1 Fatal Issue(s) 0 Warning(s) [in 233 ms] (/Game/StartMenu/TestDialogue.TestDialogue)
+[2020.05.23-16.13.13:137][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.13.13:185][106]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue97ABE1F94A3B23992B05A6B729620331.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.13.16:657][312]BlueprintLog: New page: Compile TestDialogue
+[2020.05.23-16.13.16:877][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.23-16.13.17:228][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/TestDialogue" FILE="../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset" SILENT=true
+[2020.05.23-16.13.17:279][330]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestDialogue6D7A7A9C4AEF3EA16B024B9B41BA708C.tmp' to '../../../../../../课程/Final/Content/StartMenu/TestDialogue.uasset'
+[2020.05.23-16.13.20:435][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.13.24:071][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.13.24:126][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.05.23-16.13.25:065][726]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestC8D86B6348E68D40EF9DC7827D058B65.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.13.25:089][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.13.25:129][726]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataDBB6E94046A7676478E4A88442409361.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.13.37:037][420]LogEditorViewport: Clicking on Actor (LMB): TestDialogue_C (TestDialogue)
+[2020.05.23-16.13.37:887][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.13.37:970][474]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.23-16.13.37:991][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.13.37:991][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.23-16.13.37:991][474]PIE: New page: PIE session: Test (May 24, 2020, 8:13:37 AM)
+[2020.05.23-16.13.37:992][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.23-16.13.39:206][474]LogPlayLevel: PIE: StaticDuplicateObject took: (1.214468s)
+[2020.05.23-16.13.39:207][474]LogAIModule: Creating AISystem for world Test
+[2020.05.23-16.13.39:207][474]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2020.05.23-16.13.39:207][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (1.215357s)
+[2020.05.23-16.13.39:258][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.05.23-16.13.39:271][474]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.23-16.13.39:372][474]LogInit: FAudioDevice initialized.
+[2020.05.23-16.13.39:399][474]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.23-16.13.39:402][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.24-00.13.39
+[2020.05.23-16.13.39:403][474]LogWorld: Bringing up level for play took: 0.002186
+[2020.05.23-16.13.45:183][474]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 7.216
+[2020.05.23-16.13.45:185][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.13.49:908][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.13.51:618][601]LogBlueprintUserMessages: [StartMenu_C_0] X=62.000 Y=82.000
+[2020.05.23-16.13.53:493][681]LogBlueprintUserMessages: [StartMenu_C_0] X=28.000 Y=64.000
+[2020.05.23-16.13.54:005][702]LogBlueprintUserMessages: [StartMenu_C_0] X=62.000 Y=82.000
+[2020.05.23-16.13.54:005][702]LogBlueprintUserMessages: [StartMenu_C_0] X=28.000 Y=64.000
+[2020.05.23-16.13.54:775][702]LogBlueprintUserMessages: [BP_Unit_6] Deselected
+[2020.05.23-16.14.08:546][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.14.09:507][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.14.09:508][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-16.14.09:780][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.23-16.14.09:780][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.14.09:896][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-16.14.10:401][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.05.23-16.14.10:415][369]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.23-16.14.16:882][715]LogEditorViewport: Clicking on Actor (LMB): TestDialogue_C (TestDialogue)
+[2020.05.23-16.14.19:091][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.14.19:113][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.14.19:157][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.05.23-16.14.20:079][839]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestD4B86BC24A6379003A9E7F89EA49827C.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.14.20:104][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.14.20:146][839]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataFC3005C64E8E4B2B35958EB5310F97B9.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.14.22:004][948]LogEditorViewport: Clicking on Actor (LMB): Bp_GroundMesh_C (Bp_GroundMesh)
+[2020.05.23-16.14.22:182][957]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2020.05.23-16.14.22:244][957]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ƽ (U+01bd)'
+[2020.05.23-16.14.22:248][957]LogSlate: Took 0.002105 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.05.23-16.14.22:773][987]LogEditorViewport: Clicking on Actor (LMB): TestDialogue_C (TestDialogue)
+[2020.05.23-16.14.24:623][ 96]Cmd: DELETE
+[2020.05.23-16.14.24:623][ 96]Cmd: ACTOR DELETE
+[2020.05.23-16.14.24:631][ 96]LogEditorActor: Deleted Actor: TestDialogue_C
+[2020.05.23-16.14.24:680][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.05.23-16.14.24:680][ 96]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.05.23-16.14.25:414][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.14.25:436][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.14.25:480][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.05.23-16.14.26:353][140]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestAAF97A504303830BB4FDE6A8631401D7.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.14.26:376][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.14.26:415][140]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData4BDD64CF4D6994B9441A7E8E2F3DE033.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.14.52:699][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.14.52:754][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.14.52:811][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.05.23-16.14.53:869][712]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test8372694141A0BA393F7AA7B6A1C78D94.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.14.53:901][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.14.53:949][712]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataDF94E55940F330DA278A01BBC597796C.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.16.02:714][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.16.04:222][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.16.04:283][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.05.23-16.16.05:337][912]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestEF0CFEFE405FAB06B77302A9BCA5A145.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.16.05:367][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.16.05:416][912]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData331DAA6F4BCB27F77349D18AC373074B.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.16.06:156][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.16.08:609][ 89]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.16.16:787][565]BlueprintLog: New page: Compile BP_Grid
+[2020.05.23-16.16.17:963][565]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.16.18:687][565]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.23-16.16.18:692][565]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.16.19:217][565]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.16.19:764][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.23-16.16.20:316][565]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridDADD6E8B4B7D327ADE3A8F87B3B294D2.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.23-16.16.38:865][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.23-16.16.39:457][645]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid584A4D8746DBCFEA23F098B4E71943A7.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.23-16.16.40:258][691]BlueprintLog: New page: Compile BP_Grid
+[2020.05.23-16.16.41:466][691]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.16.42:191][691]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.05.23-16.16.42:197][691]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.16.42:692][691]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.16.43:592][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.23-16.16.44:072][713]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Grid8F4AD36C47DDC7EE75C8ADAE7073D78F.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.23-16.16.45:853][759]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.23-16.16.45:889][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.16.45:889][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.23-16.16.45:889][759]PIE: New page: PIE session: Test (May 24, 2020, 8:16:45 AM)
+[2020.05.23-16.16.45:889][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.23-16.16.47:355][759]LogPlayLevel: PIE: StaticDuplicateObject took: (1.465805s)
+[2020.05.23-16.16.47:356][759]LogAIModule: Creating AISystem for world Test
+[2020.05.23-16.16.47:356][759]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2020.05.23-16.16.47:356][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (1.466880s)
+[2020.05.23-16.16.47:420][759]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.05.23-16.16.47:434][759]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.23-16.16.47:551][759]LogInit: FAudioDevice initialized.
+[2020.05.23-16.16.47:582][759]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.23-16.16.47:586][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.24-00.16.47
+[2020.05.23-16.16.47:586][759]LogWorld: Bringing up level for play took: 0.002245
+[2020.05.23-16.16.53:308][759]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 7.341
+[2020.05.23-16.16.53:310][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.16.59:385][816]LogBlueprintUserMessages: [StartMenu_C_0] X=28.000 Y=107.000
+[2020.05.23-16.17.00:379][856]LogBlueprintUserMessages: [StartMenu_C_0] X=28.000 Y=64.000
+[2020.05.23-16.17.01:178][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.17.01:225][891]LogBlueprintUserMessages: [StartMenu_C_0] X=28.000 Y=107.000
+[2020.05.23-16.17.01:225][891]LogBlueprintUserMessages: [StartMenu_C_0] X=28.000 Y=64.000
+[2020.05.23-16.17.01:381][891]LogBlueprintUserMessages: [BP_Unit_6] Deselected
+[2020.05.23-16.17.17:223][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.17.22:439][885]LogEditorViewport: Clicking on Actor (LMB): BP_Ground_C (BP_Ground2)
+[2020.05.23-16.17.23:263][920]LogEditorViewport: Clicking on Actor (LMB): Bp_GroundMesh_C (Bp_GroundMesh)
+[2020.05.23-16.17.23:882][949]LogEditorViewport: Clicking on Actor (LMB): Bp_GroundMesh_C (Bp_GroundMesh)
+[2020.05.23-16.17.24:244][963]LogEditorViewport: Clicking on Actor (LMB): BP_Ground_C (BP_Ground2)
+[2020.05.23-16.17.25:137][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.17.25:221][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.17.25:222][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-16.17.25:506][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.23-16.17.25:506][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.17.25:647][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-16.17.26:203][  7]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.05.23-16.17.26:741][  8]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.23-16.17.33:223][295]BlueprintLog: New page: Compile BP_Grid
+[2020.05.23-16.17.34:230][295]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.17.34:864][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.05.23-16.17.34:869][295]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.17.35:290][295]LogScript: Warning: Script Msg: Divide by zero: Divide_Vector2DFloat
+[2020.05.23-16.17.36:837][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.05.23-16.17.37:222][360]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_GridB54F18AF4CAF5449B18C1BA403B54895.tmp' to '../../../../../../课程/Final/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.05.23-16.17.39:186][412]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.23-16.17.39:217][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.17.39:217][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.23-16.17.39:218][412]PIE: New page: PIE session: Test (May 24, 2020, 8:17:39 AM)
+[2020.05.23-16.17.39:218][412]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2020.05.23-16.17.40:206][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.988380s)
+[2020.05.23-16.17.40:207][412]LogAIModule: Creating AISystem for world Test
+[2020.05.23-16.17.40:207][412]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2020.05.23-16.17.40:207][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.989051s)
+[2020.05.23-16.17.40:257][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.05.23-16.17.40:268][412]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.23-16.17.40:366][412]LogInit: FAudioDevice initialized.
+[2020.05.23-16.17.40:397][412]LogLoad: Game class is 'BP_GameMode_C'
+[2020.05.23-16.17.40:400][412]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2020.05.24-00.17.40
+[2020.05.23-16.17.40:400][412]LogWorld: Bringing up level for play took: 0.002007
+[2020.05.23-16.17.45:155][412]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 5.188
+[2020.05.23-16.17.45:156][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.17.49:207][452]LogBlueprintUserMessages: [StartMenu_C_0] X=24.000 Y=94.000
+[2020.05.23-16.17.49:825][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.17.50:106][487]LogBlueprintUserMessages: [StartMenu_C_0] X=25.000 Y=86.000
+[2020.05.23-16.17.50:593][508]LogBlueprintUserMessages: [StartMenu_C_0] X=24.000 Y=94.000
+[2020.05.23-16.17.50:594][508]LogBlueprintUserMessages: [StartMenu_C_0] X=25.000 Y=86.000
+[2020.05.23-16.17.50:667][508]LogBlueprintUserMessages: [BP_Unit_6] Deselected
+[2020.05.23-16.18.07:717][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.18.07:718][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-16.18.07:980][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.23-16.18.07:980][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Maps/Test.Test:PersistentLevel.Test'
+[2020.05.23-16.18.08:105][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-16.18.08:619][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.05.23-16.18.09:114][251]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.23-16.18.18:406][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.18.18:456][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.18.18:502][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.05.23-16.18.19:490][571]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test0E3FA73E4E9D3B069D2C1A9717BF01A5.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.18.19:520][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.18.19:566][571]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltDataDA9DC89342150938F3A06D9D7BE24720.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.26.56:448][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.27.06:586][789]LogEditorViewport: Clicking on Actor (LMB): BP_Ground_C (BP_Ground3)
+[2020.05.23-16.27.15:079][290]LogEditorViewport: Clicking on Actor (LMB): Bp_GroundMesh_C (Bp_GroundMesh)
+[2020.05.23-16.27.15:751][328]LogEditorViewport: Clicking on Actor (LMB): Bp_GroundMesh_C (Bp_GroundMesh)
+[2020.05.23-16.27.17:006][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.27.29:999][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.27.30:956][231]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.27.39:762][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.27.39:784][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.27.39:824][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.05.23-16.27.40:640][746]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestF2935BAA41EAB93B44E8768AF6228F47.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.27.40:663][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.27.40:700][746]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData80C0C4514FE3A7D94EAED287B437BC79.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.28.14:685][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.28.14:707][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.28.14:747][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.23-16.28.15:574][774]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test39A13D2D49297C38525C1CA5BBEA78A1.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.28.15:597][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.28.15:634][774]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData888FEA354D82E3AD75232F8F7688175C.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.31.05:929][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.31.05:997][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.05.23-16.31.07:067][961]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TestC8C69E574F2682E0128E05A3C9AB38A3.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.31.07:097][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.31.07:145][961]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData09B3455E477E150B4BF8AFAAEB9D03CF.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.31.08:003][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.31.08:061][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.05.23-16.31.09:153][  6]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test1B78B35B4C8843D22D0EAEBD09DEB703.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.31.09:183][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.31.09:231][  6]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData57A6BD304094BE5F2C41DF878D9363C1.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.31.10:138][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../课程/Final/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.31.10:198][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.05.23-16.31.11:262][ 54]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test1E512ACB452CD8959146188FC1EBEE1C.tmp' to '../../../../../../课程/Final/Content/Maps/Test.umap'
+[2020.05.23-16.31.11:292][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2020.05.23-16.31.11:339][ 54]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Test_BuiltData2C12A9984709835E3C4B13B92F3A9BCF.tmp' to '../../../../../../课程/Final/Content/Maps/Test_BuiltData.uasset'
+[2020.05.23-16.31.13:813][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.05.23-16.31.14:846][170]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-16.31.14:854][170]LogSlate: Window 'Open Level' being destroyed
+[2020.05.23-16.31.17:205][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.05.23-16.31.18:818][291]LogSlate: Window 'Save Content' being destroyed
+[2020.05.23-16.31.18:857][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathFinding" FILE="../../../../../../课程/Final/Content/Maps/PathFinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.31.18:930][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.05.23-16.31.19:418][291]LogSavePackage: Moving '../../../../../../课程/Final/Saved/PathFindingEFFC6E3F496C2368064FC6B135168256.tmp' to '../../../../../../课程/Final/Content/Maps/PathFinding.umap'
+[2020.05.23-16.31.19:437][291]LogFileHelpers: Saving map 'PathFinding' took 0.581
+[2020.05.23-16.31.19:449][291]Cmd: MAP LOAD FILE="../../../../../../课程/Final/Content/Maps/StartMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.23-16.31.19:480][291]LightingResults: New page: Lighting Build
+[2020.05.23-16.31.19:481][291]LoadErrors: New page: Loading map: StartMenu.umap
+[2020.05.23-16.31.19:483][291]MapCheck: New page: Map Check
+[2020.05.23-16.31.19:483][291]LightingResults: New page: Lighting Build
+[2020.05.23-16.31.19:547][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.23-16.31.19:610][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.05.23-16.31.19:671][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.05.23-16.31.19:782][291]LogAIModule: Creating AISystem for world StartMenu
+[2020.05.23-16.31.19:996][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.23-16.31.20:065][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.05.23-16.31.20:106][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.23-16.31.20:107][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.417ms to complete.
+[2020.05.23-16.31.20:107][291]LogFileHelpers: Loading map 'StartMenu' took 0.662
+[2020.05.23-16.31.20:107][291]LogSlate: Window 'Open Level' being destroyed
+[2020.05.23-16.31.20:491][291]LogAIModule: Creating AISystem for world PathFinding
+[2020.05.23-16.31.25:397][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.31.26:741][630]LogActorFactory: Actor Factory created BeaconDirection
+[2020.05.23-16.31.27:520][676]LogActorFactory: Actor Factory created BeaconDirection
+[2020.05.23-16.31.34:112][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.31.37:570][234]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.31.41:929][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.31.41:956][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="../../../../../../课程/Final/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.31.42:019][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.05.23-16.31.42:356][483]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenuE6A49331471501A4FBB70B8720325E15.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu.umap'
+[2020.05.23-16.31.42:389][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset" SILENT=true
+[2020.05.23-16.31.42:450][483]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu_BuiltDataCB0D10C94D7FC0737E96B8A0507E6FA7.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset'
+[2020.05.23-16.31.44:662][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.31.44:811][606]LogActorFactory: Actor Factory created Cylinder
+[2020.05.23-16.31.47:314][755]LogActorFactory: Actor Factory created Cylinder
+[2020.05.23-16.32.24:717][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.32.26:560][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.32.32:117][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.32.39:330][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.32.42:835][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.32.47:210][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.32.49:872][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.32.51:285][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.32.56:274][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.32.57:233][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.32.58:202][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.33.00:152][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.00:439][955]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.05:849][267]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.06:309][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.10:058][513]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.10:708][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.13:504][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.33.13:528][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="../../../../../../课程/Final/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.33.13:590][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.05.23-16.33.13:915][710]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu39D1C72142D10C82DF18729CB7DEAB45.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu.umap'
+[2020.05.23-16.33.13:945][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset" SILENT=true
+[2020.05.23-16.33.13:993][710]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu_BuiltData190E99C6450900B4B7C643AE611437C7.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset'
+[2020.05.23-16.33.16:963][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.19:515][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.19:778][ 41]Cmd: TRANSACTION UNDO
+[2020.05.23-16.33.19:778][ 41]LogEditorTransaction: Undo Scale Actors
+[2020.05.23-16.33.19:791][ 41]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.23-16.33.19:836][ 41]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.33.19:836][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.33.19:844][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.33.20:956][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.21:270][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.21:606][ 97]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.22:131][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.22:582][119]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.23-16.33.24:982][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.25:161][200]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.23-16.33.25:666][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.27:192][255]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.23-16.33.28:120][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.33.30:412][351]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.05.23-16.33.30:412][351]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2020.05.23-16.33.30:412][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2020.05.23-16.33.30:412][351]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.05.23-16.33.30:412][351]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.23-16.33.30:412][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.23-16.33.40:271][910]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.40:782][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.33.40:811][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="../../../../../../课程/Final/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.33.40:872][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.05.23-16.33.41:233][938]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu85826D764ADA23EA0CA6AEBC9C908CEE.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu.umap'
+[2020.05.23-16.33.41:265][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset" SILENT=true
+[2020.05.23-16.33.41:317][938]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu_BuiltDataEB30D72C4C8C88A667C89CACE7F32AE3.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset'
+[2020.05.23-16.33.52:762][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.33.52:929][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.23-16.33.53:955][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BeaconDirection)
+[2020.05.23-16.33.54:225][676]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.33.55:263][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BeaconDirection)
+[2020.05.23-16.33.56:137][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.56:732][817]Cmd: TRANSACTION UNDO
+[2020.05.23-16.33.56:732][817]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.23-16.33.56:768][817]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.23-16.33.56:837][817]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.33.56:853][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.33.56:865][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.33.57:573][839]Cmd: TRANSACTION UNDO
+[2020.05.23-16.33.57:573][839]LogEditorTransaction: Undo Move Actors
+[2020.05.23-16.33.57:597][839]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.23-16.33.57:722][839]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.33.57:743][839]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.33.58:258][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.33.58:647][865]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.33.58:689][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.34.00:996][938]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.23-16.34.01:741][964]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.03:753][ 30]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.23-16.34.06:591][124]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.23-16.34.08:187][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.34.10:179][233]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.05.23-16.34.10:179][233]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2020.05.23-16.34.10:179][233]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2020.05.23-16.34.10:180][233]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.05.23-16.34.10:180][233]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.23-16.34.10:180][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.23-16.34.13:786][431]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.14:400][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.34.16:016][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.34.19:020][730]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.19:926][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.34.20:771][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.34.23:863][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.29:546][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.34.30:544][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.34.33:055][515]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.34:143][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.34.34:508][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.36:189][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.34.36:216][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="../../../../../../课程/Final/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.34.36:271][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.05.23-16.34.36:599][693]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenuDBDEC3FC44962F8D1A8F7AB98F81860C.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu.umap'
+[2020.05.23-16.34.36:628][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset" SILENT=true
+[2020.05.23-16.34.36:677][693]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu_BuiltData3D3DFF6546D3D1D89492C1A15432F38E.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset'
+[2020.05.23-16.34.38:507][794]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.38:543][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.34.39:071][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.34.40:784][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.34.40:938][925]LogActorFactory: Actor Factory created Cylinder
+[2020.05.23-16.34.41:869][979]LogActorFactory: Actor Factory created Cylinder
+[2020.05.23-16.35.15:939][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2020.05.23-16.35.18:428][952]Cmd: DELETE
+[2020.05.23-16.35.18:428][952]Cmd: ACTOR DELETE
+[2020.05.23-16.35.18:430][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.23-16.35.18:486][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.05.23-16.35.18:487][952]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.05.23-16.35.18:871][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.35.19:803][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.35.21:210][ 94]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.35.24:823][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.35.24:850][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="../../../../../../课程/Final/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.35.24:903][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.05.23-16.35.25:189][307]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu7009DB744A8445BF9C60D7BB5DA524BE.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu.umap'
+[2020.05.23-16.35.25:216][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset" SILENT=true
+[2020.05.23-16.35.25:260][307]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu_BuiltDataD811CB3C40E890218DBD1AA2FD83540A.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset'
+[2020.05.23-16.35.25:579][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BeaconDirection)
+[2020.05.23-16.35.25:999][347]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.35.27:177][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.35.40:048][534]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.05.23-16.35.40:088][534]LogStaticMesh: Building static mesh Target...
+[2020.05.23-16.35.40:095][534]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Target.Target
+[2020.05.23-16.35.40:097][534]LogStaticMesh: Warning: Target has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.05.23-16.35.40:098][534]LogStaticMesh: Warning: Target has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.23-16.35.40:875][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="../../../../../../课程/Final/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.23-16.35.40:918][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.05.23-16.35.41:149][569]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu4CE610EE45F230AF1EB4B2BB6072F2B9.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu.umap'
+[2020.05.23-16.35.41:171][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu_BuiltData" FILE="../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset" SILENT=true
+[2020.05.23-16.35.41:207][569]LogSavePackage: Moving '../../../../../../课程/Final/Saved/StartMenu_BuiltData07974E2D412CBF104751D1B87A32BE39.tmp' to '../../../../../../课程/Final/Content/Maps/StartMenu_BuiltData.uasset'
+[2020.05.23-16.35.56:147][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Meshes/Target" FILE="../../../../../../课程/Final/Content/Resources/Meshes/Target.uasset" SILENT=true
+[2020.05.23-16.35.56:165][440]LogSavePackage: Moving '../../../../../../课程/Final/Saved/Target33B9FC9446FE1C0EA6FBC7A6F8D28EB1.tmp' to '../../../../../../课程/Final/Content/Resources/Meshes/Target.uasset'
+[2020.05.23-16.35.56:403][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.23-16.35.56:459][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.05.23-16.35.56:508][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.23-16.35.59:339][601]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Resources/Meshes/Target.Target
+[2020.05.23-16.35.59:478][601]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.05.23-16.36.00:067][602]LogRenderer: Reallocating scene render targets to support 1144x704 Format 9 NumSamples 1 (Frame:1).
+[2020.05.23-16.36.02:680][752]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/ExampleContent/MaterialInstances/Materials/M_Arrows_Red.M_Arrows_RED
+[2020.05.23-16.36.08:542][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.36.09:889][143]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2020.05.23-16.36.09:904][143]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.23-16.36.10:344][143]TextureStreamingBuild: Display: Compiling optional shaders took 0.455 seconds.
+[2020.05.23-16.36.10:443][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.05.23-16.36.10:506][143]LogSavePackage: Moving '../../../../../../课程/Final/Saved/M_Arrows_RedDD00D15F440C1491702AF6A6E68E782C.tmp' to '../../../../../../课程/Final/Content/ExampleContent/MaterialInstances/Materials/M_Arrows_Red.uasset'
+[2020.05.23-16.36.11:551][202]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.36.13:413][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.23-16.36.14:269][352]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.36.21:817][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.36.34:818][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.36.38:643][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.36.39:808][850]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.36.53:438][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.23-16.36.53:507][664]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.05.23-16.36.54:730][664]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.23-16.37.49:993][331]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.23-16.37.50:005][331]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.23-16.37.51:277][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.38.03:162][104]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.04:199][141]LogAssetEditorManager: Opening Asset editor for Material /Game/Resources/Materials/M_ArcEndpointRed.M_ArcEndpointRed
+[2020.05.23-16.38.04:209][141]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.04:441][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.38.04:455][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.38.04:473][141]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.04:539][141]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.04:631][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.38.04:644][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.38.05:417][157]LogMaterialEditor: Saving and Compiling material M_ArcEndpointRed
+[2020.05.23-16.38.18:672][157]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.38.18:672][157]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.23-16.38.18:673][157]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.23-16.38.18:673][157]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.23-16.38.18:726][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/M_ArcEndpointRed" FILE="../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointRed.uasset" SILENT=true
+[2020.05.23-16.38.18:746][157]LogSavePackage: Moving '../../../../../../课程/Final/Saved/M_ArcEndpointRed09C912314ECCBE79132D8AB8CA1693BD.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointRed.uasset'
+[2020.05.23-16.38.18:794][157]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.05.23-16.38.18:794][157]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2020.05.23-16.38.18:794][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2020.05.23-16.38.18:794][157]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.05.23-16.38.18:794][157]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.23-16.38.18:794][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.23-16.38.38:212][316]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.38.39:093][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/TeleportMCP_end" FILE="../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP_end.uasset" SILENT=true
+[2020.05.23-16.38.39:130][367]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TeleportMCP_endC44329364C01267B427E8DB3041F1093.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP_end.uasset'
+[2020.05.23-16.38.40:300][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.23-16.38.44:277][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.23-16.38.48:311][900]Cmd: TRANSACTION UNDO
+[2020.05.23-16.38.48:311][900]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.23-16.38.48:315][900]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.23-16.38.48:356][900]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.38.48:371][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.38.48:377][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.38.48:597][900]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.48:652][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.38.48:665][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.38.49:258][921]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.05.23-16.38.51:610][995]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.05.23-16.38.53:058][ 42]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.53:122][ 42]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.23-16.38.53:136][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.23-16.38.53:150][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2020.05.23-16.38.53:193][ 42]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.53:432][ 48]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.05.23-16.38.53:763][ 60]LogMaterialEditor: Saving and Compiling material M_ArcEndpointRed
+[2020.05.23-16.38.55:172][ 60]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.05.23-16.38.55:204][ 60]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.55:569][ 60]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.55:691][ 60]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.23-16.38.55:710][ 60]LogMaterial: Display: Missing cached shader map for material M_ArcEndpointRed, compiling. 
+[2020.05.23-16.38.56:157][ 60]LogUObjectHash: Compacting FUObjectHashTables data took  16.72ms
+[2020.05.23-16.38.56:182][ 60]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.23-16.39.02:189][ 60]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.05.23-16.39.02:189][ 60]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.05.23-16.39.02:190][ 60]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.05.23-16.39.02:212][ 60]TextureStreamingBuild: Display: Compiling optional shaders took 6.055 seconds.
+[2020.05.23-16.39.02:454][ 60]LogUObjectHash: Compacting FUObjectHashTables data took  16.65ms
+[2020.05.23-16.39.13:868][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/M_ArcEndpointRed" FILE="../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointRed.uasset" SILENT=true
+[2020.05.23-16.39.13:936][ 60]LogSavePackage: Moving '../../../../../../课程/Final/Saved/M_ArcEndpointRed55D8D8AB4AF22536CFAED68147EE51D2.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointRed.uasset'
+[2020.05.23-16.39.13:990][ 60]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Base pass shader: 90 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 111 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.23-16.39.13:991][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.23-16.39.36:962][397]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.39.37:954][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/TeleportMCP" FILE="../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset" SILENT=true
+[2020.05.23-16.39.37:986][455]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TeleportMCPB12265794FC267D6FB69FBA855688EC7.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset'
+[2020.05.23-16.39.57:571][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/M_ArcEndpointBlue" FILE="../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointBlue.uasset" SILENT=true
+[2020.05.23-16.39.57:595][443]LogSavePackage: Moving '../../../../../../课程/Final/Saved/M_ArcEndpointBlueCB138FBB4BD01D2C5E32E8972C074F76.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointBlue.uasset'
+[2020.05.23-16.39.57:903][443]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.05.23-16.39.57:971][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.05.23-16.39.58:026][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.05.23-16.39.58:515][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/M_ArcEndpointBlue" FILE="../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointBlue.uasset" SILENT=true
+[2020.05.23-16.39.58:581][463]LogSavePackage: Moving '../../../../../../课程/Final/Saved/M_ArcEndpointBlueBF50911846E1ECBCBC9C1789C0BD9BB2.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointBlue.uasset'
+[2020.05.23-16.40.02:867][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/M_ArcEndpointRed" FILE="../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointRed.uasset" SILENT=true
+[2020.05.23-16.40.02:890][695]LogSavePackage: Moving '../../../../../../课程/Final/Saved/M_ArcEndpointRedA1177F3C4BD66824ED01BA89162BB574.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpointRed.uasset'
+[2020.05.23-16.40.03:185][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.05.23-16.40.03:250][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.05.23-16.40.03:308][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.05.23-16.40.03:356][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Meshes/BeaconDirection" FILE="../../../../../../课程/Final/Content/Resources/Meshes/BeaconDirection.uasset" SILENT=true
+[2020.05.23-16.40.03:422][695]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BeaconDirection0B5D993B48DA007CCDB4459085A30738.tmp' to '../../../../../../课程/Final/Content/Resources/Meshes/BeaconDirection.uasset'
+[2020.05.23-16.40.03:445][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-16.40.03:611][695]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_UnitA9C2AD8E42DC15F4EBF4C29E0CE4F662.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-16.40.19:135][583]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.40.20:284][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/TeleportMCP" FILE="../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset" SILENT=true
+[2020.05.23-16.40.20:327][650]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TeleportMCP1FB5DD9D42BC4B18D258AAA821C3D643.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP.uasset'
+[2020.05.23-16.40.25:746][968]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.23-16.40.26:726][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/TeleportMCP_end" FILE="../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP_end.uasset" SILENT=true
+[2020.05.23-16.40.26:767][ 25]LogSavePackage: Moving '../../../../../../课程/Final/Saved/TeleportMCP_end58CEDDE2473C947CC1376786A1C27008.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/TeleportMCP_end.uasset'
+[2020.05.23-16.40.41:822][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Materials/M_ArcEndpoint" FILE="../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpoint.uasset" SILENT=true
+[2020.05.23-16.40.41:841][843]LogSavePackage: Moving '../../../../../../课程/Final/Saved/M_ArcEndpoint084AC0984202D92A0C92CEB4FA6173B3.tmp' to '../../../../../../课程/Final/Content/Resources/Materials/M_ArcEndpoint.uasset'
+[2020.05.23-16.40.42:141][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.23-16.40.42:204][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.05.23-16.40.42:259][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.05.23-16.40.42:291][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Meshes/BeaconDirection" FILE="../../../../../../课程/Final/Content/Resources/Meshes/BeaconDirection.uasset" SILENT=true
+[2020.05.23-16.40.42:345][843]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BeaconDirectionD3F0761E4F632D293E689BAC51E7030F.tmp' to '../../../../../../课程/Final/Content/Resources/Meshes/BeaconDirection.uasset'
+[2020.05.23-16.40.42:367][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_Unit" FILE="../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset" SILENT=true
+[2020.05.23-16.40.42:530][843]LogSavePackage: Moving '../../../../../../课程/Final/Saved/BP_Unit4598770442334140A83618A8342929E7.tmp' to '../../../../../../课程/Final/Content/Blueprints/Controller/BP_Unit.uasset'
+[2020.05.23-16.40.45:877][ 31]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.23-16.40.47:208][ 31]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.330 s
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: 
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: Found circular redirect from /Game/Resources/Materials/M_ArcEndpoint.M_ArcEndpoint to /Game/Resources/Materials/M_ArcEndpointRed.M_ArcEndpointRed! Returning None instead
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: Stack: 
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff66402690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff660d4d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff660a686f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff38f1ad31 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff38f0b0f4 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff38ecab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff38f1a9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff330a2fde UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff33106f11 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff3314dda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff33080e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff33063d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65d7b61a UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65d4ee59 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65dac69d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65dad93d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65ce00bd UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65b31e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65b98dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fff65b8f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffb4b3b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffb4b2ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffb4b3d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffb4b2c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffc9015c0d USER32.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffc9015602 USER32.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffb4b3e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff6a2395d3e UE4Editor.exe!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff6a23a554c UE4Editor.exe!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff6a23a55ca UE4Editor.exe!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff6a23b316c UE4Editor.exe!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff6a23b5b8e UE4Editor.exe!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffc8737bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: [Callstack] 0x00007fffc92ece51 ntdll.dll!UnknownFunction []
+[2020.05.23-16.40.47:208][ 31]LogOutputDevice: Error: 
+[2020.05.23-16.40.47:217][ 31]LogStats:                SubmitErrorReport -  0.000 s
